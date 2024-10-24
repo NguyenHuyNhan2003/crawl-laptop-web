@@ -25,11 +25,21 @@ def save_product_links_to_csv(product_link_list, brand_name):
     csv_file = f"./brand_product_links/{brand_name}_link.csv"
     
     with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
+        writer = csv.DictWriter(file, fieldnames=[
+            'actual_price',
+            'discount_price',
+            'product_link'
+        ])
+        
+        writer.writeheader()
         
         # write each product link into the CSV
         for link in product_link_list:
-            writer.writerow([link])
+            writer.writerow({
+                'actual_price': link['actual_price'],
+                'discount_price': link['discount_price'],
+                'product_link': link['product_link']
+            })
             
     print(f"Data saved to {csv_file}")
     
@@ -83,7 +93,11 @@ def read_brand_links_from_csv():
     csv_file = 'brands.csv'
     brand_list = []
     with open(csv_file, mode='r', encoding='utf-8') as file:
-        reader = csv.DictReader(file)
+        reader = csv.reader(file)
+        
+        # skip the header
+        next(reader)
+                
         for row in reader:
             brand_list.append({
                 'brand_name': row['brand_name'],
@@ -108,8 +122,18 @@ def read_product_links_from_csv():
             with open(csv_file_path, mode='r', newline='', encoding='utf-8') as file:
                 reader = csv.reader(file)
                 
+                # skip the header
+                next(reader)
+                
                 # get all links in the file
-                file_links = [row[0] for row in reader if row]  # get the first column (link) of each row
-                product_links.append({brand_name: file_links})
+                file_info = [
+                    {
+                        'actual_price': row[0],
+                        'discount_price': row[1],
+                        'product_link': row[2]
+                    }
+                    for row in reader if row
+                ]
+                product_links.append({brand_name: file_info})
                 
     return product_links
