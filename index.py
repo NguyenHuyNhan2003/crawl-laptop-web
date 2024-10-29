@@ -5,7 +5,9 @@ import random
 import requests
 from time import sleep
 
-from csv_function import save_brands_to_csv, save_product_links_to_csv, read_brand_links_from_csv, read_product_links_from_csv, save_product_info_to_csv
+from csv_function import save_brands_to_csv, save_product_links_to_csv, save_product_info_to_csv
+from csv_function import read_brand_links_from_csv, read_product_links_from_csv
+from csv_function import update_csv_with_product_links, update_product_info_csv
 from crawler import crawl_brands, crawl_brand_product_links, crawl_product_info
 from crawler import initDriverProfile
 from crawler import random_sleep
@@ -33,6 +35,9 @@ def get_brand_product_links(driver):
         
         # save products to CSV
         save_product_links_to_csv(product_link_list, brand_name)
+        
+        # update_csv_with_product_links(product_link_list, brand_name)
+        
         random_sleep()
         
     print(f"Got a total of {total} products")
@@ -48,11 +53,13 @@ def process_product_link(driver, brand_name, links):
         product_info['actual_price'] = link['actual_price']
         product_info['discount_price'] = link['discount_price']
         product_info['product_general_img_link'] = link['product_general_img_link']
+        
         product_info_list.append(product_info)
         
         random_sleep()
         
     save_product_info_to_csv(product_info_list, brand_name)
+    # update_product_info_csv(product_info_list, brand_name)
 
 def process_each_brand_links(driver, product_link):
     for brand_name, links in product_link.items():
