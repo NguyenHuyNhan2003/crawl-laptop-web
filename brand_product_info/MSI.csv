@@ -1,4 +1,4 @@
-product_name,actual_price,discount_price,description,processor,ram,storage,graphic_card,display_size,battery,resolution,ports,operating_system,image_link,product_link
+product_name,actual_price,discount_price,description,processor,ram,storage,graphic_card,display_size,battery,resolution,ports,weight,operating_system,image_link,product_link,product_general_img_link
 Laptop MSI Modern 15 B12MO i5 1235U/16GB/512GB/Win11 (628VN),14.990.000₫,12.490.000₫,"Title: Thiết kế sang trọng, hiệu năng mạnh mẽ và nhiều tiện ích hiện đại là những gì được gói gọn trong chiếc laptop MSI Modern 15 B12MO i5 1235U (628VN). Đây chính xác là một mẫu laptop học tập - văn phòng sẽ thỏa mãn mọi yêu cầu làm việc, giải trí hàng ngày, phù hợp với sinh viên hay nhân viên văn phòng.
 Detail: • Laptop sử dụng chip Intel Core i5 1235U có xung nhịp tối đa lên đến 4.4 GHz hỗ trợ bạn làm việc mượt mà với các tác vụ trên Microsoft Office, Outlook,... soạn thảo văn bản, thực hiện các bảng tính phức tạp, chạy code và đồ họa đơn giản đều không thành vấn đề.
 Detail: • Card đồ họa tích hợp Intel Iris Xe Graphics trên laptop MSI nâng cao khả năng xử lý đồ họa, cho phép bạn chỉnh sửa hình ảnh, render video cơ bản, xem phim 4K và chiến thoải mái nhiều tựa game nhẹ đến trung bình như League of Legends, Valorant,...
@@ -21,7 +21,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 HDMI
 2 x USB 2.0
-1 x USB Type-C (chỉ hỗ trợ Power Delivery)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/311016/Slider/msi-modern-15-b12mo-i5-628vn-slider-1-1020x570-1.jpg và
+1 x USB Type-C (chỉ hỗ trợ Power Delivery)",1.7 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/311016/Slider/msi-modern-15-b12mo-i5-628vn-slider-1-1020x570-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311016/msi-modern-15-b12mo-i5-628vn-1-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311016/msi-modern-15-b12mo-i5-628vn-2-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311016/msi-modern-15-b12mo-i5-628vn-3-1-750x500.jpg và
@@ -39,7 +39,7 @@ https://cdn.tgdd.vn/Products/Images/44/311016/msi-modern-15-b12mo-i5-628vn-14-75
 https://cdn.tgdd.vn/Products/Images/44/311016/msi-modern-15-b12mo-i5-628vn-15-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311016/msi-modern-15-b12mo-i5-628vn-30-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311016/Kit/msi-modern-15-b12mo-i5-628vn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i5-628vn
+",https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i5-628vn,https://cdn.tgdd.vn/Products/Images/44/311016/msi-modern-15-b12mo-i5-628vn-thumb-1-600x600.jpg
 Laptop MSI Gaming GF63 Thin 12VE i5 12450H/16GB/512GB/6GB RTX4050/144Hz/Win11 (460VN),22.990.000₫,18.990.000₫,"Title: Laptop gaming ""quốc dân"" đã quá quen thuộc với anh em học sinh, sinh viên bởi mức giá thành hợp lý cùng khả năng đa nhiệm được nhiều công việc khác nhau. Laptop MSI Gaming GF63 Thin 12VE i5 12450H (460VN) nay càng được cải tiến thêm về cấu hình hứa hẹn sẽ mang lại những phút giây chiến game thật thoả mãn cho bạn.
 Detail: • Laptop MSI không chỉ gây ấn tượng mạnh mẽ với hiệu năng vượt trội mà còn nổi bật bởi thiết kế thẩm mỹ và cá tính. Logo MSI được khắc tinh tế trên nắp lưng, kết hợp với các đường nét sắc sảo, tạo nên một diện mạo hiện đại và độc đáo, không chỉ làm hài lòng các game thủ mà còn phù hợp với người dùng văn phòng và sinh viên cần mang máy đến nhiều nơi khác nhau.
 Detail: • Bên cạnh vẻ ngoài, MSI Gaming GF63 Thin còn trang bị các hệ thống thiết kế hợp lý để đảm bảo cho trải nghiệm của game thủ. Đèn bàn phím đơn sắc không chỉ giúp bạn dễ dàng nhìn thấy trong điều kiện thiếu sáng mà còn tạo nên phong cách cá tính và tiện lợi. Các phím có kích cỡ phù hợp, độ nảy tốt nên cho cảm giác gõ thuận tay, thoải mái trong thời gian dài.
@@ -70,7 +70,7 @@ Jack tai nghe 3.5 mm
 1x Mic-in
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326861/Slider/vi-vn-msi-gf63-thin-12ve-i5-460vn-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.86 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326861/Slider/vi-vn-msi-gf63-thin-12ve-i5-460vn-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326861/msi-gf63-thin-12ve-i5-460vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326861/msi-gf63-thin-12ve-i5-460vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326861/msi-gf63-thin-12ve-i5-460vn-3-750x500.jpg và
@@ -87,7 +87,7 @@ https://cdn.tgdd.vn/Products/Images/44/326861/msi-gf63-thin-12ve-i5-460vn-13-750
 https://cdn.tgdd.vn/Products/Images/44/326861/msi-gf63-thin-12ve-i5-460vn-14-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326861/460vn-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326861/Kit/msi-gf63-thin-12ve-i5-460vn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-gf63-thin-12ve-i5-460vn
+",https://www.thegioididong.com/laptop/msi-gf63-thin-12ve-i5-460vn,https://cdn.tgdd.vn/Products/Images/44/326861/msi-gf63-thin-12ve-i5-460vn-150624-020653-600x600.png
 Laptop MSI Gaming Thin 15 B12UCX i5 12450H/16GB/512GB/4GB RTX2050/144Hz/Balo/Win11 (2046VN),18.990.000₫,16.490.000₫,"Title: Sự kết hợp hoàn hảo giữa bộ vi xử lý Intel Gen 12 mạnh mẽ và card đồ họa NVIDIA 20 series tiên tiến biến laptop MSI Gaming Thin 15 B12UCX i5 12450H (2046VN) thành cỗ máy chiến game và sáng tạo nội dung đích thực, đáp ứng mọi nhu cầu sử dụng của người dùng. 
 Detail: • Laptop MSI Gaming Thin được trang bị bộ vi xử lý Intel Core i5 12450H với 8 nhân, 12 luồng cung cấp tốc độ xử lý ấn tượng giúp bạn hoàn thành mọi tác vụ một cách nhanh chóng và hiệu quả, dù là những công việc đòi hỏi khả năng tính toán cao hay những tựa game AAA nặng đô.
 Detail: • Card đồ họa NVIDIA GeForce RTX 2050 với bộ nhớ 4 GB cho bạn tận hưởng hình ảnh, đồ hoạ nét, mượt mà trong game và các ứng dụng đồ họa, đồng thời chiến mượt mọi tựa game yêu thích.
@@ -115,7 +115,7 @@ Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
 1x Headphone-out
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326124/Slider/vi-vn-msi-thin-15-b12ucx-i5-2046vn-sliders-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.86 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326124/Slider/vi-vn-msi-thin-15-b12ucx-i5-2046vn-sliders-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326124/msi-thin-15-b12ucx-i5-2046vn-glr-1-638610495520002466-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326124/msi-thin-15-b12ucx-i5-2046vn-glr-2-638610495525646964-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326124/msi-thin-15-b12ucx-i5-2046vn-glr-3-638610495531833053-750x500.jpg và
@@ -128,7 +128,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326124/msi-thin-15-b12u
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326124/msi-thin-15-b12ucx-i5-2046vn-glr-10-638610495573161699-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326124/msi-thin-15-b12ucx-i5-2046vn-glr-11-638610495579356560-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326124/msi-thin-15-b12ucx-i5-2046vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-thin-15-b12ucx-i5-2046vn
+",https://www.thegioididong.com/laptop/msi-thin-15-b12ucx-i5-2046vn,https://cdn.tgdd.vn/Products/Images/44/326124/msi-thin-15-b12ucx-i5-2046vn-thumb-600x600.jpg
 Laptop MSI Gaming Thin 15 B12UC i5 12450H/16GB/512GB/4GB RTX3050/144Hz/Balo/Win11 (2045VN),20.990.000₫,17.490.000₫,"Title: Laptop MSI Gaming Thin 15 B12UC i5 12450H (2045VN) không chỉ là một trợ thủ đắc lực cùng bạn trên nhiều chiến trường ảo mà còn hỗ trợ được đa dạng các công việc thường ngày từ thiết kế thông dụng đến đồ hoạ cao với bộ đôi CPU Intel dòng H và card rời RTX 30 Series. Tham khảo ngay laptop với mức giá vô cùng lý tưởng tại Thế Giới Di Động.
 Detail: • Hiệu năng mạnh mẽ từ CPU Intel Core i5 12450H gồm 8 nhân và 12 luồng, vi xử lý này cung cấp tốc độ xử lý ấn tượng, giúp bạn hoàn thành công việc nhanh chóng từ những file Excel, Power BI với hàng triệu dòng dữ liệu,... Giải trí hấp dẫn trên Đấu Trường Chân Lý hay căng não với chiến thuật trên sân cỏ FO4.
 Detail: • Khả năng dựng hình cao trên card rời NVIDIA GeForce RTX 3050 4 GB giúp cải thiện chất lượng hình ảnh trong game, tạo ra những khung cảnh sống động và chân thực nhất, đồng thời cũng nâng cao khả năng chỉnh sửa hình ảnh và đồ hoạ lên đáng kể.
@@ -156,7 +156,7 @@ Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ DisplayPort 1.4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326279/Slider/vi-vn-msi-thin-15-b12uc-i5-2045vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ DisplayPort 1.4)",1.86 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326279/Slider/vi-vn-msi-thin-15-b12uc-i5-2045vn-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326279/msi-thin-15-b12uc-i5-2045vn-glr-1-638610494727160372-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326279/msi-thin-15-b12uc-i5-2045vn-glr-2-638610494733592802-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326279/msi-thin-15-b12uc-i5-2045vn-glr-3-638610494739115788-750x500.jpg và
@@ -169,7 +169,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326279/msi-thin-15-b12u
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326279/msi-thin-15-b12uc-i5-2045vn-glr-10-638610494782441748-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326279/msi-thin-15-b12uc-i5-2045vn-glr-11-638610494787483229-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326279/msi-thin-15-b12uc-i5-2045vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-thin-15-b12uc-i5-2045vn
+",https://www.thegioididong.com/laptop/msi-thin-15-b12uc-i5-2045vn,https://cdn.tgdd.vn/Products/Images/44/326279/msi-thin-15-b12uc-i5-2045vn-thumb-600x600.jpg
 Laptop MSI Modern 15 B12MO i7 1255U/16GB/512GB/Win11 (487VN),19.490.000₫,14.990.000₫,"Title: Laptop MSI Modern 15 B12MO i7 1255U (487VN) sở hữu lối thiết kế tinh tế, chuyên nghiệp cùng các thông số cấu hình mạnh mẽ, sẽ rất phù hợp cho các bạn học sinh, sinh viên hay người đi làm muốn tìm kiếm một thiết bị đáp ứng mượt mà mọi tác vụ làm việc và giải trí thường ngày.
 Detail: • Laptop MSI được trang bị bộ vi xử lý Intel Core i7 1255U có xung nhịp cao và khả năng đa nhiệm ưu việt, đáp ứng mọi yêu cầu từ công việc văn phòng, học tập đến giải trí. Card Intel Iris Xe Graphics hỗ trợ xử lý tốt các tác vụ đồ hoạ của người dùng với công việc thiết kế hình ảnh, âm thanh, render video đơn giản,... hay chơi game nhẹ.
 Detail: • Bộ nhớ RAM 16 GB cung cấp khả năng đa nhiệm trơn tru, mở cùng lúc hàng chục tab Chrome hay chuyển qua lại giữa nhiều tác vụ, không lo gặp tình trạng treo máy khi sử dụng. Ổ cứng SSD 512 GB NVMe PCIe mang lại không gian lưu trữ rộng lớn và thời gian khởi động các ứng dụng được rút ngắn hơn đáng kể so với những ổ HDD thông thường.
@@ -194,7 +194,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 HDMI
 2 x USB 2.0
-1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310450/Slider/vi-vn-msi-modern-15-b12mo-i7-487vn-thumbvideo.jpg và
+1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)",1.7 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310450/Slider/vi-vn-msi-modern-15-b12mo-i7-487vn-thumbvideo.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310450/msi-modern-15-b12mo-i7-487vn-1-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310450/msi-modern-15-b12mo-i7-487vn-2-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310450/msi-modern-15-b12mo-i7-487vn-3-1-750x500.jpg và
@@ -212,7 +212,7 @@ https://cdn.tgdd.vn/Products/Images/44/310450/msi-modern-15-b12mo-i7-487vn-14-75
 https://cdn.tgdd.vn/Products/Images/44/310450/msi-modern-15-b12mo-i7-487vn-15-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310450/msi-modern-15-b12mo-i7-487vn-30-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310450/Kit/msi-modern-15-b12mo-i7-487vn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i7-487vn
+",https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i7-487vn,https://cdn.tgdd.vn/Products/Images/44/310450/msi-modern-15-b12mo-i7-487vn-thumb-1-600x600.jpg
 Laptop MSI Modern 15 B12MO i5 1235U/8GB/512GB/Win11 (625VN),13.990.000₫,11.490.000₫,"Title: Laptop MSI Modern 15 B12MO i5 1235U (625VN) mang đam mê của bạn bắt nhịp với lối sống năng động hiện đại. Dù là bạn đang bận rộn trong văn phòng hay làm việc trên giảng đường, vi xử lý Intel Core Alder lake thế hệ mới cũng sẽ đáp ứng mọi nhu cầu của bạn.
 Title: Tối giản, tinh tế trên từng góc máy
 Detail: Với phân khúc là một mẫu laptop học tập - văn phòng giá rẻ nhưng theo mình thấy thì em MSI Modern này vẫn sở hữu một vẻ ngoài khá đẹp mắt và có phần “cạnh tranh"" về gu thẩm mỹ khi so với những mẫu ultrabook ở phân khúc trên. Máy được phủ tông màu đen nhám trung tính, đường viền khung máy có thiết kế bo tròn mềm mại, tạo cảm giác khá dịu mắt cũng như hài hoà không gian nên mình có thể mang theo tới bất cứ đâu.
@@ -253,7 +253,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 HDMI
 2 x USB 2.0
-1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310449/Slider/vi-vn-msi-modern-15-b12mo-i5-625vn-thumbvideo.jpg và
+1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)",1.7 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310449/Slider/vi-vn-msi-modern-15-b12mo-i5-625vn-thumbvideo.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310449/msi-modern-15-b12mo-i5-625vn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310449/msi-modern-15-b12mo-i5-625vn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310449/msi-modern-15-b12mo-i5-625vn-glr-3-750x500.jpg và
@@ -272,7 +272,7 @@ https://cdn.tgdd.vn/Products/Images/44/310449/msi-modern-15-b12mo-i5-625vn-glr-1
 https://cdn.tgdd.vn/Products/Images/44/310449/msi-modern-15-b12mo-i5-625vn-glr-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310449/msi-modern-15-b12mo-i5-625vn-glr-17-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310449/Kit/msi-modern-15-b12mo-i5-625vn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i5-625vn
+",https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i5-625vn,
 Laptop MSI Gaming Katana 15 B13UDXK i7 13620H/16GB/1TB/6GB RTX3050/144Hz/Balo/Win11 (2077VN),26.990.000₫,23.990.000₫,"Title: Laptop MSI Gaming Katana 15 B13UDXK i7 13620H (2077VN) - cỗ máy chiến game đỉnh cao đến từ MSI với chip Intel Gen 13 dòng H hiệu năng cao và card RTX 30 series mạnh mẽ, sẵn sàng chinh phục mọi chiến trường ảo cùng cộng đồng game thủ.
 Detail: • Laptop MSI được trang bị chip Intel Core i7 13620H dòng H mạnh mẽ, đi cùng card rời NVIDIA GeForce RTX 3050 6 GB mang đến hiệu năng xử lý vượt trội, đáp ứng mọi nhu cầu làm việc, học tập và giải trí của bạn. Chiến binh này không chỉ xử lý mượt mà các tác vụ văn phòng, duyệt web thông thường mà còn sẵn sàng đồng hành cùng bạn chinh phục những thử thách đồ họa nặng nề hay những tựa game yêu thích.
 Detail: • Bộ nhớ RAM 16 GB DDR5 trên laptop này mang đến khả năng đa nhiệm vượt trội, cho phép bạn thoải mái chơi game, làm việc với các ứng dụng đồ họa nặng mà không lo giật lag hay gián đoạn. Dù bạn mở nhiều tab trình duyệt, sử dụng nhiều phần mềm cùng lúc hay chiến game với mức cài đặt cao nhất, laptop vẫn vận hành mượt mà, ổn định.
@@ -300,7 +300,7 @@ Hỗ trợ RAM tối đa:: 64 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326122/Slider/vi-vn-msi-katana-15-b13udxk-i7-2077vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326122/Slider/vi-vn-msi-katana-15-b13udxk-i7-2077vn-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326122/msi-katana-15-b13udxk-i7-2077vn-glr-1-638618372659556965-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326122/msi-katana-15-b13udxk-i7-2077vn-glr-2-638618372665746991-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326122/msi-katana-15-b13udxk-i7-2077vn-glr-3-638618372672584211-750x500.jpg và
@@ -319,7 +319,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326122/msi-katana-15-b1
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326122/msi-katana-15-b13udxk-i7-2077vn-glr-16-638618372758938977-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326122/msi-katana-15-b13udxk-i7-2077vn-30-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326122/Kit/msi-katana-15-b13udxk-i7-2077vn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-katana-15-b13udxk-i7-2077vn
+",https://www.thegioididong.com/laptop/msi-katana-15-b13udxk-i7-2077vn,https://cdn.tgdd.vn/Products/Images/44/326122/msi-katana-15-b13udxk-i7-2077vn-thumb-600x600.jpg
 Laptop MSI Gaming GF63 Thin 12UC i7 12650H/8GB/512GB/4GB RTX3050/144Hz/Win11 (887VN),20.990.000₫,17.990.000₫,"Title: Laptop MSI Gaming GF63 Thin 12UC i7 12650H (887VN) không chỉ là một chiếc laptop mạnh mẽ với bộ vi xử lý Intel Core i7 dòng H cao cấp cùng card đồ họa NVIDIA GeForce RTX, mà còn là người bạn đồng hành đáng tin cậy của cả game thủ và những chuyên viên thiết kế đồ họa chuyên nghiệp.
 Detail: • Đạt hiệu năng tối ưu nhờ bộ vi xử lý Intel Core i7 12650H, laptop sẵn sàng đáp ứng mọi thách thức, từ chơi game đỉnh cao đến xử lý các tác vụ nặng một cách nhanh chóng và ổn định. Với GPU NVIDIA GeForce RTX 3050 4 GB, bạn có thể thả ga chơi game ở độ phân giải cao và tốc độ khung hình nhanh mà không cần lo lắng về tình trạng đơ máy hay giật lag màn hình.
 Detail: • Laptop MSI Gaming GF được trang bị bộ nhớ RAM DDR4 8 GB và ổ cứng SSD NVMe PCIe Gen 4.0 512 GB giúp máy khởi động nhanh chóng và chạy ứng dụng một cách ổn định, có thể đồng thời chiến các tựa game đỉnh cao hay tác vụ đồ họa chuyên nghiệp. Ngoài ra, bạn cũng có khả năng nâng cấp RAM lên tối đa 64 GB để tối ưu hóa hiệu suất đa nhiệm và xử lý dữ liệu.
@@ -345,7 +345,7 @@ Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
 1x Headphone-out
 3 x USB 3.2
 HDMI
-LAN (RJ45)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn-glr-1-750x500.jpg và
+LAN (RJ45)",1.86 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn-glr-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn-glr-4-750x500.jpg và
@@ -358,7 +358,7 @@ https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn
 https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn-glr-11-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn-glr-12-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/316941/msi-gaming-gf63-thin-12uc-i7-887vn-glr-13-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12uc-i7-887vn
+",https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12uc-i7-887vn,
 Laptop MSI Modern 14 C13M i5 1335U/16GB/512GB/Win11 (611VN),18.490.000₫,13.490.000₫,"Title: Laptop MSI Modern 14 C13M i5 1335U (611VN) sẽ là một người cộng sự lý tưởng cho bạn trong phân khúc laptop học tập - văn phòng khi sở hữu cấu hình mạnh mẽ từ CPU Intel Core i5 cùng những tính năng thiết kế nổi bật. Laptop còn sở hữu kiểu dáng thời thượng, gọn nhẹ phù hợp với người dùng cần một thiết bị có tính di động.
 Detail: • Laptop MSI được trang bị bộ xử lý Intel Core i5 Raptor Lake - 1335U và card đồ họa Intel Iris Xe Graphics, mang đến hiệu năng ổn định, đáp ứng tốt nhu cầu học tập và làm việc văn phòng của bạn. Bạn có thể xử lý hàng trăm cột dữ liệu trên file Excel, chuẩn bị bài thuyết trình với hàng chục slide hoặc chỉnh sửa hình ảnh trong Photoshop.
 Detail: • Sở hữu RAM 16 GB tốc độ 3200 MHz cho khả năng đa nhiệm vượt trội giúp bạn dễ dàng xử lý nhiều ứng dụng cùng lúc mà không gặp tình trạng giật lag hay giảm hiệu suất. Bạn có thể vừa có thể thiết kế slide trên Powerpoint vừa mở Chrome để tìm thông tin và ý tưởng, mà không lo máy bị đơ hay xử lý chậm.
@@ -383,7 +383,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 HDMI
 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)
-2 x USB 2.0",Windows 11 Home SL,"https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/msi-modern-14-c13m-i5-611vn-glr-1-638646015145358957-750x500.jpg và
+2 x USB 2.0",1.4 kg,Windows 11 Home SL,"https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/msi-modern-14-c13m-i5-611vn-glr-1-638646015145358957-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/msi-modern-14-c13m-i5-611vn-glr-2-638646015151816101-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/msi-modern-14-c13m-i5-611vn-glr-3-638646015158552251-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/msi-modern-14-c13m-i5-611vn-glr-4-638646015164766920-750x500.jpg và
@@ -400,7 +400,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/msi-modern-14-c1
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/msi-modern-14-c13m-i5-611vn-glr-15-638646015230892776-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/msi-modern-14-c13m-i5-611vn-glr-16-638646015237216023-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327710/Kit/msi-modern-14-c13m-i5-611vn-bbh-638646016786914600.jpg và
-",https://www.thegioididong.com/laptop/msi-modern-14-c13m-i5-611vn
+",https://www.thegioididong.com/laptop/msi-modern-14-c13m-i5-611vn,
 Laptop MSI Gaming Katana 15 B13VFK i7 13620H/16GB/1TB/8GB RTX4060/144Hz/Balo/Win11 (676VN),31.990.000₫,27.990.000₫,"Title: Laptop MSI Gaming Katana 15 B13VFK i7 13620H (676VN) đến từ nhà MSI đã có mặt tại Thế Giới Di Động. Với chip Intel Gen 13 dòng H mới nhất và card RTX 40 series mạnh mẽ, đây là một siêu phẩm laptop gaming sẽ thỏa mãn mọi nhu cầu của cộng đồng game thủ.
 Title: Bùng nổ hiệu năng, chinh phục mọi tựa game 
 Detail: Với sự trang bị là chip Intel Core i7 13620H dòng H mạnh mẽ, laptop MSI mang đến khả năng vận hành hoàn hảo mọi tác vụ làm việc, học tập và giải trí thường ngày. Sự kết hợp với card rời NVIDIA GeForce RTX 4060, 8 GB còn cho phép người dùng hoàn thiện nhanh chóng các ấn phẩm thiết kế âm thanh, hình ảnh, render video,... cũng như chiến game hiệu quả với mức đồ họa cao.
@@ -436,14 +436,14 @@ Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)
-LAN (RJ45)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310447/Slider/vi-vn-msi-katana-15-b13vfk-i7-676vn-slider-1.jpg và
+LAN (RJ45)",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310447/Slider/vi-vn-msi-katana-15-b13vfk-i7-676vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310447/msi-katana-15-b13vfk-i7-676vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310447/msi-katana-15-b13vfk-i7-676vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310447/msi-katana-15-b13vfk-i7-676vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310447/msi-katana-15-b13vfk-i7-676vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310447/msi-katana-15-b13vfk-i7-676vn-5-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/310447/msi-katana-15-b13vfk-i7-676vn-30-638641732838611889-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-katana-15-b13vfk-i7-676vn
+",https://www.thegioididong.com/laptop/msi-katana-15-b13vfk-i7-676vn,
 Laptop MSI Gaming Bravo 15 B7ED R5 7535HS/16GB/512GB/4GB RX6550M/144Hz/Win11 (010VN),18.490.000₫,16.490.000₫,"Title: Laptop MSI Gaming Bravo 15 B7ED R5 7535HS (010VN) không chỉ là một mẫu laptop gaming tầm trung thông thường, mà còn là người bạn đồng hành đáng tin cậy dành cho những game thủ cũng như những người đam mê công việc sáng tạo. Với thiết kế hầm hố, máy trở thành biểu tượng của sức mạnh và sự phong cách, hứa hẹn sẽ tạo nên một trải nghiệm tuyệt vời trên mọi đấu trường ảo.
 Title: Thiết kế cá tính đậm chất gaming
 Detail: Điểm đầu tiên khi mình nhìn vào laptop này với sự nổi bật về thiết kế cá tính, sự độc đáo và toát lên sức mạnh tinh thần của những người yêu thích thế giới game. Với màu đen đặc trưng và hoạ tiết gân chìm tạo điểm nhấn và chiều sâu, laptop khiến mình tự tin thể hiện phong cách riêng của chính mình. Logo chú chim đại bàng với đôi mắt rực rỡ nổi bật được in chìm trên mặt A của máy tạo điểm nhấn thú vị, chứng tỏ tính cá nhân mạnh mẽ và đặc biệt của những dòng laptop chiến game.
@@ -492,7 +492,7 @@ Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/314849/Slider/msi-bravo-15-b7ed-r5-010vn-slider-1-1020x570.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/314849/Slider/msi-bravo-15-b7ed-r5-010vn-slider-1-1020x570.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314849/msi-bravo-15-b7ed-r5-010vn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314849/msi-bravo-15-b7ed-r5-010vn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314849/msi-bravo-15-b7ed-r5-010vn-glr-3-750x500.jpg và
@@ -511,7 +511,7 @@ https://cdn.tgdd.vn/Products/Images/44/314849/msi-bravo-15-b7ed-r5-010vn-glr-15-
 https://cdn.tgdd.vn/Products/Images/44/314849/msi-bravo-15-b7ed-r5-010vn-glr-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314849/msi-bravo-15-b7ed-r5-010vn-glr-30-700x467.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314849/Kit/msi-bravo-15-b7ed-r5-010vn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-bravo-15-b7ed-r5-010vn
+",https://www.thegioididong.com/laptop/msi-bravo-15-b7ed-r5-010vn,https://cdn.tgdd.vn/Products/Images/44/314849/msi-bravo-15-b7ed-r5-010vn-thumb-2-600x600.png
 Laptop MSI Modern 15 B7M R5 7530U/16GB/512GB/Win11 (231VN),14.990.000₫,11.490.000₫,"Title: Chiếc laptop MSI Modern 15 B7M R5 7530U (231VN) là sự lựa chọn lý tưởng để đồng hành cùng với các bạn tân sinh viên hay thậm chí là nhân viên văn phòng trong phân khúc giá rẻ nhưng mạnh mẽ đa tác vụ nhờ dung lượng RAM 16 GB và ổ cứng SSD 512 GB.
 Title: Hiệu năng đỉnh cao đến từ chiếc máy nhỏ gọn
 Detail: Nếu bạn đang tìm kiếm một máy tính xách tay với hiệu năng mạnh mẽ trong tầm giá dưới 15 triệu, thì MSI Model 15 chính là sự lựa chọn đáng xem xét dành cho bạn bởi nó có thể đáp ứng đầy đủ những yêu cầu và tất cả chính là nhờ vào bộ vi xử lý AMD Ryzen 5 7530U thế hệ mới thuộc chip dòng U dành riêng cho dân văn phòng cùng card đồ họa AMD Radeon Graphics được tích hợp sẵn trong máy. Vì thế, khi trải nghiệm chiếc laptop MSI này đã mang lại cho mình cảm giác mượt mà trong quá trình xử lý đa tác vụ văn phòng, đồ họa ở mức cơ bản hay giải trí với một số tựa game nổi tiếng hiện nay như Liên Minh Huyền Thoại hay CS:GO với mức cấu hình trung bình.
@@ -555,7 +555,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 HDMI
 2 x USB 2.0
-1 x USB Type-C (chỉ hỗ trợ Power Delivery)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/307649/Slider/vi-vn-msi-modern-15-b7m-r5-231vn-thumbvideo.jpg và
+1 x USB Type-C (chỉ hỗ trợ Power Delivery)",1.75 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/307649/Slider/vi-vn-msi-modern-15-b7m-r5-231vn-thumbvideo.jpg và
 https://cdn.tgdd.vn/Products/Images/44/307649/msi-modern-15-b7m-r5-231vn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/307649/msi-modern-15-b7m-r5-231vn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/307649/msi-modern-15-b7m-r5-231vn-glr-3-750x500.jpg và
@@ -574,7 +574,7 @@ https://cdn.tgdd.vn/Products/Images/44/307649/msi-modern-15-b7m-r5-231vn-glr-15-
 https://cdn.tgdd.vn/Products/Images/44/307649/msi-modern-15-b7m-r5-231vn-glr-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/307649/msi-modern-15-b7m-r5-231vn-glr-17-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/307649/Kit/msi-modern-15-b7m-r5-231vn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-modern-15-b7m-r5-231vn
+",https://www.thegioididong.com/laptop/msi-modern-15-b7m-r5-231vn,https://cdn.tgdd.vn/Products/Images/44/307649/msi-modern-15-b7m-r5-231vn-070723-062809-600x600.jpg
 Laptop MSI Gaming GF63 Thin 12VE i5 12450H/8GB/512GB/6GB RTX4050/144Hz/Win11 (460VN),22.490.000₫,17.990.000₫,"Title: Laptop MSI Gaming GF63 Thin 12VE i5 12450H (460VN) là chiếc laptop gaming quốc dân mạnh mẽ từ vẻ ngoài đến nội lực và đặc biệt sở hữu card đồ họa rời RTX 4050 đem lại sự vượt trội trong tầm giá chỉ vỏn vẹn xấp xỉ 20 triệu đồng.
 Title: Chiếc laptop gaming quốc dân với hiệu năng mạnh mẽ trong tầm giá ấn tượng
 Detail: Nằm trong tầm giá là 20 triệu thì con máy này theo mình nhận thấy là sở hữu một bộ vi xử lý khá mạnh mẽ và có phần vượt trội hơn nhiều so với những con máy khác trong cùng tầm giá.
@@ -619,7 +619,7 @@ Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/308697/Slider/vi-vn-msi-gaming-gf63-thin-12ve-i5-460vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.86 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/308697/Slider/vi-vn-msi-gaming-gf63-thin-12ve-i5-460vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/308697/msi-gaming-gf63-thin-12ve-i5-460vn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/308697/msi-gaming-gf63-thin-12ve-i5-460vn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/308697/msi-gaming-gf63-thin-12ve-i5-460vn-glr-3-750x500.jpg và
@@ -637,7 +637,7 @@ https://cdn.tgdd.vn/Products/Images/44/308697/msi-gaming-gf63-thin-12ve-i5-460vn
 https://cdn.tgdd.vn/Products/Images/44/308697/msi-gaming-gf63-thin-12ve-i5-460vn-glr-15-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/308697/msi-gaming-gf63-thin-12ve-i5-460vn-glr-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/308697/Kit/msi-gaming-gf63-thin-12ve-i5-460vn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12ve-i5-460vn
+",https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12ve-i5-460vn,https://cdn.tgdd.vn/Products/Images/44/308697/msi-gaming-gf63-thin-12ve-i5-460vn-thumb-600x600.png
 Laptop MSI Gaming Cyborg 15 A13VEK i7 13620H/16GB/512GB/6GB RTX4050/144Hz/Balo/Win11 (1423VN),26.990.000₫,24.990.000₫,"Title: Laptop MSI Cyborg 15 A13VEK i7 13620H (1423VN) không chỉ là một cỗ máy chiến game mạnh mẽ mà còn là người bạn đồng hành lý tưởng cho các nhà sáng tạo nội dung chuyên nghiệp. Sở hữu cấu hình đỉnh cao và thiết kế đẳng cấp, chiếc laptop này sẵn sàng đáp ứng mọi nhu cầu giải trí và sáng tạo của bạn một cách hoàn hảo.
 Detail: • MSI trang bị bộ vi xử lý Intel Core i7 thế hệ 13 tiên tiến 13620H, mang đến hiệu năng mạnh mẽ, sẵn sàng chinh phục mọi thử thách bạn đặt ra. Cho dù bạn là game thủ đam mê chinh phục những tựa game AAA cấu hình cao hay nhà sáng tạo cần xử lý các tác vụ đồ họa nặng nhọc, cỗ máy này cũng sẽ đồng hành cùng bạn, hoàn thành mọi yêu cầu một cách nhanh chóng và ổn định.
 Detail: • Chiến game mượt mà, sắc nét, loại bỏ hoàn toàn hiện tượng giật lag, đơ máy, cho bạn đắm chìm trọn vẹn trong từng khoảnh khắc game với card đồ họa rời NVIDIA GeForce RTX 4050 6 GB. Không chỉ khuấy đảo thế giới game ảo, chiếc laptop với khả năng xử lý đồ họa tốt còn là người bạn đồng hành đắc lực cho các nhà sáng tạo nội dung. Cải thiện hiệu suất đáng kể cho các tác vụ đồ họa nặng như chỉnh sửa ảnh, cắt ghép video, render 3D,... giúp bạn hoàn thành mọi công việc một cách nhanh chóng và hiệu quả.
@@ -665,7 +665,7 @@ Hỗ trợ RAM tối đa:: 64 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-glr-1-638622527291307734-750x500.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.98 kg,Windows 11 Home SL,"https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-glr-1-638622527291307734-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-glr-2-638622527297710415-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-glr-3-638622527304388407-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-glr-4-638622527310652089-750x500.jpg và
@@ -683,7 +683,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a1
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-glr-16-638622527393155929-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-glr-17-638622527400066051-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/Kit/msi-cyborg-15-a13vek-i7-1423vn-bbh-638622527804747969.jpg và
-",https://www.thegioididong.com/laptop/msi-cyborg-15-a13vek-i7-1423vn
+",https://www.thegioididong.com/laptop/msi-cyborg-15-a13vek-i7-1423vn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-thumb-638622527904312717-600x600.jpg
 Laptop MSI Gaming Thin GF63 12UC i5 12450H/8GB/512GB/4GB RTX3050/144Hz/Win11 (803VN),18.990.000₫,15.490.000₫,"Title: Laptop MSI Gaming GF63 12UC i5 12450H (803VN) là một sản phẩm mang đến cho người dùng trải nghiệm đỉnh cao và mạnh mẽ trong thế giới gaming và công việc đa nhiệm. Với thiết kế mạnh mẽ, đẹp mắt, máy là một đồng minh đáng tin cậy, sẵn sàng chinh phục mọi thách thức và kết nối bạn với thế giới ảo đầy sáng tạo.
 Title: Khám phá diện mạo độc đáo, tinh tế
 Detail: Bước vào thế giới của MSI Gaming GF63, một hành trình không chỉ là trải nghiệm về hiệu suất mạnh mẽ mà còn là sự khám phá về sự tinh tế và đẳng cấp của thiết kế.
@@ -738,7 +738,7 @@ Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-LAN (RJ45)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310448/Slider/vi-vn-msi-gf63-12uc-i5-803vn-slider-1.jpg và
+LAN (RJ45)",1.86 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310448/Slider/vi-vn-msi-gf63-12uc-i5-803vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310448/msi-gf63-12uc-i5-803vn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310448/msi-gf63-12uc-i5-803vn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310448/msi-gf63-12uc-i5-803vn-glr-3-750x500.jpg và
@@ -755,7 +755,7 @@ https://cdn.tgdd.vn/Products/Images/44/310448/msi-gf63-12uc-i5-803vn-glr-13-750x
 https://cdn.tgdd.vn/Products/Images/44/310448/msi-gf63-12uc-i5-803vn-glr-14-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310448/msi-gf63-12uc-i5-803vn-glr-15-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310448/Kit/msi-gf63-12uc-i5-803vn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-gf63-12uc-i5-803vn
+",https://www.thegioididong.com/laptop/msi-gf63-12uc-i5-803vn,https://cdn.tgdd.vn/Products/Images/44/310448/msi-gf63-12uc-i5-803vn-glr-thumb-600x600.jpg
 Laptop MSI Gaming Thin 15 B13UCX i5 13420H/16GB/512GB/4GB RTX2050/144Hz/Balo/Win11 (2080VN),19.990.000₫,17.490.000₫,,"Công nghệ CPU:: Intel Core i5 Raptor Lake - 13420H
 Số nhân:: 8
 Số luồng:: 12
@@ -771,55 +771,66 @@ Hỗ trợ RAM tối đa:: 64 GB
 1x Mic-in
 1x Headphone-out
 3 x USB 3.2
-HDMI",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329786/Slider/vi-vn-msi-thin-15-b13ucx-i5-2080vn-slider-1.jpg và
+HDMI",1.86 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329786/Slider/vi-vn-msi-thin-15-b13ucx-i5-2080vn-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329786/msi-thin-15-b13ucx-i5-2080vn-1-638618208621642210-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329786/msi-thin-15-b13ucx-i5-2080vn-2-638618208629517524-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329786/msi-thin-15-b13ucx-i5-2080vn-3-638618208637971404-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329786/msi-thin-15-b13ucx-i5-2080vn-4-638618208645399450-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329786/msi-thin-15-b13ucx-i5-2080vn-5-638618208651716574-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329786/msi-thin-15-b13ucx-i5-2080vn-30-638618208662687498-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-thin-15-b13ucx-i5-2080vn
-Laptop MSI Gaming GF63 Thin 12UCX i5 12450H/16GB/512GB/4GB RTX2050/144Hz/Win11 (873VN),18.990.000₫,15.490.000₫,"Title: Mẫu laptop Gaming ""quốc dân"" sở hữu mức giá thân thiện phù hợp với mọi game thủ, mang trong mình hiệu suất mạnh mẽ vượt trội cùng đa dạng các tính năng sử dụng. Laptop MSI Gaming GF63 Thin 12UCX i5 12450H (873VN) chắc chắn là sự lựa chọn tuyệt vời cho những buổi chiến game của bạn.
-Detail: • Laptop sở hữu bộ vi xử lý Intel Core i5 12450H được tích hợp chung với card rời NVIDIA GeForce RTX 2050 4 GB cho khả năng vận hành tốc độ mọi tác vụ bạn cần từ chơi game giải trí đến làm việc hay thậm chí đồ hoạ. Hơn nữa, phần cứng có khả năng xuất đồ hoạ ổn định để mang đến những khung hình game thật hấp dẫn và đầy chân thực, đồng thời cũng tương thích tốt với các yêu cầu đồ hoạ đơn giản như làm hình ảnh hay dựng video ngắn.
-Detail: • Hỗ trợ đa nhiệm tuyệt vời với bộ nhớ RAM 16 GB, bạn có thể mở nhiều ứng dụng hay game nặng mà không lo đến các vấn đề giật, lag máy. Ngoài ra, RAM cũng có khả năng nâng cấp lên tận 64 GB để phục vụ tối ưu hơn cho các hoạt động của bạn. 
-Detail: • Laptop MSI có ổ cứng SSD 512 GB mang đến không gian vừa đủ cho bạn thoải mái lưu trữ tài liệu hay những tựa game yêu thích. Đồng thời, với chuẩn NVMe PCIe Gen 4.0, thời gian bạn truy xuất dữ liệu hay khởi động ứng dụng cũng được rút ngắn đáng kể.
-Detail: • Trải nghiệm những khung cảnh game hấp dẫn và thu hút thị giác trên màn hình 15.6 inch tích hợp tấm nền IPS, cho góc nhìn trải rộng lên đến 178 độ. Độ phân giải Full HD (1920 x 1080) giúp tái hiện rõ nét và chân thực mọi hình ảnh, phục vụ tốt cho nhu cầu từ làm việc đến giải trí của bạn. Công nghệ chống chói Anti Glare cho bạn sử dụng ở môi trường có cường độ ánh sáng cao tránh tình trạng gây khó chịu mắt và chống lóa.
-Detail: • Tốc độ làm tươi khung hình cao 144 Hz khiến cho mọi chuyển động được diễn ra mượt mà, khi bạn chơi các tựa game tốc độ cao như: Forza Horizon, CS:GO,... đều không bị nhoè mờ hay rách hình.
-Detail: • Loa đạt tiêu chuẩn Hi-Res tích hợp cùng công nghệ Nahimic 3 giúp máy có khả năng giả lập âm thanh vòm, chất âm cao tần như toả ra từ mọi hướng và bao trọn thính giác người dùng, rõ ràng, đầy sống động cho bạn trải nghiệm chơi game, xem phim hay nghe nhạc y như thật.
-Detail: • Thiết kế tối giản nhưng vẫn ngầu với tông màu đen nam tính, bộ khung hầm hố cùng logo rồng đỏ đặc trưng trên phần mặt A máy. Bền bỉ hơn với nắp lưng và chiếu nghỉ tay bằng kim loại, bảo vệ tốt cho các linh kiện bên trong khi có lỡ xảy ra va chạm.
-Detail: • Hệ thống tản nhiệt Cooler Boost với các khe nhiệt bao quanh khung máy, làm duy trì lâu dài hiệu suất hoạt động tối ưu nhất của thiết bị. Bàn phím với đèn nền đơn sắc đỏ hỗ trợ cho việc chơi game tốt ngay cả khi thiếu sáng.
-Detail: • Laptop Gaming MSI GF có đầy đủ các cổng thông dụng ở 2 bên và đằng sau như: USB Type-C, Jack tai nghe 3.5 mm, USB 3.2, HDMI và LAN (RJ45) thuận lợi cho việc kết nối với chuột, màn hình rời,...
-","Công nghệ CPU:: Intel Core i5 Alder Lake - 12450H
-Số nhân:: 8
+",https://www.thegioididong.com/laptop/msi-thin-15-b13ucx-i5-2080vn,https://cdn.tgdd.vn/Products/Images/44/329786/msi-thin-15-b13ucx-i5-2080vn-thumb-600x600.jpg
+Laptop MSI Modern 15 F13MG i5 1335U/16GB/512GB/Túi/Win11 (082VN),17.190.000₫,15.990.000₫,,"Công nghệ CPU:: Intel Core i5 Raptor Lake - 1335U
+Số nhân:: 10
 Số luồng:: 12
-Tốc độ CPU:: 2GHz
-Tốc độ tối đa:: Turbo Boost 4.4 GHz
+Tốc độ CPU:: 1.3GHz
+Tốc độ tối đa:: Turbo Boost 4.6 GHz
 Bộ nhớ đệm:: 12 MB
 ","RAM:: 16 GB
 Loại RAM:: DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)
 Tốc độ Bus RAM:: 3200 MHz
 Hỗ trợ RAM tối đa:: 64 GB
-","Ổ cứng:: 512 GB SSD NVMe PCIe Gen 4.0
-Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
-","Card rời - NVIDIA GeForce RTX 2050, 4 GB","15.6""","3-cell Li-ion, 52.4 Wh",Full HD (1920 x 1080),"LAN (RJ45)
-Jack tai nghe 3.5 mm
+","Ổ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)
+",Card tích hợp - Intel Iris Xe Graphics,"15.6""","3-cell, 45Wh",Full HD (1920 x 1080),"LAN (RJ45)
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/316940/Slider/vi-vn-msi-gaming-gf63-thin-12ucx-i5-873vn-slider-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-7-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-8-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-9-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-10-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-11-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-12-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-13-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12ucx-i5-873vn
+1 x Headphone/microphone combo
+1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort)",1.7 kg,Windows 11 Home SL,"https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-1-638654956788479936-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-2-638654956794408318-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-3-638654956799644913-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-4-638654956805535975-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-5-638654956811382848-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-6-638654956817899209-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-7-638654956824706047-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-8-638654956830283788-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-9-638654956837862182-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-10-638654956843620929-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-11-638654956848803598-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-12-638654956854561095-750x500.jpg và
+",https://www.thegioididong.com/laptop/msi-modern-15-f13mg-i5-082vn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/331362/msi-modern-15-f13mg-i5-082vn-thumb-638654957069795077-600x600.jpg
+Laptop MSI Thin 15 B13UC i7 13620H/32GB/512GB/4GB RTX3050/144Hz/Balo/Win11 (1411VN),21.990.000₫,21.490.000₫,,"Công nghệ CPU:: Intel Core i7 Raptor Lake - 13620H
+Số nhân:: 10
+Số luồng:: 16
+Tốc độ CPU:: 2.4GHz
+Tốc độ tối đa:: Turbo Boost 4.9 GHz
+Bộ nhớ đệm:: 24 MB
+","RAM:: 32 GB
+Loại RAM:: DDR4 2 khe (1 khe 16 GB + 1 khe 16 GB)
+Tốc độ Bus RAM:: 3200 MHz
+Hỗ trợ RAM tối đa:: 64 GB
+","Ổ cứng:: 512 GB SSD NVMe PCIe Gen 4.0
+Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
+","Card rời - NVIDIA GeForce RTX 3050, 4 GB","15.6""","3-cell Li-ion, 52.4 Wh",Full HD (1920 x 1080),"LAN (RJ45)
+1x Mic-in
+1x Headphone-out
+3 x USB 3.2
+HDMI
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.86 kg,Windows 11 Home SL,"https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-1-638644313867381079-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-2-638644313877046210-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-3-638644313884541764-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-4-638644313892360704-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-5-638644313898009515-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-30-638645160026566509-750x500.jpg và
+",https://www.thegioididong.com/laptop/msi-thin-15-b13uc-i7-1411vn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-thumb-638644314190953822-600x600.jpg
 Laptop MSI Gaming Sword 16 HX B14VFKG i7 14700HX/16GB/1TB/8GB RTX4060/240Hz/Balo/Win11 (045VN),39.990.000₫,36.990.000₫,"Title: MSI luôn nổi tiếng với những cảm hứng thiết kế bất tận và đầy độc đáo. Với mẫu laptop MSI Gaming Sword 16 HX B14VFKG i7 14700HX (045VN) có ngoại hình lấy được nét đặc sắc từ vẻ ngoài của thanh kiếm, cấu hình đỉnh cao và tính năng tân tiến sẽ mở ra cho bạn những trải nghiệm chiến game thích thú từ phần nghe đến phần nhìn.
 Title: Đẳng cấp gaming đến từ con chip hiệu năng cao
 Detail: MSI Gaming Sword 16 được trang bị bộ vi xử lý Intel Core i7 14700HX gồm 20 nhân và 28 luồng, ép xung được cao nhất đến 5.50 GHz có khả năng xử lý tốt với nhiều thể loại game khác nhau, chiến được các con game AAA đồ hoạ cao qua mức setting hợp lý. Không những thế, laptop cũng hoàn toàn thực hiện được tốt việc chỉnh sửa đồ hoạ 2D, 3D, edit video hoặc dùng để làm việc coding.
@@ -851,14 +862,37 @@ Hỗ trợ RAM tối đa:: 96 GB
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322100/Slider/vi-vn-msi-gaming-sword-16-hx-b14vfkg-i7-045vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",2.3 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322100/Slider/vi-vn-msi-gaming-sword-16-hx-b14vfkg-i7-045vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322100/msi-gaming-sword-16-hx-b14vfkg-i7-045vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322100/msi-gaming-sword-16-hx-b14vfkg-i7-045vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322100/msi-gaming-sword-16-hx-b14vfkg-i7-045vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322100/msi-gaming-sword-16-hx-b14vfkg-i7-045vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322100/msi-gaming-sword-16-hx-b14vfkg-i7-045vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322100/msi-gaming-sword-16-hx-b14vfkg-i7-045vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-sword-16-hx-b14vfkg-i7-045vn
+",https://www.thegioididong.com/laptop/msi-gaming-sword-16-hx-b14vfkg-i7-045vn,https://cdn.tgdd.vn/Products/Images/44/322100/msi-gaming-sword-16-hx-b14vfkg-i7-045vn-thumb-600x600.jpg
+Laptop MSI Prestige 14 AI Studio C1VEG Ultra 7 155H/32GB/1TB/6GB RTX4050/Túi/Win11 (056VN),36.990.000₫,32.990.000₫,,"Công nghệ CPU:: Intel Core Ultra 7 Meteor Lake - 155H
+Số nhân:: 16
+Số luồng:: 22
+Tốc độ CPU:: 3.8GHz
+Tốc độ tối đa:: Turbo Boost 4.8 GHz
+Bộ nhớ đệm:: 24 MB
+","RAM:: 32 GB
+Loại RAM:: DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB)
+Tốc độ Bus RAM:: 5600 MHz
+Hỗ trợ RAM tối đa:: 32 GB
+","Ổ cứng:: 1 TB SSD NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác nâng cấp tối đa 4 TB)
+","Card rời - NVIDIA GeForce RTX 4050, 6 GB","14""","4-cell, 90Wh",2.8K (2880 x 1800),"LAN (RJ45)
+1x Headphone-out
+1 x USB 3.2
+HDMI
+1 x USB Type-C (hỗ trợ USB, Power Delivery 3.1 và DisplayPort)",1.7 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329789/Slider/vi-vn-msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-slider-1.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-1-638618200589595280-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-2-638618200595720813-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-3-638618200601063974-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-4-638618200607585952-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-5-638618200612938234-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-30-638618200619041425-750x500.jpg và
+",https://www.thegioididong.com/laptop/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn,https://cdn.tgdd.vn/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-thumb-600x600.jpg
 Laptop MSI Gaming Cyborg 14 A13VE i7 13620H/16GB/512GB/6GB RTX4050/144Hz/Balo/Win11 (090VN),27.990.000₫,25.990.000₫,"Title: Laptop MSI Gaming Cyborg 14 A13VE i7 13620H (090VN) không chỉ là sở hữu ngoại hình mạnh mẽ mà còn là một cộng sự đáng tin cậy cho cả game thủ và những chuyên gia thiết kế đồ họa chuyên nghiệp. Với một mức giá hợp lý bạn đã có thể sở hữu ngay một bộ cấu hình hoàn hảo cho những trận game bất tận đầy giải trí.
 Detail: • MSI đã trang bị cho laptop này bộ vi xử lý Intel Core i7 13620H mạnh mẽ, sẵn sàng đối phó với mọi thử thách. Dù bạn là game thủ đam mê các tựa game AAA hoặc chuyên gia đồ họa cần xử lý các tác vụ nặng, chiếc laptop này luôn đảm bảo khả năng xử lý nhanh chóng và ổn định.
 Detail: • Nâng cao trải nghiệm chơi game của bạn lên một tầm cao mới với card đồ họa NVIDIA GeForce RTX 4050 6 GB. Hãy trải nghiệm những hành động mãn nhãn và những trận đấu đầy căng thẳng với hình ảnh sắc nét, loại bỏ hoàn toàn hiện tượng giật lag và giựt giật, giúp bạn hoàn toàn đắm chìm vào thế giới ảo của game. Card đồ họa trên MSI Cyborg còn hỗ trợ hoàn thành các tác vụ đồ họa nặng như chỉnh sửa ảnh, thiết kế video chất lượng cao hay render 3D một cách mượt mà và nhanh chóng.
@@ -884,14 +918,14 @@ Hỗ trợ RAM tối đa:: 64 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325586/Slider/msi-cyborg-14-a13ve-i7-090vn638555176030215878.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.6 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325586/Slider/msi-cyborg-14-a13ve-i7-090vn638555176030215878.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325586/msi-cyborg-14-a13ve-i7-090vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325586/msi-cyborg-14-a13ve-i7-090vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325586/msi-cyborg-14-a13ve-i7-090vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325586/msi-cyborg-14-a13ve-i7-090vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325586/msi-cyborg-14-a13ve-i7-090vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325586/msi-cyborg-14-a13ve-i7-090vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-cyborg-14-a13ve-i7-090vn
+",https://www.thegioididong.com/laptop/msi-cyborg-14-a13ve-i7-090vn,https://cdn.tgdd.vn/Products/Images/44/325586/msi-cyborg-14-a13ve-i7-090vn-thumb-600x600.jpg
 Laptop MSI Gaming Stealth 14 AI Studio A1VFG Ultra 7 155H/32GB/1TB/8GB RTX4060/120Hz/Balo/Tai nghe/Móc chìa khóa/Chuột/Lót chuột/Win11 (085VN),51.990.000₫,48.990.000₫,"Title: Laptop MSI Gaming Stealth 14 AI Studio A1VFG Ultra 7 155H (085VN) là dòng laptop gaming cao cấp của MSI, nổi tiếng với thiết kế mỏng nhẹ, sang trọng cùng hiệu năng mạnh mẽ, kết hợp với chip AI thế hệ mới, chiếc laptop này sẽ mang đến cho bạn những trải nghiệm giải trí, đồ họa đỉnh cao không giới hạn.
 Title: Lôi cuốn với thiết kế cá tính, hệ thống đèn RGB rực rỡ
 Detail: Laptop MSI Gaming Stealth chinh phục người dùng bởi phong cách thiết kế đậm chất thể thao, mang đến sự cá tính và nét bí ẩn đầy cuốn hút. Tông màu xanh đen quyền lực bao phủ toàn bộ thân máy, tô điểm thêm logo Rồng đặc trưng - biểu tượng cho sức mạnh và sự tinh tế của MSI. Máy có khối lượng chỉ 1.7 kg, giúp bạn dễ dàng mang theo bên mình mọi lúc mọi nơi, dù là chinh phục những trận chiến game đỉnh cao hay sáng tạo nội dung chuyên nghiệp.
@@ -924,14 +958,14 @@ Hỗ trợ RAM tối đa:: 96 GB
 1 x USB 3.2
 HDMI
 1 x USB Type-C (hỗ trợ USB, Power Delivery, DisplayPort và Thunderbolt 4)
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325588/Slider/vi-vn-msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.7 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325588/Slider/vi-vn-msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325588/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325588/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325588/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325588/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325588/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325588/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn
+",https://www.thegioididong.com/laptop/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn,https://cdn.tgdd.vn/Products/Images/44/325588/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-thumb-600x600.jpg
 Laptop MSI Modern 15 B7M R7 7730U/16GB/512GB/Win11 (238VN),16.990.000₫,12.990.000₫,"Title: Mẫu laptop học tập - văn phòng được thiết kế dành riêng cho người đi làm cũng như học sinh, sinh viên với thiết kế nhỏ gọn, tinh tế cùng hiệu năng mạnh mẽ với AMD Ryzen 7 7000 series đáp ứng mọi tác vụ hằng ngày. Laptop MSI Modern 15 B7M R7 7730U (238VN) sở hữu một mức giá lý tưởng chắc chắn sẽ là sản phẩm bạn không nên bỏ qua.
 Detail: • Laptop MSI được trang bị bộ vi xử lý AMD Ryzen 7 7730U kết hợp cùng card AMD Radeon Graphics cho bạn vận hành trơn tru nhiều tác vụ tính toán phức tạp. Với cấu hình trên, bạn sẽ không chỉ vận hành hoàn hảo mọi công việc văn phòng hay giải trí thường ngày mà còn có thể thực hiện chạy code, xử lý đồ họa cơ bản với Photoshop, AI,... và chơi một số tựa game nhẹ.
 Detail: • Bộ nhớ RAM 16 GB đem lại khả năng vận hành các ứng dụng nặng một cách dễ dàng, mở nhiều cửa sổ trình duyệt cùng lúc mà không gặp hiện tượng đơ máy. Hơn nữa, ổ cứng SSD 512 GB NVMe PCIe làm cải thiện thời gian tải tệp tin và khởi động ứng dụng nhanh hơn đáng kể, cũng như đem đến không gian lưu trữ thoải mái.
@@ -954,7 +988,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 HDMI
 2 x USB 2.0
-1 x USB Type-C (chỉ hỗ trợ Power Delivery)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/311015/Slider/vi-vn-msi-modern-15-b7m-r7-238vn-slider-1.jpg và
+1 x USB Type-C (chỉ hỗ trợ Power Delivery)",1.75 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/311015/Slider/vi-vn-msi-modern-15-b7m-r7-238vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311015/msi-modern-15-b7m-r7-238vn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311015/msi-modern-15-b7m-r7-238vn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311015/msi-modern-15-b7m-r7-238vn-glr-3-750x500.jpg và
@@ -972,7 +1006,7 @@ https://cdn.tgdd.vn/Products/Images/44/311015/msi-modern-15-b7m-r7-238vn-glr-14-
 https://cdn.tgdd.vn/Products/Images/44/311015/msi-modern-15-b7m-r7-238vn-glr-15-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311015/msi-modern-15-b7m-r7-238vn-30-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/311015/Kit/msi-modern-15-b7m-r7-238vn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-modern-15-b7m-r7-238vn
+",https://www.thegioididong.com/laptop/msi-modern-15-b7m-r7-238vn,https://cdn.tgdd.vn/Products/Images/44/311015/msi-modern-15-b7m-r7-238vn-thumb-600x600.jpg
 Laptop MSI Prestige 13 AI Evo A1MG Ultra 7 155H/32GB/1TB/Balo/Chuột/Win11 (062VN),33.990.000₫,30.990.000₫,"Title: Bắt kịp ngay với xu thế làm việc thông minh từ tương lai với hàng loạt những tính năng AI tích hợp trên dòng chip mới, không chỉ thế laptop MSI Prestige 13 AI Evo A1MG Ultra 7 155H (062VN) còn sở hữu dáng vẻ cao cấp chuẩn doanh nhân, nhiều tiện ích hiện đại miễn bàn dành riêng cho các chuyên gia.
 Title: Thời thượng, nhỏ gọn bất ngờ
 Detail: Thiết kế máy dạng mỏng với bề dày chỉ vỏn vẹn 16.9 mm khi gập hoàn toàn, khối lượng ""có như không"" 0.99 kg cực kì linh động cho nhiều các chế độ làm việc trong ngày, mang vác đi khắp nơi mà không bị vướng víu. Mỏng nhẹ là thế nhưng laptop của bạn vẫn vô cùng bền bỉ khi phủ lớp vỏ Nhôm - Magie, hạn chế trầy xước và hỏng hóc trong quá trình sử dụng.
@@ -1001,7 +1035,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ",Card tích hợp - Intel Arc Graphics,"13.3""","4-cell Li-ion, 75 Wh",2.8K (2880 x 1800) - OLED 16:10,"Jack tai nghe 3.5 mm
 1 x USB 3.2
 HDMI
-2 x USB Type-C (hỗ trợ USB, Power Delivery, DisplayPort và Thunderbolt 4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322959/Slider/vi-vn-msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-thumbvideo.jpg và
+2 x USB Type-C (hỗ trợ USB, Power Delivery, DisplayPort và Thunderbolt 4)",0.99 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322959/Slider/vi-vn-msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-thumbvideo.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322959/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-1-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322959/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-2-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322959/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-3-1-750x500.jpg và
@@ -1020,7 +1054,7 @@ https://cdn.tgdd.vn/Products/Images/44/322959/msi-prestige-13-ai-evo-a1mg-ultra-
 https://cdn.tgdd.vn/Products/Images/44/322959/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322959/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-17-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322959/Kit/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn
+",https://www.thegioididong.com/laptop/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn,https://cdn.tgdd.vn/Products/Images/44/322959/msi-prestige-13-ai-evo-a1mg-ultra-7-062vn-070424-040052-600x600.jpg
 Laptop MSI Gaming Thin A15 B7UCX R5 7535HS/8GB/512GB/4GB RTX2050/144Hz/Balo/Win11 (020VN),18.990.000₫,15.490.000₫,"Title: Laptop MSI Gaming Thin A15 B7UCX R5 7535HS (020VN) với kiến trúc từ ngoại hình đến hiệu năng vượt trội bên trong, hầu như được định hình riêng dành cho những bạn trẻ có niềm đam mê thể thao điện tử. Có ngay những giây phút giải trí thật tuyệt vời với laptop gaming qua mức giá thật lý tưởng tại Thế Giới Di Động.
 Detail: • Bộ vi xử lý AMD Ryzen 5 7535HS với xung nhịp cao nhất đạt 4.55 GHz kết hợp cùng card rời NVIDIA GeForce RTX 2050 4 GB cho phép game thủ chinh chiến tốt ở nhiều tựa game Esports đình đám hiện nay như: LOL, CS:GO, Valorant,... Bên cạnh việc chiến game thoải mái thì người dùng còn vận dụng máy vào các công việc thường ngày, thiết kế bản kiến trúc hay chỉnh sửa đồ hoạ, edit video cũng không thành vấn đề.
 Detail: • Laptop MSI Gaming Thin A15 đi kèm với RAM 8 GB DDR5 tích hợp và nâng cấp lên được 64 GB, ổ SSD 512 GB NVMe PCIe Gen 4.0 đáp ứng tốt nhu cầu sử dụng các ứng dụng đòi hỏi tốc độ xử lý cao, khởi động hệ thống nhanh chóng và nhạy trong quá trình sử dụng thường ngày. Đồng thời, dung lượng bộ nhớ thoải mái để người dùng lưu trữ được bất cứ tựa game yêu thích nào.
@@ -1044,7 +1078,7 @@ Hỗ trợ RAM tối đa:: 64 GB
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322097/Slider/vi-vn-msi-gaming-thin-a15-b7ucx-r5-020vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.86 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322097/Slider/vi-vn-msi-gaming-thin-a15-b7ucx-r5-020vn-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322097/msi-gaming-thin-a15-b7ucx-r5-020vn-glr-1-638610494221810739-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322097/msi-gaming-thin-a15-b7ucx-r5-020vn-glr-2-638610494227858247-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322097/msi-gaming-thin-a15-b7ucx-r5-020vn-glr-3-638610494234080853-750x500.jpg và
@@ -1057,7 +1091,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322097/msi-gaming-thin-
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322097/msi-gaming-thin-a15-b7ucx-r5-020vn-glr-10-638610494276625865-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322097/msi-gaming-thin-a15-b7ucx-r5-020vn-glr-11-638610494282845029-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322097/msi-gaming-thin-a15-b7ucx-r5-020vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-thin-a15-b7ucx-r5-020vn
+",https://www.thegioididong.com/laptop/msi-gaming-thin-a15-b7ucx-r5-020vn,https://cdn.tgdd.vn/Products/Images/44/322097/msi-gaming-thin-a15-b7ucx-r5-020vn-thumb-600x600.jpg
 Laptop MSI Gaming Katana A15 AI B8VF R7 8845HS/16GB/512GB/8GB RTX4060/144Hz/Balo/Win11 (419VN),30.990.000₫,28.990.000₫,"Title: Trong dòng sản phẩm laptop gaming, MSI luôn nổi tiếng với sự đổi mới và hiệu suất vượt trội. Và giờ đây, bước tiếp theo trong hành trình này đã được chứng minh qua sự ra đời của dòng laptop MSI Gaming Katana A15 AI B8VF R7 8845HS (419VN) - một kiệt tác về công nghệ và hiệu năng. Với sự kết hợp hoàn hảo giữa thiết kế đỉnh cao và hiệu suất đa nhiệm ấn tượng, chiếc laptop này hứa hẹn sẽ đưa trải nghiệm gaming và làm việc đến một tầm cao mới.
 Title: Linh hoạt với hiệu năng vượt bậc
 Detail: MSI Gaming Katana được cung cấp năng lượng bởi CPU AMD Ryzen 7 8845HS, với 8 nhân và 16 luồng, tạo điều kiện lý tưởng cho hiệu suất vượt trội trong mọi tác vụ. Khả năng xử lý đa nhiệm mượt mà và đáng kinh ngạc là điểm nhấn đặc biệt của máy. Tốc độ CPU lên đến 3.8 GHz, không chỉ đáp ứng mượt mà cho các ứng dụng đòi hỏi cao về khả năng xử lý mà còn cung cấp sức mạnh đáng kinh ngạc trong các trò chơi hiện đại. Tuy nhiên, điểm đáng chú ý hơn nữa là tốc độ tối đa Turbo Boost tận 5.1 GHz, cho phép máy tăng cường hiệu suất một cách đáng kể trong các nhiệm vụ đòi hỏi sự nhanh chóng và mạnh mẽ.
@@ -1088,14 +1122,14 @@ Hỗ trợ RAM tối đa:: 64 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322949/Slider/vi-vn-msi-gaming-katana-a15-ai-b8vf-r7-419vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322949/Slider/vi-vn-msi-gaming-katana-a15-ai-b8vf-r7-419vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322949/msi-gaming-katana-a15-ai-b8vf-r7-419vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322949/msi-gaming-katana-a15-ai-b8vf-r7-419vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322949/msi-gaming-katana-a15-ai-b8vf-r7-419vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322949/msi-gaming-katana-a15-ai-b8vf-r7-419vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322949/msi-gaming-katana-a15-ai-b8vf-r7-419vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322949/msi-gaming-katana-a15-ai-b8vf-r7-419vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-katana-a15-ai-b8vf-r7-419vn
+",https://www.thegioididong.com/laptop/msi-gaming-katana-a15-ai-b8vf-r7-419vn,https://cdn.tgdd.vn/Products/Images/44/322949/msi-gaming-katana-a15-ai-b8vf-r7-419vn-thumb-600x600.jpg
 Laptop MSI Gaming Katana A15 AI B8VG R7 8845HS/16GB/1TB/8GB RTX4070/144Hz/Balo/Chuột/Bàn di/Win11 (465VN),39.990.000₫,36.990.000₫,"Title: MSI - gã khổng lồ trong làng laptop gaming, một lần nữa khẳng định vị thế tiên phong của mình với siêu phẩm laptop MSI Gaming Katana A15 AI B8VG R7 8845HS (465VN). Chiếc laptop này không chỉ là một cỗ máy chiến game mạnh mẽ mà còn là một kiệt tác nghệ thuật với thiết kế đỉnh cao.
 Detail: • Laptop MSI được trang bị bộ vi xử lý AMD Ryzen 7 8845HS với 8 nhân và 16 luồng, mang đến hiệu năng vượt trội cho mọi tác vụ. Tốc độ tối đa Turbo Boost lên đến 5.1 GHz, cho phép máy tăng cường hiệu suất đáng kể khi làm việc. Đặc biệt trong các tác vụ nặng như chơi game hay làm đồ họa đòi hỏi sự nhanh chóng và mạnh mẽ.
 Detail: • Được trang bị card rời NVIDIA GeForce RTX 4070 8 GB, MSI Katana mang đến cho bạn trải nghiệm chơi game và làm việc mượt mà, sắc nét. Chiến game AAA mở cài đặt cao, sáng tạo nội dung 3D chuyên nghiệp hay render video chất lượng cao, tất cả các tác vụ này đều được thực hiện dễ dàng hơn bao giờ hết.
@@ -1122,14 +1156,14 @@ Hỗ trợ RAM tối đa:: 64 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326280/Slider/vi-vn-msi-katana-a15-ai-b8vg-r7-465vn-sliders-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326280/Slider/vi-vn-msi-katana-a15-ai-b8vg-r7-465vn-sliders-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326280/msi-katana-a15-ai-b8vg-r7-465vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326280/msi-katana-a15-ai-b8vg-r7-465vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326280/msi-katana-a15-ai-b8vg-r7-465vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326280/msi-katana-a15-ai-b8vg-r7-465vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326280/msi-katana-a15-ai-b8vg-r7-465vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326280/msi-katana-a15-ai-b8vg-r7-465vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-katana-a15-ai-b8vg-r7-465vn
+",https://www.thegioididong.com/laptop/msi-katana-a15-ai-b8vg-r7-465vn,https://cdn.tgdd.vn/Products/Images/44/326280/msi-katana-a15-ai-b8vg-r7-465vn-thumb-600x600.jpg
 Laptop MSI Gaming Cyborg 15 AI A1VEK Ultra 7 155H/16GB/512GB/6GB RTX4050/144Hz/Balo/Win11 (053VN),30.990.000₫,28.490.000₫,"Title: Laptop MSI Gaming Cyborg 15 AI A1VEK Ultra 7 155H (053VN) với con chip AI thế hệ mới sẽ cùng bạn chinh chiến trên mọi tựa game. Giảm tối đa thời gian chờ đợi nhờ ổ SSD PCIe thế hệ 4 và bộ nhớ RAM 16 GB DDR5 tốc độ cao, luôn sẵn sàng đồng hành cùng game thủ trong mọi chiến thắng.
 Title: Chiến game đồ hoạ AAA đỉnh cao 
 Detail: Tự tin giành chiến thắng ở các tựa game AAA cấu hình cao hay hoàn thành nhiều dự án, kiến trúc đồ hoạ 3D, dựng phim và làm các công việc phát triển phần mềm nhờ con chip Intel Core Ultra 7 155H thế hệ mới được tích hợp nhân AI. Các tính năng AI hữu hiệu tối ưu việc phân bổ hiệu năng và tự động tinh chỉnh theo hoạt động, để bạn đạt được hiệu suất cao nhất khi chiến game hay làm việc mà vẫn đảm bảo được thời lượng sử dụng lâu dài.
@@ -1158,14 +1192,14 @@ Hỗ trợ RAM tối đa:: 96 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322099/Slider/vi-vn-msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.98 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322099/Slider/vi-vn-msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322099/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322099/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322099/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322099/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322099/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322099/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn
+",https://www.thegioididong.com/laptop/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn,https://cdn.tgdd.vn/Products/Images/44/322099/msi-gaming-cyborg-15-ai-a1vek-ultra-7-053vn-thumb-600x600.jpg
 Laptop MSI Gaming Katana 15 B13VGK i7 13620H/16GB/1TB/8GB RTX4070/144Hz/Balo/Win11 (1211VN),41.990.000₫,38.990.000₫,"Title: Laptop MSI Gaming Katana 15 B13VGK i7 13620H (1211VN) mang trong mình hiệu năng khủng từ chip Intel dòng H Gen 13 kết hợp cùng card rời RTX 40 series mang đến trải nghiệm chiến game tuyệt vời, cho anh em tự tin đắm chìm vào những đấu trường thể thao điện tử đầy kịch tính.
 Title: Bùng nổ hiệu năng, chiến game đỉnh cao
 Detail: MSI Gaming Katana 15 được trang bị trong mình bộ vi xử lý Intel Core i7 13620H Gen 13 có tốc độ xung nhịp tối đa lên đến 4.9 GHz mang đến hiệu năng mạnh mẽ cho bạn vận hành mượt mà dù cho là các công việc văn phòng nhập liệu, viết code hay các bản thiết kế phức tạp.
@@ -1199,13 +1233,13 @@ Hỗ trợ RAM tối đa:: 64 GB
 1 x USB 2.0
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310606/Slider/vi-vn-msi-gaming-katana-15-b13vgk-i7-1211vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/310606/Slider/vi-vn-msi-gaming-katana-15-b13vgk-i7-1211vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310606/msi-gaming-katana-15-b13vgk-i7-1211vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310606/msi-gaming-katana-15-b13vgk-i7-1211vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310606/msi-gaming-katana-15-b13vgk-i7-1211vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310606/msi-gaming-katana-15-b13vgk-i7-1211vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/310606/msi-gaming-katana-15-b13vgk-i7-1211vn-5-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-katana-15-b13vgk-i7-1211vn
+",https://www.thegioididong.com/laptop/msi-gaming-katana-15-b13vgk-i7-1211vn,https://cdn.tgdd.vn/Products/Images/44/310606/msi-gaming-katana-15-b13vgk-i7-1211vn-thumb-600x600.jpg
 Laptop MSI Gaming Katana A15 AI B8VE R7 8845HS/16GB/512GB/6GB RTX4050/144Hz/Balo/Win11 (402VN),28.990.000₫,26.990.000₫,"Title: Laptop MSI Gaming Katana A15 AI B8VE R7 8845HS (402VN) sở hữu thiết kế độc đáo mang cảm hứng từ thanh kiếm Samurai - một biểu tượng lớn của Nhật Bản. Máy có hiệu năng vượt trội từ con chip Ryzen 7, GPU RTX 40 series,... mang đến cho bạn những giây phút giải trí tuyệt vời.
 Detail: • MSI Gaming Katana với CPU AMD Ryzen 7 8845HS và card rời NVIDIA GeForce RTX 4050 6 GB với tính năng MUX Switch mang đến hiệu năng mạnh mẽ vượt qua hàng loạt những tựa game hot hay những công việc đồ hoạ phức tạp. Bên cạnh việc giải trí thông thường, laptop cũng hỗ trợ rất hiệu quả cho nhiều các tác vụ công việc thường ngày.
 Detail: • Không chỉ sở hữu vi xử lý và GPU mạnh mẽ, laptop gaming còn được trang bị RAM 16 GB DDR5 với tốc độ Bus đạt 5600 MHz, đáp ứng độ mượt mà khi xử lý các phầm mềm đồ hoạ hay trò chơi trong thời gian dài, giảm tối ưu các hiện tượng đứng hình, giật lag trong quá trình sử dụng. Nếu có nhu cầu cao hơn thì game thủ có thể dễ dàng nâng RAM được lên tối đa 64 GB.
@@ -1232,14 +1266,14 @@ Hỗ trợ RAM tối đa:: 64 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322098/Slider/vi-vn-msi-gaming-katana-a15-ai-b8ve-r7-402vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322098/Slider/vi-vn-msi-gaming-katana-a15-ai-b8ve-r7-402vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322098/msi-gaming-katana-a15-ai-b8ve-r7-402vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322098/msi-gaming-katana-a15-ai-b8ve-r7-402vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322098/msi-gaming-katana-a15-ai-b8ve-r7-402vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322098/msi-gaming-katana-a15-ai-b8ve-r7-402vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322098/msi-gaming-katana-a15-ai-b8ve-r7-402vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322098/msi-gaming-katana-a15-ai-b8ve-r7-402vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-gaming-katana-a15-ai-b8ve-r7-402vn
+",https://www.thegioididong.com/laptop/msi-gaming-katana-a15-ai-b8ve-r7-402vn,https://cdn.tgdd.vn/Products/Images/44/322098/msi-gaming-katana-a15-ai-b8ve-r7-402vn-thumb-600x600.jpg
 Laptop MSI Gaming Stealth 16 Mercedes AMG A1VGG Ultra 9 185H/32GB/2TB/8GB RTX4070/240Hz/Win11 (293VN),70.990.000₫,66.490.000₫,"Title: Laptop MSI Gaming Stealth 16 Mercedes AMG A1VGG Ultra 9 185H (293VN) đánh dấu một bước ngoặt trong thiết kế và hiệu năng, hòa quyện giữa công nghệ đỉnh cao và sự sáng tạo từ Mercedes-AMG Motorsport. Sự kết hợp này mang lại một sản phẩm không chỉ mạnh mẽ về cấu hình mà còn đầy phong cách, phù hợp cho cả game thủ lẫn nhà sáng tạo nội dung.
 Title: Xử lý cực mượt mọi yêu cầu
 Detail: Laptop MSI được trang bị vi xử lý Intel Core Ultra 9 185H với 16 nhân và 22 luồng, mang lại hiệu năng xử lý đa nhiệm tuyệt vời. Với cấu hình này, bạn có thể thoải mái chơi các tựa game AAA đỉnh cao hay thực hiện các công việc đồ họa, lập trình phức tạp mà không gặp bất kỳ trở ngại nào. Hơn nữa, ở thế hệ chip mới này còn tích hợp thêm nhân xử lý AI - NPU cho phép quản lý hiệu suất xử lý, truy cập phần mềm, ứng dụng nhanh gọn cùng hàng loạt các tính năng thông minh khác.
@@ -1270,14 +1304,14 @@ Hỗ trợ RAM tối đa:: 64 GB
 1 x USB 3.2
 HDMI
 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4)
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328600/Slider/vi-vn-msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.99 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328600/Slider/vi-vn-msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328600/msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328600/msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328600/msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328600/msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328600/msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn-5-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328600/msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn-30-638605295172996641-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn
+",https://www.thegioididong.com/laptop/msi-stealth-16-mercedes-amg-a1vgg-ultra-9-293vn,
 Laptop MSI Gaming Stealth 18 Mercedes AMG A1VHG Ultra 9 185H/64GB/2TB/12GB RTX4080/Win11 (080VN),102.990.000₫,97.990.000₫,"Title: Mẫu laptop MSI Gaming Stealth 18 Mercedes AMG A1VHG Ultra 9 185H (080VN) đánh dấu sự hợp tác ấn tượng và đầy cảm hứng của MSI với hãng xe Mercedes-AMG Motorsport nổi tiếng. Sản phẩm sở hữu bộ cấu hình cực đỉnh, màn hình rộng lớn chuẩn studio, đa tính năng tối tân và trên hết là mang theo một ý tưởng kiến thiết độc đáo từ trong ra ngoài.
 Title: Độc đáo với kiểu dáng thể thao
 Detail: Vẻ ngoài của mẫu laptop MSI Gaming Stealth nay đã được ""độ"" hoàn hảo hơn, năng động hơn theo hơi hướng từ dòng xe Mercedes AMG vốn đã cực kỳ thể thao. Nắp lưng và chiếu nghỉ tay bằng hợp kim Nhôm-Magie bền bỉ được đặt cách điệu với logo MSI và Mercedes thể hiện sự hợp tác của 2 thương hiệu lớn. Ngoài ra, cảm hứng thiết kế còn được thể hiện qua nhiều những chi tiết nhỏ như nút nguồn là độc đáo, hoa văn AMG độc quyền trên chiếu nghỉ tay và các cạnh viền,...
@@ -1310,7 +1344,7 @@ Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)
-1 x Thunderbolt 4 ( hỗ trợ DisplayPort, Power Delivery 3.1)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328597/Slider/vi-vn-msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn-slider-1.jpg và
+1 x Thunderbolt 4 ( hỗ trợ DisplayPort, Power Delivery 3.1)",2.89 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328597/Slider/vi-vn-msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328597/msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328597/msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328597/msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn-3-750x500.jpg và
@@ -1318,30 +1352,7 @@ https://cdn.tgdd.vn/Products/Images/44/328597/msi-stealth-18-mercedes-amg-a1vhg-
 https://cdn.tgdd.vn/Products/Images/44/328597/msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328597/msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn-6-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328597/msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn-30-638605295037002073-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn
-Laptop MSI Prestige 14 AI Studio C1VEG Ultra 7 155H/32GB/1TB/6GB RTX4050/Túi/Win11 (056VN),36.990.000₫,32.990.000₫,,"Công nghệ CPU:: Intel Core Ultra 7 Meteor Lake - 155H
-Số nhân:: 16
-Số luồng:: 22
-Tốc độ CPU:: 3.8GHz
-Tốc độ tối đa:: Turbo Boost 4.8 GHz
-Bộ nhớ đệm:: 24 MB
-","RAM:: 32 GB
-Loại RAM:: DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB)
-Tốc độ Bus RAM:: 5600 MHz
-Hỗ trợ RAM tối đa:: 32 GB
-","Ổ cứng:: 1 TB SSD NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác nâng cấp tối đa 4 TB)
-","Card rời - NVIDIA GeForce RTX 4050, 6 GB","14""","4-cell, 90Wh",2.8K (2880 x 1800),"LAN (RJ45)
-1x Headphone-out
-1 x USB 3.2
-HDMI
-1 x USB Type-C (hỗ trợ USB, Power Delivery 3.1 và DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329789/Slider/vi-vn-msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-slider-1.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-1-638618200589595280-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-2-638618200595720813-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-3-638618200601063974-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-4-638618200607585952-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-5-638618200612938234-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329789/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn-30-638618200619041425-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-prestige-14-ai-studio-c1veg-ultra-7-056vn
+",https://www.thegioididong.com/laptop/msi-stealth-18-mercedes-amg-a1vhg-ultra-9-080vn,
 Laptop MSI Creator M16 HX C14VFG i7 14700HX/32GB/1TB/8GB RTX4060/240Hz/Balo/Win11 (040VN),45.990.000₫,41.990.000₫,"Title: Laptop MSI Creator M16 HX C14VFG i7 14700HX (040VN) - chiếc laptop hội tụ tinh hoa thiết kế đỉnh cao cùng cấu hình mạnh mẽ từ CPU thế hệ 14, sẽ là trợ thủ đắc lực dành riêng cho các nhà sáng tạo nghệ thuật và thiết kế đồ họa.
 Detail: • Laptop MSI Creator được trang bị bộ vi xử lý Intel Core i7 14700HX mạnh mẽ với 20 nhân và 28 luồng xử lý, mang đến hiệu năng vượt trội, đáp ứng hoàn hảo mọi nhu cầu công việc từ các tác vụ nặng nhọc đến sáng tạo nội dung chuyên nghiệp.
 Detail: • Được trang bị card rời RTX 40 series mạnh mẽ mang tên NVIDIA RTX 4060 8 GB, nhờ đó bạn có thể xử lý mọi tác vụ đồ họa nặng như chơi game, thiết kế 3D, dựng video,... một cách mượt mà, nhanh chóng, giải phóng sức sáng tạo không giới hạn.
@@ -1368,7 +1379,7 @@ Hỗ trợ thêm 1 khe SSD NVMe PCIe Gen 5
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325583/Slider/vi-vn-msi-creator-m16-hx-c14vfg-i7-040vn-1.jpg và
+1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)",2.38 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325583/Slider/vi-vn-msi-creator-m16-hx-c14vfg-i7-040vn-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325583/msi-creator-m16-hx-c14vfg-i7-040vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325583/msi-creator-m16-hx-c14vfg-i7-040vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325583/msi-creator-m16-hx-c14vfg-i7-040vn-3-750x500.jpg và
@@ -1376,7 +1387,7 @@ https://cdn.tgdd.vn/Products/Images/44/325583/msi-creator-m16-hx-c14vfg-i7-040vn
 https://cdn.tgdd.vn/Products/Images/44/325583/msi-creator-m16-hx-c14vfg-i7-040vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325583/msi-creator-m16-hx-c14vfg-i7-040vn-6-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325583/msi-creator-m16-hx-c14vfg-i7-040vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-creator-m16-hx-c14vfg-i7-040vn
+",https://www.thegioididong.com/laptop/msi-creator-m16-hx-c14vfg-i7-040vn,
 Laptop MSI Cyborg 15 A13VFK i7 13620H/16GB/512GB/8GB RTX4060/144Hz/Balo/Win11 (876VN),29.990.000₫,27.990.000₫,"Title: Nếu bạn là một game thủ đam mê thể thao điện tử, muốn sở hữu một cỗ máy mạnh mẽ để chinh chiến trong các trận đấu đỉnh cao thì không thể bỏ qua chiếc laptop MSI Cyborg 15 A13VFK i7 13620H (876VN). Đây chính là người bạn đồng hành hoàn hảo giúp bạn ""chiến"" hết mình trong mọi tựa game từ nhẹ nhàng đến đồ họa nặng.
 Detail: • Chiếc MSI Gaming Cyborg 15 được trang bị bộ vi xử lý Intel Core i7 13620H và card đồ họa NVIDIA GeForce RTX 4060 8 GB, mang lại khả năng xử lý vượt trội cho các tựa game nặng như Cyberpunk 2077, Call of Duty: Warzone và Battlefield 2042. Ngoài ra, máy cũng hỗ trợ tốt cho các hoạt động chỉnh sửa đồ hoạ 2D, thiết kế 3D được trên các phần mềm chuyên dụng AutoCAD, Blender.
 Detail: • Laptop MSI Gaming Cyborg được trang bị mức RAM cơ bản 16 GB, hỗ trợ cho việc vận hành linh động đa tác vụ và phần mềm, chuyển đổi giữa nhiều cửa sổ, ứng dụng khác nhau mà không bị gián đoạn, giật lag. Trong quá trình sử dụng, game thủ có thể lựa chọn nâng cấp RAM lên tối đa tận 64 GB theo nhu cầu cá nhân.
@@ -1401,7 +1412,7 @@ Hỗ trợ RAM tối đa:: 64 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327401/Slider/vi-vn-msi-cyborg-15-a13vfk-i7-876vn-1.jpg và
+1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",1.98 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327401/Slider/vi-vn-msi-cyborg-15-a13vfk-i7-876vn-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327401/msi-cyborg-15-a13vfk-i7-876vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327401/msi-cyborg-15-a13vfk-i7-876vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327401/msi-cyborg-15-a13vfk-i7-876vn-3-750x500.jpg và
@@ -1409,7 +1420,7 @@ https://cdn.tgdd.vn/Products/Images/44/327401/msi-cyborg-15-a13vfk-i7-876vn-4-75
 https://cdn.tgdd.vn/Products/Images/44/327401/msi-cyborg-15-a13vfk-i7-876vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327401/msi-cyborg-15-a13vfk-i7-876vn-6-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327401/msi-cyborg-15-a13vfk-i7-876vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-cyborg-15-a13vfk-i7-876vn
+",https://www.thegioididong.com/laptop/msi-cyborg-15-a13vfk-i7-876vn,
 Laptop MSI Gaming Katana A15 AI B8VG R9 8945HS/16GB/1TB/8GB RTX4070/144Hz/Balo/Lót chuột/Chuột/Win11 (466VN),41.990.000₫,38.990.000₫,"Title: Trong trường đua vị thế của những chiếc laptop gaming trên thị trường hiện nay, laptop MSI Gaming Katana A15 AI B8VG R9 8945HS (466VN) nổi lên như một vũ công đầy mê hoặc, chinh phục mọi người dùng bằng sức mạnh vượt trội với con chip Ryzen 9 thế hệ mới mạnh mẽ và phong cách thiết kế ấn tượng.
 Detail: • ""Trái tim"" của Katana A15 là bộ vi xử lý AMD Ryzen 9 8945HS mạnh mẽ với 8 nhân 16 luồng, tốc độ tối đa lên đến 5.20 GHz. Cỗ máy này sẵn sàng khuấy đảo mọi chiến trường ảo, cân mượt mọi tác vụ nặng, từ chiến game nặng, render video 4K mượt mà đến lập trình AI phức tạp. Khả năng xử lý vượt trội giúp bạn chinh phục mọi thử thách, biến mọi trận chiến thành điệu nhảy chiến thắng đầy say mê.
 Detail: • Card đồ họa NVIDIA GeForce RTX 4070 8 GB đỉnh cao cùng tính năng MUX Switch mang đến trải nghiệm đồ họa sống động, sắc nét, biến mọi khung hình game trở thành những thước phim điện ảnh chân thực. Khả năng xử lý đồ họa mạnh mẽ cho phép bạn thỏa sức sáng tạo nội dung chuyên nghiệp hay chiến game AAA ở mức cài đặt cao mà không lo giật lag hay giảm tốc.
@@ -1435,38 +1446,14 @@ Hỗ trợ RAM tối đa:: 64 GB
 2 x USB 3.2
 HDMI
 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)
-1 x Headphone/microphone combo",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327402/Slider/vi-vn-msi-katana-a15-ai-b8vg-r9-466vn-1.jpg và
+1 x Headphone/microphone combo",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327402/Slider/vi-vn-msi-katana-a15-ai-b8vg-r9-466vn-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327402/msi-katana-a15-ai-b8vg-r9-466vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327402/msi-katana-a15-ai-b8vg-r9-466vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327402/msi-katana-a15-ai-b8vg-r9-466vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327402/msi-katana-a15-ai-b8vg-r9-466vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327402/msi-katana-a15-ai-b8vg-r9-466vn-6-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327402/msi-katana-a15-ai-b8vg-r9-466vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-katana-a15-ai-b8vg-r9-466vn
-Laptop MSI Thin 15 B13UC i7 13620H/32GB/512GB/4GB RTX3050/144Hz/Balo/Win11 (1411VN),21.990.000₫,21.490.000₫,,"Công nghệ CPU:: Intel Core i7 Raptor Lake - 13620H
-Số nhân:: 10
-Số luồng:: 16
-Tốc độ CPU:: 2.4GHz
-Tốc độ tối đa:: Turbo Boost 4.9 GHz
-Bộ nhớ đệm:: 24 MB
-","RAM:: 32 GB
-Loại RAM:: DDR4 2 khe (1 khe 16 GB + 1 khe 16 GB)
-Tốc độ Bus RAM:: 3200 MHz
-Hỗ trợ RAM tối đa:: 64 GB
-","Ổ cứng:: 512 GB SSD NVMe PCIe Gen 4.0
-Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
-","Card rời - NVIDIA GeForce RTX 3050, 4 GB","15.6""","3-cell Li-ion, 52.4 Wh",Full HD (1920 x 1080),"LAN (RJ45)
-1x Mic-in
-1x Headphone-out
-3 x USB 3.2
-HDMI
-1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)",Windows 11 Home SL,"https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-1-638644313867381079-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-2-638644313877046210-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-3-638644313884541764-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-4-638644313892360704-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-5-638644313898009515-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330932/msi-thin-15-b13uc-i7-1411vn-30-638645160026566509-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-thin-15-b13uc-i7-1411vn
+",https://www.thegioididong.com/laptop/msi-katana-a15-ai-b8vg-r9-466vn,
 Laptop MSI Gaming Sword 16 HX B14VEKG i7 14700HX/16GB/1TB/6GB RTX4050/144Hz/Win11 (459VN),35.990.000₫,32.990.000₫,"Title: Khi nói đến một cỗ máy game đỉnh cao, laptop MSI Gaming Sword 16 HX B14VEKG i7 14700HX (459VN) không chỉ đơn thuần là một lựa chọn, nó còn là một biểu tượng của sự mạnh mẽ và hiệu năng tuyệt vời. Với thiết kế mạnh mẽ, công nghệ tiên tiến và màn hình mướt mắt, chiếc laptop này chính là vũ khí lợi hại dành cho mọi game thủ và tín đồ công nghệ.
 Detail: • Sức mạnh của MSI Gaming Sword 16 được khai thác từ con chip Intel Core i7 14700HX, với 20 nhân và 28 luồng. Đây là trái tim của cỗ máy, mang đến khả năng xử lý đa nhiệm siêu mượt mà, cho phép bạn thực hiện hàng loạt tác vụ từ lập trình, dựng video đến chơi những tựa game AAA một cách không thể trơn tru hơn. Kết hợp với card đồ họa rời NVIDIA GeForce RTX 4050 6 GB, bạn sẽ được trải nghiệm đồ họa chân thực và mượt mà, dù là trong những trận chiến khốc liệt hay khi xử lý các dự án thiết kế đồ họa chuyên sâu.
 Detail: • Được gắn RAM 16 GB DDR5 với tốc độ Bus đạt 5600 MHz, laptop gaming đảm bảo mọi ứng dụng của bạn chạy không bị gián đoạn, từ việc điều khiển nhân vật trong các game chiến thuật đến chỉnh sửa các dự án thiết kế đồ họa chồng nhiều layers. Và nếu bạn cần nhiều hơn nữa, khả năng nâng cấp RAM lên tới 96 GB sẽ đáp ứng mọi yêu cầu của bạn.
@@ -1492,14 +1479,14 @@ Hỗ trợ thêm 1 khe SSD NVMe PCIe Gen 5
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328553/Slider/vi-vn-msi-sword-16-hx-b14vekg-i7-459vn-1.jpg và
+1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)",2.3 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328553/Slider/vi-vn-msi-sword-16-hx-b14vekg-i7-459vn-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328553/msi-sword-16-hx-b14vekg-i7-459vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328553/msi-sword-16-hx-b14vekg-i7-459vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328553/msi-sword-16-hx-b14vekg-i7-459vn-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328553/msi-sword-16-hx-b14vekg-i7-459vn-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328553/msi-sword-16-hx-b14vekg-i7-459vn-5-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328553/msi-sword-16-hx-b14vekg-i7-459vn-30-638605294862694479-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-sword-16-hx-b14vekg-i7-459vn
+",https://www.thegioididong.com/laptop/msi-sword-16-hx-b14vekg-i7-459vn,
 Laptop MSI Prestige 14 AI Studio C1UDXG Ultra 7 155H/16GB/1TB/6GB RTX3050/144Hz/Túi/Win11 (058VN),30.990.000₫,26.990.000₫,,"Công nghệ CPU:: Intel Core Ultra 7 Meteor Lake - 155H
 Số nhân:: 16
 Số luồng:: 22
@@ -1516,14 +1503,14 @@ Hỗ trợ RAM tối đa:: 32 GB
 1 x USB 3.2
 HDMI
 1 x USB Type-C (hỗ trợ USB, Power Delivery 3.1 và DisplayPort)
-1 x Thunderbolt 4 (hỗ trợ display/power delivery)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329787/Slider/vi-vn-msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn-slider-1.jpg và
+1 x Thunderbolt 4 (hỗ trợ display/power delivery)",1.7 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329787/Slider/vi-vn-msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329787/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn-1-638618202899742032-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329787/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn-2-638618202906226020-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329787/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn-3-638618202911703369-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329787/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn-4-638618202918074544-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329787/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn-5-638618202923638256-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329787/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn-30-638618202929382017-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn
+",https://www.thegioididong.com/laptop/msi-prestige-14-ai-studio-c1udxg-ultra-7-058vn,
 Laptop MSI Creator Z17 HX Studio A14VGT i7 14700HX/32GB/2TB/8GB RTX4070/165Hz/Touch/Pen/Balo/Win11 (272VN),71.990.000₫,65.990.000₫,"Title: Laptop MSI Creator Z17 HX Studio A14VGT i7 14700HX (272VN) là một tuyệt tác hoàn hảo cho lĩnh vực sáng tạo. Với bộ vi xử lý Intel Core i7 thế hệ 14 mới nhất và card đồ họa rời NVIDIA RTX 40 series, máy này đảm bảo hiệu năng mạnh mẽ để xử lý mọi tác vụ nặng, bao gồm chỉnh sửa ảnh, video và các ứng dụng đồ họa chuyên nghiệp.
 Title: Bứt phá mọi giới hạn với chip Intel thế hệ mới
 Detail: Laptop MSI Creator được trang bị bộ vi xử lý Intel Core i7 14700HX mạnh mẽ với 20 nhân và 28 luồng xử lý, giúp bạn hoàn thành mọi tác vụ một cách nhanh chóng và mượt mà, từ lập trình đến thiết kế đồ họa phức tạp. Card rời NVIDIA GeForce RTX 4070, 8 GB chuyên dụng cho đồ họa kỹ thuật cho phép bạn sáng tạo không giới hạn với các phần mềm thiết kế, ấn phẩm nhiều lớp, đồ họa 3D phức tạp hay render video 4K mượt mà.
@@ -1552,7 +1539,7 @@ Hỗ trợ thêm 1 khe SSD NVMe PCIe Gen 5
 1 x USB 3.2
 HDMI
 1 x USB Type-C (hỗ trợ USB, Power Delivery, DisplayPort và Thunderbolt 4)
-1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325575/Slider/vi-vn-msi-creator-z17-hx-studio-a14vgt-i7-272vn-slider-1.jpg và
+1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4)",2.49 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325575/Slider/vi-vn-msi-creator-z17-hx-studio-a14vgt-i7-272vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325575/msi-creator-z17-hx-studio-a14vgt-i7-272vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325575/msi-creator-z17-hx-studio-a14vgt-i7-272vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325575/msi-creator-z17-hx-studio-a14vgt-i7-272vn-3-750x500.jpg và
@@ -1560,4 +1547,4 @@ https://cdn.tgdd.vn/Products/Images/44/325575/msi-creator-z17-hx-studio-a14vgt-i
 https://cdn.tgdd.vn/Products/Images/44/325575/msi-creator-z17-hx-studio-a14vgt-i7-272vn-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325575/msi-creator-z17-hx-studio-a14vgt-i7-272vn-6-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325575/msi-creator-z17-hx-studio-a14vgt-i7-272vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/msi-creator-z17-hx-studio-a14vgt-i7-272vn
+",https://www.thegioididong.com/laptop/msi-creator-z17-hx-studio-a14vgt-i7-272vn,

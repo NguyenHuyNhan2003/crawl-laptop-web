@@ -1,4 +1,4 @@
-product_name,actual_price,discount_price,description,processor,ram,storage,graphic_card,display_size,battery,resolution,ports,operating_system,image_link,product_link
+product_name,actual_price,discount_price,description,processor,ram,storage,graphic_card,display_size,battery,resolution,ports,weight,operating_system,image_link,product_link,product_general_img_link
 Laptop Apple MacBook Air 13 inch M1 8GB/256GB (MGN63SA/A),19.990.000₫,18.590.000₫,"Title: Laptop Apple MacBook Air M1 2020 thuộc dòng laptop cao cấp sang trọng có cấu hình mạnh mẽ, chinh phục được các tính năng văn phòng lẫn đồ hoạ mà bạn mong muốn, thời lượng pin dài, thiết kế mỏng nhẹ sẽ đáp ứng tốt các nhu cầu làm việc của bạn.
 Title: Chip Apple M1 tốc độ xử lý nhanh gấp 3.5 lần thế hệ trước
 Detail: Chiếc MacBook này được trang bị con chip Apple M1 được sản xuất độc quyền bởi Nhà Táo trên tiến trình 5 nm, 8 lõi bao gồm 4 lõi tiết kiệm điện và 4 lõi hiệu suất cao, mang đến một hiệu năng kinh ngạc, xử lý mọi tác vụ văn phòng một cách mượt mà như Word, Excel, Powerpoint,... thực hiện tốt các nhiệm vụ chỉnh sửa hình ảnh, kết xuất 2D trên các phần mềm Photoshop, AI,... máy còn hỗ trợ tiết kiệm được điện năng cao.
@@ -36,15 +36,15 @@ Tốc độ Bus RAM:: Hãng không công bố
 Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ","Ổ cứng:: 256 GB SSD
 ",Card tích hợp - 7 nhân GPU,"13.3""",Lên đến 18 giờ,Retina (2560 x 1600),"Jack tai nghe 3.5 mm
-2 x Thunderbolt 3 (USB-C)",macOS,"https://cdn.tgdd.vn/Products/Images/44/231244/Slider/vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo.jpg và
+2 x Thunderbolt 3 (USB-C)",1.29 kg,macOS,"https://cdn.tgdd.vn/Products/Images/44/231244/Slider/vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo.jpg và
 https://cdn.tgdd.vn/Products/Images/44/231244/grey-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/231244/grey-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/231244/grey-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/231244/grey-4-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/231244/grey-5-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/231244/apple-macbook-air-2020-mgn63saa-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/apple-macbook-air-2020-mgn63saa
-Laptop Apple MacBook Air 13 inch M2 8GB/256GB (MLXW3SA/A),24.990.000₫,24.090.000₫,"Title: Sau 14 năm, ba lần sửa đổi và hai kiến trúc bộ vi xử lý khác nhau, kiểu dáng mỏng dần mang tính biểu tượng của MacBook Air đã đi vào lịch sử. Thay vào đó là một chiếc MacBook Air M2 với thiết kế hoàn toàn mới, độ dày không thay đổi tương tự như MacBook Pro, đánh bật mọi rào cản với con chip Apple M2 đầy mạnh mẽ.
+",https://www.thegioididong.com/laptop/apple-macbook-air-2020-mgn63saa,https://cdn.tgdd.vn/Products/Images/44/231244/macbook-air-m1-2020-gray-600x600.jpg
+Laptop Apple MacBook Air 13 inch M2 8GB/256GB (MLY33SA/A),24.990.000₫,24.490.000₫,"Title: Sau 14 năm, ba lần sửa đổi và hai kiến trúc bộ vi xử lý khác nhau, kiểu dáng mỏng dần mang tính biểu tượng của MacBook Air đã đi vào lịch sử. Thay vào đó là một chiếc MacBook Air M2 với thiết kế hoàn toàn mới, độ dày không thay đổi tương tự như MacBook Pro, đánh bật mọi rào cản với con chip Apple M2 đầy mạnh mẽ.
 Title: Lột xác ngoạn mục với thiết kế thời thượng, sang trọng 
 Detail: Sự đẳng cấp đến từ ngoại hình của chiếc MacBook Air nhà Apple là điều không thể phủ nhận và khó có dòng sản phẩm cùng phân khúc nào có thể qua mặt được. Vẫn là lớp vỏ kim loại nguyên khối cứng cáp cùng các cạnh góc vuông vức, sang trọng nhưng chiếc MacBook Air 2022 năm nay đã thoát ra khỏi ngôn ngữ thiết kế nhẹ nhàng vốn có từ lâu và khoác lên diện mạo mới tương tự như “đàn anh” MacBook Pro.
 Detail: 
@@ -97,81 +97,61 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ","Ổ cứng:: 256 GB SSD
 ",Card tích hợp - 8 nhân GPU,"13.6""",Lên đến 18 giờ,Liquid Retina (2560 x 1664),"MagSafe 3
 Jack tai nghe 3.5 mm
-2 x Thunderbolt 3",macOS,"https://cdn.tgdd.vn/Products/Images/44/282827/Slider/vi-vn-apple-macbook-air-m2-2022-thumbvideo-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-01-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-02-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-03-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-04-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-05-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-06-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-07-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-glr-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022
-Laptop Apple MacBook Air 13 inch M3 8GB/256GB (MRXN3SA/A),27.990.000₫,26.990.000₫,"Title: Tiếp nối những thành công mạnh mẽ từ phiên bản Macbook Air M2, thì nay MacBook Air M3 đã quay lại thật bùng nổ vào những tháng đầu 2024 này. Với con chip M3 cải tiến tuyệt vời, ngoại hình đến tiện ích ""miễn chê"" sẽ cho bạn trải nghiệm những chế độ công việc tuyệt vời.
-Title: Nguồn tài nguyên tuyệt vời từ dòng chip thế hệ mới 
-Detail: Macbook Air sử dụng con chip Apple M3 với 8 nhân CPU được sản xuất dựa trên tiến trình 3 nm mới, mỏng nhẹ hoàn toàn nhưng lại sở hữu mức hiệu năng theo hãng nhận định là vượt trội hơn hẳn các thế hệ trước, 1.6x lần nhanh hơn thế hệ M1 và vận dụng nhanh hơn đến 13x lần đối với thế hệ chip Intel.
+2 x Thunderbolt 3",1.24 kg,macOS,"https://cdn.tgdd.vn/Products/Images/44/282827/Slider/vi-vn-apple-macbook-air-m2-2022-thumbvideo-1.jpg và
+https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-1-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-2-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-3-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-4-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-glr-30-3-750x500.jpg và
+",https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022,https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-xanh-600x600.jpg
+Laptop Apple MacBook Air 13 inch M3 16GB/256GB,32.990.000₫,32.090.000₫,"Title: Trong những tháng đầu năm 2024, nhà ""Táo Khuyết"" đã cho ra mắt mẫu MacBook Air M3 13 inch 16GB 256GB được trang bị con chip M3 tiên tiến mạnh mẽ với kích thước nhỏ gọn, linh hoạt phù hợp với nhiều nhu cầu sử dụng, tự tin trở thành chiếc laptop xách tay năng suất nhất hiện nay.
+Title: Hiệu năng mạnh mẽ thách thức mọi giới hạn
+Detail: Được đánh giá là một trong những mẫu laptop xách tay sẽ ""hot"" nhất trong năm 2024, nhà Apple đã trang bị cho mẫu MacBook Air năm nay chip Apple M3 mạnh mẽ trên tiến trình 3 nm tiên tiến. Điều này đã giúp hiệu suất của máy được nâng cao đáng kể, vượt hơn 20% so với chip M2 và đến 60% so với chip M1. Những chỉ số này, phần nào giúp bạn có thể nhận định về sự mạnh mẽ của em nó trước những tác vụ nặng đòi hỏi tài nguyên lớn hay những tác vụ đa nhiệm phức tạp.
 Detail: 
-Detail: Với khả năng tiếp cận một hệ sinh thái ứng dụng rộng lớn hỗ trợ cho các tính năng AI tiên tiến, chất lượng công việc cũng được nâng lên đáng kể từ tự động cải thiện hình ảnh trong Pixelmator Pro, cho đến loại bỏ tiếng ồn trong nền khỏi video bằng CapCut.
-Detail: Thực hiện thật hoàn hảo từ những tác vụ công việc hàng ngày, Macbook Air M3 còn chinh phục người dùng sáng tạo khi trang bị 8 nhân GPU vừa đảm nhận các nhiệm vụ tạo dựng và xuất hình ảnh đáng kinh ngạc, cho phép bạn thao tác mượt mà các ứng dụng đồ họa như Adobe Illustrator, Premiere,... vừa chơi các video game đồ hoạ hay phát phim ở mức phân giải 4K.
-Detail: Đảm nhiệm linh hoạt và mượt mà khối lượng công việc lớn cùng lúc với RAM 8 GB đi cùng băng thông bộ nhớ đạt 100 GB/s, chuyển qua lại nhiều phần mềm mà không gặp bất cứ khoảng dừng nào. Ổ cứng SSD 256 GB cho không gian lưu trữ ổn định đồng thời gia tăng tốc độ đọc ghi nhanh chóng hơn.
+Detail: Trên mẫu laptop này còn là sự kết hợp hoàn hảo giữa dòng CPU 8 nhân và GPU 10 nhân giúp đem lại một bộ máy mạnh mẽ, xử lý mọi tác vụ từ nhẹ đến nặng một cách trơn tru và hiệu quả như chạy coding, chiến những tựa game AAA có mức setting cao, render video, hình ảnh 4K tất cả đều có thể diễn ra hoàn toàn ổn định và ấn tượng.
+Detail: Mẫu máy còn sử dụng thanh RAM 16 GB, vì thế mẫu MacBook này chắc chắn bạn có thể chạy đồng thời nhiều tác vụ như vừa lướt web, nghe nhạc hay mở nhiều cửa sổ làm việc cùng một lúc một cách linh hoạt và ổn định nhất.
+Detail: Ổ cứng có dung lượng lưu trữ cơ bản là SSD 256 GB tuy không phải là một dung lượng lớn nhưng cũng khá đủ để bạn có thể lưu nhiều tài liệu học tập hay làm việc và có khả năng đọc và trích xuất nhanh chóng. 
+Title: Chiếc màn hình Liquid Retina sắc nét và sống động
+Detail: Tuy là một chiếc laptop nhỏ gọn nhưng mẫu Macbook Air này lại được trang bị một chiếc màn hình có kích thước 13.6 inch cùng mức độ phân giải cao Liquid Retina (2560 x 1664) vô cùng sắc nét và sống động giúp đưa trải nghiệm xem phim, video và làm việc lên một tầm cao mới.
+Detail: Với số lượng màu sắc hơn 1 tỷ cùng dải màu rộng P3 và công nghệ True Tone tái tạo tốt mọi màu sắc trở nên sống động và chân thật hơn. Bên cạnh đó, độ sáng của màn hình lên đến 500 nits vì thế bạn có thể trải nghiệm một không gian làm việc và học tập thoải mái ở bất cứ điều kiện ánh sáng nào.
 Detail: 
-Detail: Hệ điều hành macOS tích hợp trên các mẫu máy của Apple Silicon mang đến kho ứng dụng cực khủng từ chỉnh sửa nội dung cho công việc, học tập đến giải trí cá nhân, đồng thời còn nâng cao trình bảo mật hệ thống, giữ tính an toàn cao cho thông tin của bạn.
-Title: Ngoại hình hiện đại, biểu tượng của nét sang trọng 
-Detail: Những chiếc Macbook Air 13 inch đã có sự cải tiến đáng kể về mặt thiết kế vào khoảng 3 năm trước mà vẫn duy trì kiểu dáng đó cho đến bây giờ với các bề mặt dát phẳng khi chế tác từ vỏ nhôm tái chế 100%, thân máy mỏng cùng khối lượng chỉ vỏn vẹn 1.24 kg đặc trưng cho cái tên ""Air"" của thiết bị. 
+Detail: Bạn có thể được trải nghiệm một cảm giác âm thanh sống động, vô song với hệ thống 4 loa cùng sự kết hợp ăn ý của cặp công nghệ Dolby Atmos, Spatial Audio giúp âm thanh di chuyển xung quanh bạn theo cách tự nhiên, bạn sẽ cảm nhận như mình đang ở trong trung tâm của sự kiện, với chất âm xuất phát từ các hướng khác nhau.
+Title: Thiết kế tinh tế, sang trọng định hình phong cách
+Detail: Mẫu Macbook Air năm nay được kế thừa vẻ ngoài tinh tế và sang trọng của thế hệ trước với những đường nét toát lên được sự hiện đại, tối giản, không những thế phần vỏ năm nay cũng được chế tạo từ kim loại nhôm tái chế 100% thân thiện với môi trường lại càng toát lên nét thanh lịch vốn có của tổng thể máy.
 Detail: 
-Detail: Bàn phím Magic Key với độ cao phím tiêu chuẩn, thoải mái khi bấm gõ, hàng phím chức năng cùng bộ phím tắt cực kì thuận tiện cho các công việc thường ngày. MacBook luôn là sự lựa chọn hàng đầu cho những người làm việc văn phòng hay yêu thích sự yên tĩnh với trải nghiệm gõ phím cực êm tay và hạn chế tối đa việc ảnh hưởng tiếng ồn đến những người xung quanh. Đèn nền có thể tinh chỉnh độ sáng tuỳ theo bất cứ hoàn cảnh môi trường nào.
-Detail: Tính năng bảo mật vân tay được tích hợp với phím nguồn của máy vừa giúp bạn mở máy nhanh chóng chỉ bằng một chạm, vừa củng cố thêm hệ thống bảo mật thông tin riêng tư khi truy cập các trang web và truy xuất thông tin trong quá trình sử dụng hàng ngày. 3 microphones hỗ trợ tối đa cho quá trình học tập và làm việc từ xa, thu âm thanh ấn tượng để nâng cao hiệu suất công việc.
+Detail: Đối với những ai có nhu cầu đi lại và cần sử dụng chiếc laptop cao cấp - sang trọng nhiều thì chiếc máy tính xách tay này hoàn toàn là sự lựa chọn vô cùng lý tưởng với khối lượng chỉ vỏn vẹn 1.24 kg.
+Detail: Cảm giác gõ phím trên bàn phím Magic Keyboard của mẫu máy này dường như đã luôn nhận được sự ưu ái từ người sử dụng nhờ cảm giác đánh máy vô cùng tuyệt vời, hơn nữa còn đi kèm dải đèn nền hỗ trợ bạn làm việc trong điều kiện ánh sáng yếu, tạo ra những buổi làm việc đẹp mắt và hiệu quả hơn rất nhiều.
+Detail: Mẫu Macbook Air M3 năm nay cũng được nhà Apple sử dụng tính năng bảo mật vân tay được tích hợp ngay trong phần bàn phím nhờ thế bạn có thể tắt mở máy được nhanh hơn chỉ trong một cú chạm, tạo cảm giác sử dụng tiện lợi và an toàn.
 Detail: 
-Detail: Hai cổng Thunderbolt 3 / USB 4, Jack tai nghe 3.5 mm cùng MagSafe 3 đã đem lại cho máy vẻ đẹp tối giản nhưng vẫn đảm bảo truyền tải mọi dữ liệu hay hình ảnh, video,... đến các thiết bị ngoại vi khác một cách nhanh chóng và dễ dàng. 
+Detail: Macbook Air này cũng sở hữu hàng loạt các cổng giao tiếp đa dạng, đáp ứng đầy đủ nhu cầu của người dùng trong việc kết nối với các thiết bị và phụ kiện khác nhau như Thunderbolt 3 / USB 4 hỗ trợ tốc độ truyền dữ liệu nhanh chóng, Jack tai nghe 3.5 mm và MagSafe 3 thông minh có khả năng giữ chặt cổng sạc, tạo ra trải nghiệm sạc an toàn và hiệu quả.
 Detail: 
-Title: Màn hình Retina cực nét
-Detail: Kích thước màn hình 13.6 inch có độ phân giải Liquid Retina (2560 x 1664) cùng độ hiển thị tối ưu đến 1 tỷ màu đưa đến những mảng màu sắc đỉnh cao để giải trí, tính tương phản cao cùng độ sắc nét tuyệt vời của hình ảnh sẽ khiến bạn đắm mình sâu vào những cung bậc cảm xúc trong các bộ phim yêu thích, làm việc và học tập đều tốt.
-Detail: Với độ sáng 500 nits, người dùng hoàn toàn tự tin khi sử dụng máy ở những điều kiện môi trường bên ngoài, dưới ánh đèn hay cạnh cửa sổ mà vẫn quan sát tốt nội dung. Dải màu rộng P3 cùng công nghệ True Tone cho các khung ảnh được tái tạo chuyên nghiệp và chân thực nhất so với điều kiện ánh sáng xung quanh. 
-Detail: 
-Detail: Hệ thống âm thanh vòm đa chiều Dolby Atmos, Spatial Audio kết hợp cùng 4 loa trên laptop mang đến trọn vẹn những trải nghiệm giải trí chân thực với chất âm sống động, âm bass to rõ, độ khuếch đại lớn để bạn hòa mình vào những bản tình ca du dương hay các tập phim hành động kịch tính.
-Detail: 
-Detail: MacBook Air 13 inch M3 2024 phiên bản lần này với hiệu năng được cải tiến tối ưu, hơn nữa cho chất lượng công việc, tiện nghi sử dụng cùng ngoại hình mỏng nhẹ đầy thu hút vẫn được giữ nguyên và còn có phần nâng cấp hơn trước, chắc chắn sẽ không làm các tín đồ nhà Táo thất vọng.
-Detail: Tiêu chí
-MacBook Air M3
-MacBook Pro M3
-Thời gian ra mắt
-03/2024 10/2023
-CPU
-CPU 8 nhân với 4 lõi hiệu năng và 4 lõi hiệu suất
-CPU 8 nhân với 4 lõi hiệu năng và 4 lõi hiệu suất
-GPU
-GPU lên đến 10 lõi GPU lên đến 10 lõi
-RAM
-8GB
-16GB
-Mở rộng lên đến 24GB
-8GB
-16GB
-Mở rộng lên đến 24GB
-SSD 256GB SSD
+Detail: Nhìn chung, Mẫu MacBook Air 13 inch M3 2024 10-core GPU không chỉ là một chiếc laptop thông thường, mà còn là biểu tượng của sự hiện đại và bền vững. Với thiết kế siêu mỏng và siêu nhẹ cùng sức mạnh từ chip M3 tiên tiến, nó là người bạn đồng hành đáng tin cậy trong mọi hành trình, cho cả sinh viên, nhà sáng tạo hay doanh nhân.
 ","Công nghệ CPU:: Apple M3 - Hãng không công bố
 Số nhân:: 8
 Số luồng:: Hãng không công bố
 Tốc độ CPU:: 100GB/s
 Tốc độ tối đa:: Hãng không công bố
 Bộ nhớ đệm:: Hãng không công bố
-","RAM:: 8 GB
+","RAM:: 16 GB
 Loại RAM:: Hãng không công bố
 Tốc độ Bus RAM:: Hãng không công bố
 Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ","Ổ cứng:: 256 GB SSD
-",Card tích hợp - 8 nhân GPU,"13.6""",Lên đến 18 giờ,Liquid Retina (2560 x 1664),"MagSafe 3
+",Card tích hợp - 10 nhân GPU,"13.6""",Lên đến 18 giờ,Liquid Retina (2560 x 1664),"MagSafe 3
 Jack tai nghe 3.5 mm
-2 x Thunderbolt 3 / USB 4 (lên đến 40 Gb/s)",macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/322612/Slider/vi-vn-macbook-air-13-inch-m3-2024-slider-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322612/macbook-air-13-inch-m3-2024-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322612/macbook-air-13-inch-m3-2024-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322612/macbook-air-13-inch-m3-2024-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322612/macbook-air-13-inch-m3-2024-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322612/macbook-air-13-inch-m3-2024-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322612/macbook-air-13-inch-m3-2024-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322612/macbook-air-13-inch-m3-2024-7-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322612/apple-macbook-glr-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/macbook-air-13-inch-m3-2024
+2 x Thunderbolt 3 / USB 4 (lên đến 40 Gb/s)",1.24 kg,macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/322633/Slider/vi-vn-macbook-air-13-inch-m3-2024-16gb-256gb-slider-1.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-512gb-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-512gb-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-512gb-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-512gb-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-512gb-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-512gb-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-512gb-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322633/apple-macbook-glr-30-750x500.jpg và
+",https://www.thegioididong.com/laptop/macbook-air-13-inch-m3-2024-16gb-256gb,https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-16gb-256gb-050324-110756-600x600.jpg
 Laptop MacBook Air 15 inch M2 8GB/256GB Sạc 70W (Z18T0003T),32.990.000₫,27.590.000₫,"Title: Trong thế giới công nghệ ngày nay, Apple luôn đứng đầu trong việc đem lại sự đổi mới và hiệu suất vượt trội thông qua các sản phẩm của mình. Trong số đó, MacBook Air 15 inch M2 2023 không chỉ là một bước tiến quan trọng mà còn là biểu tượng cho sự tiên phong và sáng tạo của hãng. Với thiết kế tinh tế, hiệu năng mạnh mẽ và tính di động tuyệt vời, chiếc MacBook Air này đã chinh phục không chỉ những người hâm mộ cuồng nhiệt của Apple mà còn cả những người tiêu dùng khó tính nhất.
 Title: Vẻ ngoài mỏng manh, tỏa sáng lấp lánh
 Detail: Thiết kế của MacBook Air 15 inch M2 2023 không chỉ là một cải tiến, mà còn là một sự cảm nhận tinh tế về sự đẳng cấp và phong cách. Với việc kế thừa và phát triển từ những dòng sản phẩm ra mắt trước đó, Apple mang đến cho bạn một diện mạo mới mẻ, sang trọng nhưng vẫn giữ được nét tinh tế vốn có của nó.
@@ -217,7 +197,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ","Ổ cứng:: 256 GB SSD
 ",Card tích hợp - 10 nhân GPU,"15.3""",Lên đến 18 giờ,Liquid Retina,"MagSafe 3
 Jack tai nghe 3.5 mm
-2 x Thunderbolt / USB 4 (hỗ trợ DisplayPort, Thunderbolt 3 (up to 40Gb/s), USB 4 (up to 40Gb/s))",macOS,"https://cdn.tgdd.vn/Products/Images/44/322939/Slider/macbook-air-15-inch-m3-2024-70w638465322530113581-1020x570.jpg và
+2 x Thunderbolt / USB 4 (hỗ trợ DisplayPort, Thunderbolt 3 (up to 40Gb/s), USB 4 (up to 40Gb/s))",1.51 kg,macOS,"https://cdn.tgdd.vn/Products/Images/44/322939/Slider/macbook-air-15-inch-m3-2024-70w638465322530113581-1020x570.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322939/macbook-air-15-inch-m2-2023-70w-1-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322939/macbook-air-15-inch-m2-2023-70w-2-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322939/macbook-air-15-inch-m2-2023-70w-3-3-750x500.jpg và
@@ -228,126 +208,36 @@ https://cdn.tgdd.vn/Products/Images/44/322939/macbook-air-15-inch-m2-2023-70w-7-
 https://cdn.tgdd.vn/Products/Images/44/322939/macbook-air-15-inch-m2-2023-70w-8-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322939/macbook-air-15-inch-m2-2023-70w-9-3-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322939/macbook-air-15-inch-m2-2023-70w-10-3-750x500.jpg và
-",https://www.thegioididong.com/laptop/macbook-air-15-inch-m2-2023-70w
-Laptop Apple MacBook Pro 14 inch M3 8GB/512GB (MR7J3SA/A),39.990.000₫,38.190.000₫,"Title: MacBook Pro M3 8 GB là một bước tiến đáng kể trong dòng sản phẩm laptop của Apple, nổi bật với sự tập trung tối ưu hóa hiệu suất và đồ họa đỉnh cao. Với con chip M3 mạnh mẽ, sản phẩm này đặt ra một tiêu chuẩn mới cho hiệu năng và thiết kế thanh lịch. Điều này hứa hẹn mang đến trải nghiệm làm việc mượt mà và hiệu quả, đồng hành đỉnh cao cho tất cả tác vụ từ văn phòng, giải trí cho đến đồ họa chuyên nghiệp.
-Title: Sức mạnh đỉnh cao thể hiện qua con chip M3 cải tiến
-Detail: Mang trong mình chip Apple M3 tân tiến, chiếc MacBook Pro 14 inch M3 2023 không chỉ đại diện cho một sự tiến bộ đáng kể trong vi xử lý máy tính, mà còn thể hiện sự đột phá cùng công nghệ 3 nanometer. CPU 8 lõi gồm 4 lõi hiệu năng cao và 4 lõi tiết kiệm điện, cho khả năng xử lý đa luồng nhanh hơn đáng kể, đem đến một sự kết hợp hoàn hảo giữa hiệu suất và tối ưu năng lượng, hỗ trợ người dùng thực hiện các tác vụ đa nhiệm và thao tác đòi hỏi hiệu năng phải được tối đa hóa.
-Detail: CPU M3 được cải thiện đáng kể vượt trội hơn CPU M2 đến 20%, thậm chí còn nhanh hơn CPU M1 đến 35%, đây thật sự là một sự vượt bậc đáng chú ý. Điều này giúp người dùng làm việc với các ứng dụng đòi hỏi tính toán cao cấp, đồ họa một cách mượt mà và hiệu quả.
+",https://www.thegioididong.com/laptop/macbook-air-15-inch-m2-2023-70w,https://cdn.tgdd.vn/Products/Images/44/322939/macbook-air-15-inch-m3-2024-70w-130324-032500-600x600.jpg
+Laptop Apple MacBook Pro 14 inch M3 16GB/512GB,44.990.000₫,44.490.000₫,"Title: MacBook Pro 14 inch M3 2023 8-core CPU không chỉ thể hiện được ngoại hình đẳng cấp doanh nhân từ những đường nét tinh giản, còn được mang hiệu năng xuất sắc với con chip M3 thế hệ mới cùng đa dạng tiện ích cho quá trình sử dụng. Hãy tham khảo ngay với mức giá hấp dẫn tại Thế Giới Di Động.
+Title: Chip Apple M3 với khả năng xử lý vượt bậc
+Detail: Chip Apple M3 được thiết kế dựa trên tiến trình 3 nm nhỏ gọn và hiện đại hơn, chip gồm 8 nhân CPU cùng khả năng băng thông bộ nhớ đạt tốc độ 100 GB/s mang đến khả năng xử lý chuyên sâu hơn với những công việc coding, đồ hoạ hay xử lý effects,... Một số những chứng thực được hãng nêu ra là chip có tốc độ kết xuất đồ hoạ nhanh hơn đến 2,5 lần và tiết kiệm điện năng hơn hẳn 50% so với dòng chip M1.
 Detail: 
-Detail: MacBook Pro thực sự thống trị trong lĩnh vực đồ họa và kỹ thuật, với khả năng thực hiện trơn tru các tác vụ chỉnh ảnh, thiết kế hay render video trên các ứng dụng đồ họa hàng đầu như Photoshop, Illustrator, Premiere,... Với 10 nhân GPU mạnh mẽ, nó mang đến tốc độ xử lý hiệu suất nhanh hơn so với các con chip trước, vượt trội hơn M2 lên đến 20% và M1 lên đến 65% đây thực sự là một sự đột phá đáng kinh ngạc.
+Detail: 10 nhân GPU cùng công nghệ tích hợp Dynamic Caching tăng đáng kể mức sử dụng GPU, nhờ đó hiệu năng được tăng mạnh giúp đáp ứng các tựa game và ứng dụng thiết kế chuyên nghiệp nhất. Công nghệ dò tia tốc độ cao Ray Tracing còn làm dựng chân thực hơn hẳn những khung hình đổ bóng, thấy được độ sâu hơn trong vật thể và làm tăng đáng kể chất lượng bảng đồ họa của bạn.
 Detail: 
-Detail: Hơn nữa, MacBook Pro M3 được trang bị kiến trúc Dynamic Caching, công nghệ Mesh shading và Ray tracing là những tính năng giúp tối ưu hóa hiệu suất đồ họa, cho máy tính hoạt động mượt mà và nhanh chóng hơn bao giờ hết, cung cấp độ chi tiết và hiệu ứng 3D tinh tế và tốc độ dò tia để tạo ra hình ảnh sống động.
-Detail: Với bộ nhớ RAM 8 GB, chiếc MacBook có khả năng tiến hành đa nhiệm, cho phép người dùng mở cùng lúc nhiều cửa sổ làm việc, thực hiện các layer đồ họa hoặc làm việc trên các file Excel lớn mà không gặp phải tình trạng giật lag. Hơn nữa, thiết bị còn sở hữu tốc độ đọc và ghi nhanh chóng, thời gian khởi động máy được rút ngắn đáng kể nhờ ổ cứng SSD 512 GB.
-Detail: Sự tối ưu hóa của bộ vi xử lý M3 đảm bảo rằng hiệu năng của MacBook Pro không bị ảnh hưởng bất kể bạn sử dụng pin hay cắm sạc. Thời lượng pin cũng rất ấn tượng, khả năng phát video trong 22 giờ liên tục, thiết bị không chỉ đảm bảo rằng bạn có thể làm việc hoặc sáng tạo trong thời gian dài, đáp ứng trọn vẹn nhu cầu pin cho bạn sử dụng cả ngày.
-Title: Màn hình Retina trải nghiệm chuẩn sắc nét
-Detail: MacBook Pro M3 14 inch thật sự ấn tượng với màn hình Liquid Retina XDR kích thước 14.2 inch, độ phân giải gốc 3024 x 1964 cung cấp nội dung hiển thị mang chất lượng sắc nét, cảm giác nhìn qua màn ảnh rất chân thực và sống động. Apple đã tích hợp công nghệ mini-LED và độ sáng duy trì lên đến 1.000 nits, tỷ lệ tương phản 1.000.000:1 và dải màu P3 Wide, tạo ra màu sắc tươi sáng và trung thực.
+Detail: Để mọi người dùng: từ các nhà sáng tạo nội dung, editor hay coder có thể tự tin đa nhiệm thật hiệu quả, MacBook Pro 14 inch với bộ nhớ RAM 16 GB cho phép mở cùng lúc nhiều tab nội dung và chương trình nặng, hỗ trợ chuyển đổi qua lại mượt mà. Đi kèm với đó là dung lượng SSD 512 GB đáp ứng không gian rộng lớn để lưu trữ được mọi dự án kiến trúc, tác phẩm đồ hoạ của người dùng.
+Title: Khung hình chuẩn sắc nét, giải trí sống động 
+Detail: Màn hình Liquid Retina XDR kích thước 14.2 inch với độ phân giải 3024 x 1964 đắm chìm bất cứ người dùng nào vào không gian giải trí siêu thực, những khung hình đồ hoạ sắc nét và sinh động. Công nghệ Extreme Dynamic Range (XDR) hỗ trợ hiển thị vùng sáng tươi nhất với độ sáng lên đến 1600 nits, 10.000 đèn LED mini dưới nền không chỉ khiến cho vật thể hiển thị được sống động và còn thu hút với gam màu đen sâu hơn.
 Detail: 
-Detail: Theo Apple, người dùng có thể trải nghiệm xem nội dung HDR với hình ảnh sắc nét, vùng sáng rực rỡ, màu đen sâu và màu sắc sống động hơn. Khi hiển thị nội dung SDR, màn hình chỉ đạt độ sáng tối đa 600 nits, trong khi nội dung HDR đạt đến con số 1.600 nits, mang lại trải nghiệm hình ảnh độc đáo. True Tone, tính năng được thiết kế để cân bằng trắng màn hình để phù hợp với ánh sáng xung quanh phòng, là một trong những công nghệ đặc trưng của Apple.
-Detail: Màn hình của chiếc MacBook Pro 14 inch không chỉ có tần số quét lên đến 120 Hz mà còn được hỗ trợ bởi công nghệ ProMotion tự động điều chỉnh để phù hợp với chuyển động của nội dung, từ việc giải trí với các tựa game, làm đồ họa, đến chỉnh sửa video. Điều này cho phép bạn tùy chỉnh tốc độ làm mới khung hình để tương xứng với từng đoạn phim, tạo ra trải nghiệm tối ưu.
+Detail: Dải màu rộng Wide color (P3) cung cấp một chuẩn màu xuất sắc để tái tạo thực nhất mọi tác phẩm đồ hoạ. Tần số quét lên đến 120 Hz, hạn chế tối đa tình trạng nhòe hay xé hình trên máy, thiết kế đồ hoạ động hay thưởng thức những thước phim bom tấn thật mướt mắt.
 Detail: 
-Detail: Chiếc MacBook Pro M3 14 inch được trang bị một hệ thống âm thanh 6 loa, tạo ra một trải nghiệm âm thanh vòm ấn tượng. Sự kết hợp giữa công nghệ Spatial Audio và Dolby Atmos giúp bạn ngập tràn trong thế giới từ mọi góc độ, đắm chìm vào không gian sống động, thưởng thức những bài nhạc yêu thích và những thước phim hành động kịch tính.
-Detail: Thêm vào đó, chiếc máy tính này được trang bị 3 microphones để cải thiện chất lượng âm khi bạn thực hiện cuộc gọi điện thoại hoặc tham gia vào các cuộc họp trực tuyến. Điều này đảm bảo rằng bạn sẽ có trải nghiệm thoại tốt nhất và âm thanh rõ ràng khi giao tiếp từ xa.
+Detail: Sự kết hợp ăn ý từ hệ thống âm thanh 6 loa tích hợp với các công nghệ Spatial Audio và Dolby Atmos, chúng ta có được chất lượng âm thanh sống động, âm sắc mạnh mẽ cùng hiệu ứng âm vòm đầy kỳ diệu khi thưởng thức âm nhạc hoặc xem phim, bộ xử lý cũng loại bỏ hoàn toàn các phương diện về vấn đề méo, rè tiếng trong những tình huống tham gia video call hoặc gọi trực tuyến.
+Title: Ý tưởng thiết kế được xây dựng tuyệt vời
+Detail: Phong cách định hình của những chiếc Macbook Pro M3 luôn tối giản trên mọi bề mặt, sở hữu những gam màu đơn giản nhưng vẫn xây dựng được một độ nhận diện cao cấp và sang trọng hơn hẳn so với những mẫu máy xách tay trên thị trường. Lớp vỏ nhôm tái chế 100% mang đến tính bền bỉ, các mặt được làm hiệu ứng nhám thể hiện trọn vẹn tính đẳng cấp của mẫu thiết bị.
 Detail: 
-Title: Đường nét thiết kế lôi cuốn, đẳng cấp thời thượng ở mọi điểm chạm
-Detail: Laptop Apple vẫn giữ phong thái sang trọng với lớp vỏ kim loại nguyên khối cứng cáp, các cạnh góc bo tròn tinh tế và chiếc logo táo khuyết huyền thoại nằm giữa máy, tạo nên một nét đẹp đặc trưng, đẳng cấp và thu hút mọi ánh nhìn mỗi khi nó xuất hiện. Khả năng thiết kế này không chỉ mang lại ánh nhìn thẩm mỹ cho người dùng mà còn giúp máy tính trở nên nhẹ nhàng lý tưởng, tạo điều kiện thuận lợi cho di chuyển và sử dụng máy mọi nơi.
-Detail: Chiếc laptop có kích thước gọn nhẹ dài 312.6 mm, rộng 221.2 mm, dày 15.5 mm và khối lượng 1.55 kg nhỏ gọn tạo điều kiện thuận lợi cho di chuyển và sử dụng trên đường. Sản phẩm cũng được thiết kế để giảm thiểu tác động đối với môi trường, với 100% vật liệu nhôm tái chế từ vỏ ngoài nam châm đến bo mạch chủ bên trong máy. Điều này thể hiện cam kết của Apple đối với bảo vệ môi trường và sự bền vững trong thiết kế sản phẩm.
+Detail: Macbook Pro M3 16GB sở hữu Magic Keyboard với khuôn phím được bố trí hợp lý, hàng phím chức năng hỗ trợ các tiện ích thao tác ở trên cùng, Touch ID giúp người dùng mở khoá thiết bị nhanh chóng cũng như tạo tính bảo mật hơn trong quá trình sử dụng. Hơn nữa, bàn phím với đèn nền đơn sắc trắng tối ưu hơn cho mọi công việc khi bạn sử dụng trong không gian tối.
 Detail: 
-Detail: Bàn phím của MacBook Pro M3 14 inch đi kèm với hàng phím chức năng có chiều cao đầy đủ và tích hợp Touch ID bạn có thể mở khóa laptop vô cùng nhanh chóng chỉ với một lần chạm được tích hợp trên nút nguồn. Không những rút ngắn thời gian thao tác đăng nhập mà còn đảm bảo độ an toàn hơn cho dữ liệu bên trong so với loại mật khẩu truyền thống. Laptop còn được trang bị bàn phím với đèn nền trắng hỗ trợ bạn làm việc trong môi trường thiếu sáng tốt hơn.
+Detail: Thời lượng pin ấn tượng lên đến 22 tiếng sử dụng liên tục, mang theo bên mình mọi lúc mà không cần quá cồng kềnh với thiết bị sạc. Đồng thời, laptop cũng bao quát mọi phương diện và không gian làm việc với 1080p FaceTime HD camera cho phép hình ảnh của bạn luôn được hiển thị rõ nét ở những buổi họp online, học tập trực tuyến.
 Detail: 
-Detail: Được trang bị các tính năng kết nối bao gồm cổng HDMI kết nối máy tính với màn hình, Jack tai nghe 3.5 mm cho phép bạn kết nối tai nghe hoặc loa ngoài mà không cần sử dụng Bluetooth, MagSafe 3 cổng sạc từ xa độc đáo giúp sạc máy tính một cách nhanh chóng và an toàn, Thunderbolt / USB 4 truyền dữ liệu nhanh chóng cung cấp tốc độ lên đến 40Gb/s, USB 4.
-Detail: Bên cạnh đó, việc kết hợp giữa Bluetooth 5.3 và Wi-Fi 6E đảm bảo đường truyền mạng luôn ổn định và nhanh chóng, giúp bạn trải nghiệm kết nối internet và các thiết bị không dây một cách tốt nhất.
-Detail: 
-Detail: Không những thế, việc sản phẩm này có cho mình thêm nhiều dòng chip M3 khác như MacBook Pro M3 Pro, MacBook Pro M3 Max bạn hoàn toàn yên tâm để lựa chọn phù hợp với nhu cầu của mình.
-Title: So sánh MacBook Pro M3 14 inch (8GB/512GB) với MacBook Pro M3 Max 14 inch (36GB/1TB), MacBook Pro M3 Pro 14 inch (18GB/512GB)
-Detail: Tiêu chí 
-MacBook Pro M3 14 inch (8GB/512GB)
-MacBook Pro M3 Pro 14 inch (18GB/512GB)
-MacBook Pro M3 Max 14 inch (36GB/1TB)
-CPU
- • Apple M3
- • 8 nhân
- • Apple M3 Pro
- • 12 nhân
- •  Apple M3 Max
- • 14 nhân
-RAM và Ổ cứng
- • 8 GB 
- • 512 GB SSD
- • 18 GB
- • 512 GB SSD
- • 36 GB
- • 1 TB SSD
-Card đồ họa
- • 10 nhân GPU
- • 18 nhân GPU
- • 30 nhân GPU
-Khối lượng
- • 1.55 kg
- • 1.61 kg
- • 1.61 kg
-Pin
- • Lên đến 22 giờ
- • Lên đến 18 giờ 
- • Lên đến 18 giờ
-Công suất bộ sạc
- • 70 W 
- • 70 W
- • 96 W
-Title: So sánh MacBook Pro M3 và MacBook Pro M2
-Detail: Tiêu chí 
-MacBook Pro M3 
-MacBook Pro M2
-Chip xử lý
- • M3
- • M3 Pro
- • M3 Max 
- (Lên đến 16 nhân) 
- • M2 Pro
- • M2 Max 
- (Lên đến 12 nhân)
-Dung lượng
- • Lên đến 8 TB
- • Lên đến 8 TB
-Bộ nhớ thống nhất
- • Lên đến 128 GB
- • Lên đến 96 GB
-Băng thông bộ nhớ
- • Lên đến 400 GB/s băng thông bộ nhớ
- • 400 GB/s băng thông bộ nhớ
-Đồ hoạ
- • Lên đến 40 nhân với dò tia tăng tốc phần cứng
- • Lên đến 38 nhân
-Media engine 
- • H.264, ProRes và ProRes RAW được tăng tốc phần cứng
- • Bộ giải mã video
- • Bộ mã hoá video 
- • Bộ mã hoá và giải mã ProRes
- • Bộ giải mã AV1 
- • H.264, ProRes và ProRes RAW được tăng tốc phần cứng
- • Bộ giải mã video
- • Bộ mã hoá video
- • Bộ mã hoá và giải mã ProRes
-Neural engine 
- • 16 nhân
- • 16 nhân
-Title: Bảng giá MacBook Pro M3
-Detail: Các phiên bản MacBook Pro 14 inch M3 2023
-Giá bán Quốc Tế
-Giá bán tại Thế Giới Di Động
-MacBook Pro 14 inch M3 2023 (Chip Apple M3/8GB/512GB)
-1.599 USD 
-39.990.000₫
-MacBook Pro 14 inch M3 2023 (Chip Apple M3/8GB/1TB)
-1.799 USD
-44.990.000₫
-Detail: MacBook Pro 14 inch M3 2023 thực sự đáng chú ý với sự kết hợp hoàn hảo giữa hiệu suất mạnh mẽ từ bộ vi xử lý M3 và màn hình Liquid Retina XDR tuyệt đẹp. Nếu bạn là một chuyên gia trong lĩnh vực đồ họa, thiết kế hoặc cần một máy tính có hiệu suất cao để thực hiện các tác vụ đa nhiệm nặng, thì laptop đồ họa - kỹ thuật này có thể là sự lựa chọn hoàn hảo cho bạn. Đây là một sản phẩm không chỉ đẹp mắt mà còn đáng giá cho công việc và sáng tạo, vượt trội về hiệu năng và cả thiết kế đẳng cấp thời thượng.
+Detail: Macbook được trang bị nhiều cổng giao tiếp khác nhau để người dùng có thể kết nối màn hình, thiết bị ngoại vi nhanh chóng và dễ dàng như: HDMI, Jack tai nghe 3.5 mm, Thunderbolt / USB 4, Thunderbolt 3, USB 4, khe thẻ nhớ SD và cổng sạc MagSafe 3 với thiết kế đặc biệt vừa tích hợp sạc nhanh vừa tiện lợi và an toàn cho thiết bị với đầu hút nam châm tránh được những tình trạng rơi rớt khi vướng dây sạc.
+Detail: Tổng kết lại, MacBook Pro 14 inch M3 2023 8-core CPU chứng thực là một bước tiến lớn về hiệu suất công việc và đồ hoạ cho mọi đối tượng người dùng, máy còn sở hữu thêm nhiều tiện ích tối tân như màn hình sắc nét cùng hệ sinh thái kết nối tuyệt vời của Apple. Sản phẩm laptop đồ hoạ - kỹ thuật này hoàn toàn là một khoản đầu tư xứng đáng cho bạn trải nghiệm.
 ","Công nghệ CPU:: Apple M3 - Hãng không công bố
 Số nhân:: 8
 Số luồng:: Hãng không công bố
 Tốc độ CPU:: 100GB/s
 Tốc độ tối đa:: Hãng không công bố
 Bộ nhớ đệm:: Hãng không công bố
-","RAM:: 8 GB
+","RAM:: 16 GB
 Loại RAM:: Hãng không công bố
 Tốc độ Bus RAM:: Hãng không công bố
 Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
@@ -355,19 +245,19 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ",Card tích hợp - 10 nhân GPU,"14.2""",Lên đến 22 giờ,Liquid Retina XDR display (3024 x 1964),"MagSafe 3
 Jack tai nghe 3.5 mm
 HDMI
-2 x Thunderbolt / USB 4 (hỗ trợ DisplayPort, Thunderbolt 3 (up to 40Gb/s), USB 4 (up to 40Gb/s))",macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/318228/Slider/vi-vn-macbook-pro-14-inch-m3-2023-slider-0.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-7-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-8-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-9-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-acv-10-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/318228/macbook-pro-14-inch-m3-2023-30-2-750x500.jpg và
-",https://www.thegioididong.com/laptop/macbook-pro-14-inch-m3-2023
+2 x Thunderbolt / USB 4 (hỗ trợ DisplayPort, Thunderbolt 3 (up to 40Gb/s), USB 4 (up to 40Gb/s))",1.55 kg,macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/320981/Slider/vi-vn-macbook-pro-14-inch-m3-2023-16gb-slider-1.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-8-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-9-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-10-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-11-750x500.jpg và
+",https://www.thegioididong.com/laptop/macbook-pro-14-inch-m3-2023-16gb,https://cdn.tgdd.vn/Products/Images/44/320981/macbook-pro-14-inch-m3-2023-16gb-thumb-600x600.jpg
 Laptop Apple MacBook Air 13 inch M2 16GB/256GB/10GPU (Z15W),29.990.000₫,29.090.000₫,"Title: Siêu phẩm Apple MacBook Air 13 inch M2 16GB/256GB đã chính thức trình làng, mang đến một bước tiến vượt bậc về hiệu năng, hứa hẹn khuấy đảo thị trường máy tính xách tay.
 Title: Hiệu năng mạnh mẽ từ chip Apple M2
 Detail: MacBook Air được trang bị chip Apple M2, mang đến hiệu suất CPU mạnh mẽ hơn 18% so với thế hệ M1 trước đây. Nhờ vậy, bạn có thể hoàn thành mọi tác vụ học tập và làm việc từ cơ bản đến nâng cao một cách mượt mà và nhanh chóng hơn bao giờ hết. Dù là xử lý văn bản, chỉnh sửa ảnh, thiết kế đồ họa, lập trình hay chơi game, máy đều có thể đáp ứng một cách hoàn hảo.
@@ -398,7 +288,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ","Ổ cứng:: 256 GB SSD
 ",Card tích hợp - 10 nhân GPU,"13.6""",Lên đến 18 giờ,Liquid Retina (2560 x 1664),"MagSafe 3
 Jack tai nghe 3.5 mm
-2 x Thunderbolt 3",macOS,"https://cdn.tgdd.vn/Products/Images/44/325306/Slider/vi-vn-apple-macbook-air-m2-2022-16gb-256gb-10gpu-slider-1.jpg và
+2 x Thunderbolt 3",1.24 kg,macOS,"https://cdn.tgdd.vn/Products/Images/44/325306/Slider/vi-vn-apple-macbook-air-m2-2022-16gb-256gb-10gpu-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256gb-10gpu-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256gb-10gpu-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256gb-10gpu-3-750x500.jpg và
@@ -407,7 +297,7 @@ https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256
 https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256gb-10gpu-6-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256gb-10gpu-7-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256gb-10gpu-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022-16gb-256gb-10gpu
+",https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022-16gb-256gb-10gpu,https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256gb-10gpu-thumb-1-600x600.jpg
 Laptop MacBook Pro 14 inch M3 Pro 18GB/512GB,49.990.000₫,49.090.000₫,"Title: Thiết kế thanh lịch cùng hiệu năng vượt bậc là hai yếu tố phải kể đến khi dòng MacBook Pro M3 Pro được ra mắt năm 2023. Sở hữu cho mình bộ xử lý khủng M3 Pro mạnh nhất từ trước đến nay của Apple chắc chắn sẽ là một siêu phẩm hot nhất cuối năm 2023 trong phân khúc laptop đồ họa - kỹ thuật.
 Title: Hiệu năng vượt trội cùng chip M3 Pro 
 Detail: Chip Apple M3 Pro đại diện cho bước ngoặt trong hiệu năng và khả năng tiết kiệm năng lượng. Với công nghệ sản xuất 3 nm và hơn 37 tỷ bóng bán dẫn, nó cung cấp hiệu suất ưu việt và tuổi thọ pin cao. Chip này kết hợp hoàn hảo giữa CPU đa lõi và GPU mạnh mẽ, đặc biệt được tối ưu hóa cho các công việc đòi hỏi sự vượt trội trong đồ họa, lập trình và sáng tạo. 
@@ -610,7 +500,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ",Card tích hợp - 14 nhân GPU,"14.2""",Lên đến 18 giờ,Liquid Retina XDR display (3024 x 1964),"MagSafe 3
 Jack tai nghe 3.5 mm
 HDMI
-3 x Thunderbolt 4 ( hỗ trợ DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s))",macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/318230/Slider/apple-macbook-pro-14-inch-m3-pro-2023-slider-0-1020x570.jpg và
+3 x Thunderbolt 4 ( hỗ trợ DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s))",1.61 kg,macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/318230/Slider/apple-macbook-pro-14-inch-m3-pro-2023-slider-0-1020x570.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318230/apple-macbook-pro-14-inch-m3-pro-2023-azc-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318230/apple-macbook-pro-14-inch-m3-pro-2023-azc-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318230/apple-macbook-pro-14-inch-m3-pro-2023-azc-3-750x500.jpg và
@@ -622,32 +512,30 @@ https://cdn.tgdd.vn/Products/Images/44/318230/apple-macbook-pro-14-inch-m3-pro-2
 https://cdn.tgdd.vn/Products/Images/44/318230/apple-macbook-pro-14-inch-m3-pro-2023-azc-9-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318230/apple-macbook-pro-14-inch-m3-pro-2023-azc-10-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318230/apple-macbook-pro-14-inch-m3-pro-2023-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/apple-macbook-pro-14-inch-m3-pro-2023
-Laptop Apple MacBook Air 15 inch M3 8GB/512GB (MRYT3SA/A),37.990.000₫,36.390.000₫,"Title: Đạt được sự cân bằng tuyệt vời về mặt thiết kế gọn nhẹ, cao cấp, cùng hiệu năng mạnh mẽ cho một chế độ làm việc thông minh, luôn là những tiêu chí được giới iFan săn đón ở dòng Macbook Air M3 nhà Táo. Phiên bản MacBook Air M3 15 inch 512GB quay trở lại năm 2024 với cải tiến tuyệt vời từ con chip M3 chắc chắn sẽ không làm người dùng thất vọng.
-Title: Apple M3 khẳng định vị thế trong ngành chip
-Detail: Được nhận định là không có quá nhiều điểm cải tiến về mặt bên ngoài và cả bên trong nhưng những gì con chip M3 thế hệ mới mang lại chắc chắn sẽ làm nhiều anh em bất ngờ. Chip Apple M3 mới được sản xuất trên tiến trình 3 nm nhỏ gọn hơn, với 8 nhân CPU được đánh giá nhanh hơn đến 60% so với phiên bản chip M1, việc nắm bắt hay xử lý các công việc soạn thảo, tính toán, đồ hoạ vận dụng đều hoàn toàn nằm trong khả năng.
+",https://www.thegioididong.com/laptop/apple-macbook-pro-14-inch-m3-pro-2023,https://cdn.tgdd.vn/Products/Images/44/318230/apple-macbook-pro-14-inch-m3-pro-2023-311023-105253-600x600.jpg
+Laptop Apple MacBook Air 15 inch M3 8GB/256GB (MRYP3SA/A),32.990.000₫,32.190.000₫,"Title: Sau khi cho ra mắt MacBook Air 13 inch sở hữu cấu hình vượt trội từ dòng chip M3 mới thì nay Apple cũng công bố thêm dòng MacBook Air M3 15 inch với không gian hiển thị được mở rộng, nhằm tăng nhu cầu về kích thước cho bạn.
+Title: Trải nghiệm đã hơn với màn hình lớn hơn
+Detail: Với phiên bản 2024, Macbook Air được nâng cấp màn hình lên 15.3 inch cùng độ phân giải Liquid Retina (2880 x 1864) tái tạo đến chi tiết chất ảnh, hàng triệu điểm ảnh cùng dải màu P3 phổ rộng đến 1 tỷ màu còn cho phép bạn thực hiện hoàn hảo các công việc thiết kế đồ hoạ có yêu cầu khắt khe về mặt màu sắc.
+Detail: Độ sáng 500 nits cùng True Tone Technology điều tiết thị giác cùng tầm nhìn vô cùng tốt, tương thích nhanh với điều kiện sáng của môi trường xung quanh để hiển thị sắc nét nhất những nội dung từ văn bản đến video.
 Detail: 
-Detail: Đặc biệt với phiên bản chip mới lần này, các nhân xử lý công nghệ AI (Neural Engine) chạy nhanh và tiết kiệm điện hơn, nâng tổng lượng thời gian sử dụng pin lên đến 18 tiếng liên tục. Tích hợp một số tính năng AI như tracking hình ảnh để cải thiện đồ hoạ, công nghệ trợ năng liên kết mạnh mẽ với hệ sinh thái của hãng, giảm bớt đi công sức trong nhiều tác vụ khác nhau.
-Detail: Hiệu quả trong xử lý các tác vụ đồ họa hay thiết kế với card tích hợp 10 nhân GPU, hiệu suất xử lý hình ảnh, render đồ hoạ hay các ứng dụng phát video liên quan đều được cải tiến hơn rất nhiều so với các thế hệ tiền nhiệm, đạt được chế độ làm việc thật thuận lợi đều không thành vấn đề.
+Detail: Hệ thống âm thanh vòm đa chiều Dolby Atmos, Spatial Audio kết hợp cùng hệ thống loa tuyến tính chất lượng cao mang đến trọn vẹn những trải nghiệm giải trí chân thực với chất âm sống động, âm bass to rõ, độ khuếch đại âm thanh lớn cho phép bạn đắm chìm trong những bản nhạc du dương hay phim ảnh sống động, âm thanh chi tiết còn cực kì có lợi khi tham gia chỉnh sửa hậu kì video, hiệu ứng âm thanh.
 Detail: 
-Detail: Khả năng đa nhiệm trơn tru đến từ bộ nhớ RAM 8 GB giúp người dùng dễ dàng thu phóng, dịch chuyển hay thao tác qua lại giữa nhiều phần mềm khác nhau. Ổ cứng SSD 512 GB cho khả năng lưu trữ ấn tượng với hầu hết các nhu cầu bạn cần.
-Detail: Luôn tìm kiếm được chính xác công cụ bạn cần với macOS, kho ứng dụng khổng lồ luôn cập nhật mới nhất. Đồng thời, độ bảo mật thông tin, tài liệu và dữ liệu riêng tư cũng sẽ luôn an toàn với hệ điều hành này.
+Title: Thiết kế linh hoạt, mỏng không tưởng
+Detail: Dòng Macbook Air M3 luôn là biểu tượng cho những mẫu laptop cao cấp - sang trọng bởi tính mỏng gọn chỉ 11.5 mm và khối lượng 1.51 kg chỉ như thêm một cuốn sách, bề mặt phẳng với chất liệu nhôm tái chế 100% vô cùng bền bỉ khiến cho người dùng không phải cân nhắc thêm quá nhiều khi lựa chọn.
+Detail: Với mẫu thiết kế MacBook năm nay vẫn sẽ sở hữu những đường nét quen thuộc, hệ thống cổng kết nối Thunderbolt 3 / USB 4 cùng Jack tai nghe 3.5 mm cổng sạc nam châm MagSafe 3 được bố trí gọn ở 2 cạnh bên, khung màn hình tràn viền với tai thỏ là cụm camera bên trên màn hình. Và đặc biệt, máy vẫn có khá nhiều phối màu đặc sắc cho người dùng lựa chọn.
 Detail: 
-Title: Khung hình Retina 15 inch rực rỡ
-Detail: Với bản update mới nhất từ năm ngoái thì dòng Air của MacBook đã được sở hữu khung hình 15.3 inch rộng thoải mái, màn hình với mức phân giải Liquid Retina (2880 x 1864), dải màu rộng P3 cùng mức hiển thị tối ưu đến 1 tỷ màu không chỉ giúp bạn nắm trọn mọi khoảnh khắc giải trí ấn tượng, mà còn đem đến cực nhiều lợi ích về tính chính xác của sắc độ hình ảnh trong việc tinh chỉnh đồ hoạ.
-Detail: Tự tin sử dụng máy ở bất cứ môi trường nào từ trong phòng đến ngoài trời với độ sáng tối đa 500 nits cùng True Tone Technology, tương thích nhanh chóng với điều kiện sáng tự nhiên và tự động tăng giảm cường độ sáng phù hợp với mắt người dùng.
+Detail: Magic Keyboard với hàng phím chức năng có chiều cao tiêu chuẩn, tạo cảm giác êm ái có độ tĩnh lặng khi thao tác gõ, phù hợp với đối tượng người dùng làm văn phòng, yêu cầu có sự yên lặng để tập trung cao độ khi làm việc. Bên cạnh đó, đèn nền bàn phím còn giúp ích rất nhiều khi làm việc trong môi trường tối.
+Detail: Touch ID hỗ trợ các thao tác truy cập vào máy hay mở khóa các ứng dụng và trang web nhanh chóng, dễ dàng với một chạm đơn giản.
 Detail: 
-Detail: Hệ thống gồm 6 loa tuyến tính hiện đại được tích hợp với các công nghệ Spatial Audio và Dolby Atmos mang đến cho chiếc MacBook này khả năng khuếch tán chất âm tuyệt vời, âm thanh với hiệu ứng đa chiều như bao phủ không gian mỗi khi bạn giải trí phim ảnh hay âm nhạc.
+Title: Sự nâng cấp tỉ mỉ hơn về cấu hình
+Detail: MacBook Air 15 inch 2024 sử dụng kiến trúc với CPU, GPU, bộ nhớ được tích hợp duy nhất trên một con chip khiến tốc độ phản hồi mượt mà nhanh hơn trong khi vẫn duy trì việc tiết kiệm năng lượng tốt. Với tốc độ băng thông bộ nhớ 100 GB/s được cải tiến vượt trội, máy cho khả năng vận hành hoàn hảo mọi tác vụ học tập, làm việc hay giải trí.
 Detail: 
-Title: Hoà cùng nhịp sống và làm việc thông minh
-Detail: Bản thiết kế của Macbook Air cho năm ngoái đã quá hoàn hảo và được duy trì cho mẫu năm nay, khung màn hình tràn viền với tai thỏ độc đáo, độ mỏng nhẹ ấn tượng so với chiếc laptop 15 inch cùng bộ 4 phối màu cá tính.
-Detail: Độ mỏng 11.5 mm cùng khối lượng 1.51 kg cảm tưởng như bạn chưa hề mang theo bất cứ thiết bị nào bên mình. Magic KeyBoard kích thước tiêu chuẩn, bề mặt phím nhẵn cùng độ cao chuẩn chỉ để tạo cảm giác thật êm ái khi gõ. Hơn nữa, hệ thống đèn nền bàn phím có thể tinh chỉnh được độ sáng tuỳ vào bối cảnh sử dụng.
+Detail: Với 8 nhân CPU đảm bảo thực hiện được mượt mà các công việc từ đơn giản đến phức tạp như đồ hoạ hay coding phần mềm đặc trưng. Khi so sánh với các thế hệ chip M1 hay M2 đều cho hiệu suất được cải tiến thêm đáng kể, kết hợp với hệ sinh thái macOS cùng các tính năng AI như chuyển đổi giọng nói, tracking hình ảnh trong đồ hoạ,... sẽ giảm thiểu đi đáng kể công sức phải bỏ ra trong công việc.
+Detail: Khả năng xử lý đồ họa, chinh phục các tác vụ thiết kế nhanh chóng và hiệu quả card tích hợp 10 nhân GPU khiến cho các khung cảnh game, đồ hoạ của bạn trở nên đẹp mắt hơn rất nhiều. Dynamic Caching giúp tăng cường hiệu năng mạnh mẽ cho các ứng dụng chuyên nghiệp và game trong khi công nghệ dò tia tốc độ cao bằng phần cứng tạo ra hình ảnh chân thực hơn mang đến trải nghiệm chơi game sống động như thật.
 Detail: 
-Detail: Các cổng kết nối bao gồm Jack 3.5 mm, Thunderbolt 3 / USB 4 và sạc nam châm MagSafe 3 cho quá trình truyền tải dữ liệu nhanh hơn với tốc độ lên đến 40 Gbps, đồng thời hỗ trợ sạc pin nhanh cho máy.
+Detail: Bộ nhớ RAM 8 GB mang đến khả năng đa nhiệm mượt mà, thực hiện xử lý công việc với nhiều layer đồ họa mà vẫn đảm bảo được chất lượng công việc và tốc độ phản hồi. Với ổ cứng SSD 256 GB cung cấp một không gian lưu trữ vừa đủ cho các tệp tin, ứng dụng và trò chơi.
 Detail: 
-Detail: Đăng nhập tiện lợi, nhanh chóng với cảm biến vân tay được tích hợp, thông tin và hình ảnh của người dùng cũng được đảm bảo an toàn và bảo mật.
-Detail: 
-Detail: Sự nâng cấp đáng kể cho hiệu năng với chiếc MacBook Air 15 inch M3 2024 10-core GPU vốn đã rất được ưa chuộng bởi vẻ ngoài thông minh, cao cấp cùng tính ứng dụng cao trong công việc chắc chắn sẽ gây sốt thị trường công nghệ trong thời gian sắp tới trong phân khúc laptop cao cấp - sang trọng.
+Detail: Sự cải tiến tuyệt vời từ thế hệ chip mới, nguyên vẹn được những tiện ích sử dụng cũng như sở hữu màn hình Retina tuyệt đẹp cho nhiều các nhu cầu giải trí khác nhau là các yếu tố sẽ khiến MacBook Air 15 inch M3 2024 trở thành mẫu laptop được ưa chuộng trong thời gian sắp tới.
 ","Công nghệ CPU:: Apple M3 - Hãng không công bố
 Số nhân:: 8
 Số luồng:: Hãng không công bố
@@ -658,19 +546,19 @@ Bộ nhớ đệm:: Hãng không công bố
 Loại RAM:: Hãng không công bố
 Tốc độ Bus RAM:: Hãng không công bố
 Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
-","Ổ cứng:: 512 GB SSD
+","Ổ cứng:: 256 GB SSD
 ",Card tích hợp - 10 nhân GPU,"15.3""",Lên đến 18 giờ,Liquid Retina,"MagSafe 3
 Jack tai nghe 3.5 mm
-2 x Thunderbolt 3 / USB 4 (lên đến 40 Gb/s)",macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/322635/Slider/vi-vn-macbook-air-15-inch-m3-2024-512gb-slider-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322635/macbook-air-15-inch-m3-2024-1-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322635/macbook-air-15-inch-m3-2024-2-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322635/macbook-air-15-inch-m3-2024-3-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322635/macbook-air-15-inch-m3-2024-4-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322635/macbook-air-15-inch-m3-2024-5-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322635/macbook-air-15-inch-m3-2024-6-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322635/macbook-air-15-inch-m3-2024-7-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/322635/apple-macbook-glr-30-2-750x500.jpg và
-",https://www.thegioididong.com/laptop/macbook-air-15-inch-m3-2024-512gb
+2 x Thunderbolt 3 / USB 4 (lên đến 40 Gb/s)",1.51 kg,macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/322616/Slider/vi-vn-macbook-air-15-inch-m3-2024-slider-1.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322616/macbook-air-15-inch-m3-2024-1-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322616/macbook-air-15-inch-m3-2024-2-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322616/macbook-air-15-inch-m3-2024-3-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322616/macbook-air-15-inch-m3-2024-4-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322616/macbook-air-15-inch-m3-2024-5-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322616/macbook-air-15-inch-m3-2024-6-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322616/macbook-air-15-inch-m3-2024-7-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/322616/apple-macbook-glr-30-1-750x500.jpg và
+",https://www.thegioididong.com/laptop/macbook-air-15-inch-m3-2024,https://cdn.tgdd.vn/Products/Images/44/322616/macbook-air-15-inch-m3-2024-xanh-600x600.jpg
 Laptop Apple MacBook Pro 16 inch M3 Pro 18GB/512GB,64.990.000₫,64.490.000₫,"Title: Được trang bị bộ vi xử lý M3 Pro mạnh mẽ nhất từ trước đến nay của Apple, MacBook Pro M3 Pro 16 inch không chỉ đáp ứng mọi yêu cầu của người dùng tác vụ từ văn phòng, giải trí cho đến đồ họa chuyên nghiệp mà còn tạo nên một làn gió mới trong thế giới công nghệ. Sự kết hợp giữa thiết kế thanh lịch với hiệu năng vượt trội không chỉ là một xu hướng mà còn là sự thực hiện đẳng cấp khi lần đầu ra mắt, hứa hẹn góp mặt trong danh sách ""siêu phẩm"" laptop đồ họa - kỹ thuật hot nhất cuối năm 2023.
 Title: Khả năng xử lý đỉnh cao nhờ con chip tân tiến M3 Pro
 Detail: Chip Apple M3 Pro mở ra một kỷ nguyên mới với hiệu suất vượt trội và tiết kiệm năng lượng đáng kể. Được sản xuất với công nghệ tiên tiến 3nm và hơn 37 tỷ bóng bán dẫn, con chip này cung cấp sức mạnh vượt trội và tuổi thọ pin đáng kinh ngạc. Chip đặc biệt hoàn thiện với sự kết hợp giữa CPU đa lõi và GPU mạnh mẽ, giúp người dùng thực hiện các tác vụ đa nhiệm và các hoạt động đòi hỏi hiệu năng tối đa một cách dễ dàng.
@@ -889,7 +777,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ",Card tích hợp - 18 nhân GPU,"16.2""",Lên đến 22 giờ,Liquid Retina XDR display (3456 x 2234),"MagSafe 3
 Jack tai nghe 3.5 mm
 HDMI
-3 x Thunderbolt 4 ( hỗ trợ DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s))",macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/318233/Slider/apple-macbook-pro-16-inch-m3-pro-2023-12-core-slider-0-1020x570.jpg và
+3 x Thunderbolt 4 ( hỗ trợ DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s))",2.14 kg,macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/318233/Slider/apple-macbook-pro-16-inch-m3-pro-2023-12-core-slider-0-1020x570.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318233/apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318233/apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318233/apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-3-750x500.jpg và
@@ -901,4 +789,49 @@ https://cdn.tgdd.vn/Products/Images/44/318233/apple-macbook-pro-16-inch-m3-pro-2
 https://cdn.tgdd.vn/Products/Images/44/318233/apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-9-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318233/apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-10-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/318233/apple-macbook-pro-16-inch-m3-pro-2023-12-core-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/apple-macbook-pro-16-inch-m3-pro-2023-12-core?utm_flashsale=1
+",https://www.thegioididong.com/laptop/apple-macbook-pro-16-inch-m3-pro-2023-12-core?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/318233/apple-macbook-pro-16-inch-m3-pro-2023-12-core-311023-033651-600x600.jpg
+Laptop Apple MacBook Pro 16 inch M3 Max 96GB/1TB,109.990.000₫,107.990.000₫,"Title: Sự kiện Apple vào tháng cuối năm 2023 đánh dấu bước đột phá của hãng với MacBook Pro 16 inch M3 Max 96 GB. Phiên bản này sở hữu hiệu năng vượt trội với chip Apple M3 Max, ngoại hình sang trọng cùng khả năng đa nhiệm cao với RAM 96 GB, hứa hẹn mang đến trải nghiệm đẳng cấp cho người dùng chuyên nghiệp, là sản phẩm đáng để bạn sở hữu.
+Title: Thiết kế tương lai, thể hiện sự đẳng cấp
+Detail: MacBook Pro M3 Max giữ nguyên nét thiết kế tối giản, tinh tế vốn có của dòng MacBook Pro. Lớp vỏ nhôm tái chế 100% mang đến độ bền bỉ cao và vẻ ngoài sang trọng, đậm phong cách doanh nhân. Điểm nhấn mới nằm ở màu sắc đa dạng hơn, đáp ứng nhu cầu thẩm mỹ và sở thích cá nhân của người dùng.
+Detail: Do laptop sở hữu màn hình khoảng 16 inch nên có khối lượng lên đến 2.16 kg nhưng không quá nặng và cồng kềnh, bạn vẫn có thể mang nó và di chuyển khắp mọi nơi mà bạn muốn. Máy còn tích hợp thêm tính năng bảo mật vân tay giúp bạn mở máy chỉ bằng một chạm, giúp bạn dễ dàng đăng nhập vào tài khoản mà không cần ghi nhớ mật khẩu.
+Detail: Thiết bị cũng được trang bị 1080p FaceTime HD camera cho hình ảnh sắc nét khi video call cho bạn bè, người thân. Ngoài ra, hai bên máy sở hữu đa dạng cổng nối Thunderbolt 4 cho tốc độ cao, tối ưu hoá hiệu suất; HDMI giúp hình ảnh xuất ra sắc nét, chất lượng cao; sạc nam châm MagSafe 3 chắc chắn, an toàn cùng khe SD và jack 3.5 mm.
+Detail: MacBook Pro M3 mang đến cho bạn thời lượng pin đáng kinh ngạc lên đến 22 giờ, đủ để bạn học tập, làm việc hay giải trí đơn giản cả ngày dài mà không cần lo lắng về việc hết pin. Bạn chỉ cần cắm sạc một lần vào ban đêm và có thể mang máy theo bên mình mọi lúc mọi nơi, vô cùng tiện lợi và linh hoạt.
+Title: Đột phá trong mọi lĩnh vực
+Detail: Máy tích hợp chip Apple M3 Max được xem là một bước tiến lớn trong công nghệ sản xuất vi mạch máy tính. Con chip này sở hữu 14 nhân CPU được thiết kế dựa trên tiến trình 3 nm hoàn toàn mới, mỏng nhẹ hơn thế hệ trước nhưng lại có tốc độ vận hành và hiệu suất vượt trội, đạt đến 18 nghìn tỷ phép tính mỗi giây.
+Detail: GPU 30 nhân trên M3 Max mang đến khả năng kết xuất đồ họa vượt trội so với thế hệ trước, gấp 2.7 lần so với M2 Max. MacBook Pro 16 inch giờ đây chinh phục mọi tác vụ đồ họa nặng nề nhất, từ chỉnh sửa video 8K đến dựng phim 3D chuyên nghiệp. Không chỉ vậy, sản phẩm còn hỗ trợ tốt trong các lĩnh vực sáng tác âm nhạc, chơi game, thí nghiệm, IT,...
+Detail: Với bộ nhớ RAM 96 GB mang đến tốc độ băng thông cao, nhờ vậy, mọi tác vụ của bạn đều được phản hồi tức thì, cho phép bạn đa nhiệm thoải mái và tự do sáng tạo mà không gặp bất kỳ trở ngại nào.
+Detail: Cùng ổ cứng SSD 1 TB dung lượng lớn đáp ứng mọi nhu cầu lưu trữ của bạn, cho dù bạn đang làm việc với các dự án thiết kế đồ họa khổng lồ hay các tập tin dữ liệu khoa học phức tạp. Bạn có thể lưu trữ tất cả các tệp tin quan trọng của mình một cách an toàn và truy cập chúng nhanh chóng bất cứ khi nào bạn cần.
+Title: Đắm chìm trong không gian giải trí y như thật
+Detail: MacBook Pro M3 được trang bị màn hình Liquid Retina XDR 16.2 inch, được Apple đánh giá là màn hình tốt nhất từng có trên một chiếc máy tính xách tay. Với độ phân giải 3456 x 2234, màn hình này mang đến cho bạn không gian hiển thị rộng lớn, sắc nét và sống động như bao trọn thị giác.
+Detail: Công nghệ Extreme Dynamic Range (XDR) mang đến những khung hình lung linh với độ sáng liên tục 1000 nits, giúp bạn tận hưởng hình ảnh HDR ấn tượng với dải màu sắc rộng và độ tương phản cao làm cho mọi thước phim, khung hình chiến game đều trở nên sống động và chân thực hơn bao giờ hết.
+Detail: Hỗ trợ gam màu rộng Wide color (P3) tối ưu hóa hiển thị màu sắc, mang đến màu đen sâu và độ chính xác cao cho mọi tác phẩm đồ họa nghệ thuật. MacBook Pro M3 là lựa chọn hoàn hảo cho các nhà sáng tạo nội dung chuyên nghiệp, những người đam mê chỉnh sửa ảnh và video.
+Detail: Tính năng True Tone đặc trưng trên MacBook tự động điều chỉnh độ sáng và nhiệt độ màu màn hình dựa theo môi trường xung quanh, giúp giảm thiểu mỏi mắt và bảo vệ sức khỏe thị giác của bạn, đặc biệt khi sử dụng máy tính trong thời gian dài.
+Detail: Công nghệ ProMotion mang đến tốc độ làm mới màn hình thích ứng lên đến 120 Hz, cho phép bạn tận hưởng những hình ảnh chuyển động mượt mà và sắc nét, đặc biệt trong các tác vụ như chơi game, chỉnh sửa video hoặc cuộn trang web.
+Detail: Nhờ sự tích hợp của công nghệ âm thanh vòm 3D như Spatial Audio và Dolby Atmos với hệ thống âm thanh 6 loa tiên tiến, MacBook Pro tạo ra âm thanh vòm đa chiều, mạnh mẽ và đầy ấn tượng, bao trùm xung quanh bạn từ mọi hướng, cảm giác như bạn đang đắm chìm trong thế giới âm nhạc và phim ảnh.
+","Công nghệ CPU:: Apple M3 Max - Hãng không công bố
+Số nhân:: 14
+Số luồng:: Hãng không công bố
+Tốc độ CPU:: 400GB/s
+Tốc độ tối đa:: Hãng không công bố
+Bộ nhớ đệm:: Hãng không công bố
+","RAM:: 96 GB
+Loại RAM:: Hãng không công bố
+Tốc độ Bus RAM:: Hãng không công bố
+Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
+","Ổ cứng:: 1 TB SSD
+",Card tích hợp - 30 nhân GPU,"16.2""",Lên đến 22 giờ,Liquid Retina XDR display (3456 x 2234),"MagSafe 3
+Jack tai nghe 3.5 mm
+HDMI
+3 x Thunderbolt 4 ( hỗ trợ DisplayPort, Thunderbolt 4 (up to 40Gb/s), USB 4 (up to 40Gb/s))",2.16 kg,macOS Sonoma,"https://cdn.tgdd.vn/Products/Images/44/325307/Slider/apple-macbook-pro-16-inch-m3-max-96gb-1tb638557880303904711.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-8-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-9-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-10-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325307/tem-mac-30-1-750x500.jpg và
+",https://www.thegioididong.com/laptop/apple-macbook-pro-16-inch-m3-max-96gb-1tb?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/325307/apple-macbook-pro-16-inch-m3-max-96gb-1tb-thumb-600x600.jpg

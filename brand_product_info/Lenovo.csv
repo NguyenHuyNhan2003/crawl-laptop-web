@@ -1,4 +1,4 @@
-product_name,actual_price,discount_price,description,processor,ram,storage,graphic_card,display_size,battery,resolution,ports,operating_system,image_link,product_link
+product_name,actual_price,discount_price,description,processor,ram,storage,graphic_card,display_size,battery,resolution,ports,weight,operating_system,image_link,product_link,product_general_img_link
 Laptop Lenovo Ideapad Slim 3 15IAH8 i5 12450H/16GB/512GB/Win11 (83ER000EVN),15.990.000₫,14.290.000₫,"Title: Laptop Lenovo Ideapad Slim 3 15IAH8 i5 12450H (83ER000EVN) một mẫu laptop học tập - văn phòng sở hữu cấu hình mạnh mẽ với con chip Intel dòng H, RAM 16 GB cùng đa dạng các công nghệ hiện đại, hứa hẹn sẽ mang đến cho người dùng những trải nghiệm sử dụng làm việc và giải trí đa phương tiện một cách tối ưu và đầy tiện nghi.
 Title: Đẹp mắt và thanh lịch hơn
 Detail: Theo như đánh giá cá nhân của mình, khi nhìn vào những chiếc laptop Lenovo IdeaPad thì người dùng có thể sẽ không nhận ra quá nhiều những điểm khác biệt giữa các mẫu, tuy nhiên thiết kế kiểu truyền thống là thế nhưng lại không hề ""lối mòn"" một chút nào, những mẫu máy này vẫn khá thu hút và được ưa chuộng về kiểu dáng, đối với không chỉ các bạn trẻ Gen Z mà còn là những đối tượng người dùng đã đi làm. 
@@ -35,7 +35,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ",Card tích hợp - Intel UHD Graphics,"15.6""",47 Wh,Full HD (1920 x 1080),"Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/313333/Slider/vi-vn-lenovo-ideapad-slim-3-15iah8-i5-83er00evn-thumbvideo.jpg và
+1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)",1.62 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/313333/Slider/vi-vn-lenovo-ideapad-slim-3-15iah8-i5-83er00evn-thumbvideo.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-glr-3-750x500.jpg và
@@ -53,7 +53,7 @@ https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83
 https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-glr-15-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-glr-16.-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313333/Kit/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15iah8-i5-83er00evn
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15iah8-i5-83er00evn,https://cdn.tgdd.vn/Products/Images/44/313333/lenovo-ideapad-slim-3-15iah8-i5-83er00evn-thumb-600x600.jpg
 Laptop Lenovo Ideapad Slim 3 15AMN8 R5 7520U/16GB/512GB/Win11 (82XQ00J0VN),14.390.000₫,11.790.000₫,"Title: Trong thị trường laptop học tập - văn phòng, chiếc laptop Lenovo Ideapad Slim 3 15AMN8 R5 7520U (82XQ00J0VN) nhanh chóng thu hút sự chú ý của người dùng bởi nhiều ưu điểm nổi bật. Chiếc laptop này hội tụ đầy đủ các yếu tố để trở thành người bạn đồng hành lý tưởng cho học sinh, sinh viên và nhân viên văn phòng, đáp ứng mọi nhu cầu học tập, làm việc và giải trí một cách hiệu quả.
 Detail: • So với các đối thủ cùng phân khúc, chiếc laptop Lenovo Ideapad này sở hữu cấu hình khá ấn tượng và mới mẻ, đáp ứng tốt mọi nhu cầu học tập, làm việc và giải trí cơ bản. Với bộ vi xử lý AMD Ryzen 5 7520U có 4 nhân, 8 luồng và tốc độ xung nhịp tối đa lên đến 4.3 GHz. Con chip này mang đến hiệu năng mạnh mẽ, xử lý mượt mà các tác vụ học tập, văn phòng phổ biến như Word, Excel, PowerPoint,...
 Detail: • Ngoài ra, laptop còn được trang bị card đồ họa tích hợp AMD Radeon 610M Graphics, cho phép sử dụng các ứng dụng đồ họa cơ bản. Bạn có thể thiết kế banner, logo, chỉnh sửa ảnh,... trên Photoshop một cách mượt mà.
@@ -78,7 +78,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ",Card tích hợp - AMD Radeon 610M Graphics,"15.6""",47 Wh,Full HD (1920 x 1080),"Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325500/Slider/vi-vn-lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-slider-1.jpg và
+1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)",1.62 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325500/Slider/vi-vn-lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325500/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325500/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325500/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-3-750x500.jpg và
@@ -94,7 +94,7 @@ https://cdn.tgdd.vn/Products/Images/44/325500/lenovo-ideapad-slim-3-15amn8-r5-82
 https://cdn.tgdd.vn/Products/Images/44/325500/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-15-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/325500/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-30-638651062855809394-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325500/Kit/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn,https://cdn.tgdd.vn/Products/Images/44/325500/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn-thumb-600x600.jpg
 Laptop Lenovo Gaming LOQ 15IAX9 i5 12450HX/16GB/512GB/6GB RTX3050/144Hz/Win11 (83GS000JVN),24.990.000₫,21.690.000₫,"Title: Laptop Lenovo LOQ Gaming 15IAX9 i5 12450HX (83GS000JVN) mang dáng dấp kiểu mẫu từ những chiếc laptop gaming nhà Lenovo, đưa đến một phiên bản hoàn toàn mới, đầy thời thượng. Laptop gaming còn được tích hợp với cấu hình mạnh mẽ, khung hình mượt mà cho phép bạn trải nghiệm sâu mọi tựa game.
 Detail: • Bên cạnh việc cung cấp khả năng chiến đấu tuyệt vời với kho game lớn ấn tượng từ những tựa trò chơi nhập vai, đua xe FPS như LOL, CS:GO, Valorant đến những con game cấu hình cao AAA tầm trung. Laptop Lenovo còn cho phép người dùng vận dụng chuyên sâu các tác vụ công việc tính toán thường ngày, xem phim, tận hưởng âm nhạc,... hoặc làm đồ hoạ hay thiết kế video nhờ CPU Intel Core i5 12450HX và card rời NVIDIA GeForce RTX 3050 6 GB.
 Detail: • Thêm nữa, laptop gaming còn được tích hợp thêm chip trí tuệ nhân tạo riêng biệt của hãng Lenovo là AI Chip LA1 giúp tối ưu và cân bằng hiệu năng tốt nhất giữa CPU và GPU khi trải nghiệm game, bạn chỉ cần tập trung vào độ hấp dẫn của tựa game mà không cần phải trực tiếp điều chỉnh các thông số.
@@ -122,7 +122,7 @@ Hỗ trợ RAM tối đa:: 32 GB
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322072/Slider/vi-vn-lenovo-loq-gaming-15iax9-i5-83gs000jvn-slider-1.jpg và
+1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)",2.38 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322072/Slider/vi-vn-lenovo-loq-gaming-15iax9-i5-83gs000jvn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322072/lenovo-loq-gaming-15iax9-i5-83gs000jvn-hinh-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322072/lenovo-loq-gaming-15iax9-i5-83gs000jvn-hinh-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322072/lenovo-loq-gaming-15iax9-i5-83gs000jvn-hinh-3-750x500.jpg và
@@ -142,7 +142,53 @@ https://cdn.tgdd.vn/Products/Images/44/322072/lenovo-loq-gaming-15iax9-i5-83gs00
 https://cdn.tgdd.vn/Products/Images/44/322072/lenovo-loq-gaming-15iax9-i5-83gs000jvn-hinh-17-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322072/lenovo-loq-gaming-15iax9-i5-83gs000jvn-hinh-18-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322072/Kit/lenovo-loq-gaming-15iax9-i5-83gs000jvn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-loq-gaming-15iax9-i5-83gs000jvn
+",https://www.thegioididong.com/laptop/lenovo-loq-gaming-15iax9-i5-83gs000jvn,https://cdn.tgdd.vn/Products/Images/44/322072/lenovo-loq-gaming-15iax9-i5-83gs000jvn-thumb-new-600x600.jpg
+Laptop Lenovo Gaming LOQ 15IAX9 i5 12450HX/24GB/512GB/6GB RTX3050/144Hz/Win11 (83GS00D9VN),25.490.000₫,22.190.000₫,"Title: Diện mạo độc đáo, mang tính thể thao đến từ dòng gaming mạnh mẽ nhà Lenovo. Laptop Lenovo Gaming LOQ 15IAX9 i5 12450HX (83GS00D9VN) với cấu hình vượt trội từ con chip Intel dòng HX, card rời RTX,... máy hứa hẹn sẽ mang lại nhiều trải nghiệm giải trí thú vị hơn bên cạnh việc chiến game hấp dẫn.
+Detail: • Sở hữu bộ vi xử lý Intel Core i5 Alder Lake - 12450HX gồm 8 nhân 12 luồng mạnh mẽ, Lenovo LOQ cho phép người dùng vận hành tốt các tác vụ đồ họa, văn phòng từ cơ bản đến nâng cao một cách trơn tru, thiết kế website, lập trình hay chiến hấp dẫn với kho game khủng.
+Detail: • Card đồ họa rời NVIDIA GeForce RTX 3050 6 GB cung cấp hiệu suất đồ họa cao, chỉnh sửa, kết xuất hình ảnh 2D, render video với các phần mềm đến từ nhà Adobe. Hơn nữa, việc tăng chất lượng đồ hoạ còn cho thiết lập được các mức cấu hình từ trung bình trở lên ở các con game đình đám LOL, GTA V, Dota 2,... với những chuyển động mướt mắt hơn.
+Detail: • RAM cơ bản 24 GB vượt trội, cho phép bạn thao tác được cùng lúc với nhiều cửa sổ, trò chuyện, giao lưu với bạn bè trên Discord trong khi chờ vô game. Máy còn hỗ trợ nâng cấp tối đa 32 GB cho các game thủ thỏa sức chiến mọi tựa game ngốn nhiều tài nguyên.
+Detail: • Khởi động máy, ứng dụng nhanh chóng với tốc độ phản hồi và đọc ghi nhanh nhờ vào ổ cứng SSD 512 GB NVMe PCIe. Bạn hoàn toàn có thể tháo ra và lắp thanh khác tối đa lên đến 1 TB, hỗ trợ lưu trữ tốt nhiều tựa game yêu thích.
+Detail: • Laptop Lenovo LOQ với phần vỏ máy được hoàn thiện từ nhựa màu xám chắc chắn đạt chuẩn độ bền quân đội MIL STD 810H, không chỉ tạo nên phong cách mạnh mẽ, hiện đại và còn vô cùng dễ dàng cầm nắm. Khối lượng 2.38 kg vẫn vừa vặn để máy vào balo và thuận tiện di chuyển đến mọi địa điểm bạn muốn.
+Detail: • Thiết kế bản lề mở được 180 độ có phần nhô ra riêng biệt, cạnh dưới được bố trí các hốc thoát nhiệt không chỉ mang công dụng duy trì hiệu năng mà còn giữ được nét thẩm mỹ phi thuyền mạnh mẽ.
+Detail: • Một điểm cộng nữa cho chiếc laptop gaming này là được trang bị đèn nền đơn sắc trắng, tạo sự tiện lợi cho các game thủ khi phải chiến đấu ở những môi trường thiếu sáng.
+Detail: • Laptop được trang bị khá đầy đủ các cổng kết nối phổ biến hiện nay như: LAN (RJ45), Jack tai nghe 3.5 mm, USB 3.2, HDMI và USB-C 3.2 hỗ trợ liên kết với các thiết bị ngoại vi tương thích một cách nhanh chóng và chính xác.
+Detail: • Không gian hiển thị rộng lớn với kích thước 15.6 inch cùng độ phân giải Full HD (1920 x 1080) cung cấp những khung hình sắc nét, chân thật đến từng chi tiết trong bối cảnh game với góc nhìn lên đến 178 độ nhờ tấm nền IPS.
+Detail: • Mãn nhãn với những chuyển động mượt mà trên từng nhân vật trong game nhờ tần số quét màn hình 144 Hz và công nghệ G-Sync trên laptop Lenovo, hạn chế tối đa hiện tượng giật xé hình và luôn bảo vệ độ an toàn cho mắt trước cường độ ánh sáng mạnh nhờ vào màn hình chống chói Anti Glare.
+Detail: • Thêm nữa, chuẩn màu cao đạt 100% sRGB còn là công cụ vô cùng hữu ích cho người dùng chuyên làm việc về design, thiết kế đòi hỏi chuẩn màu sắc chính xác cao.
+Detail: • Trọn vẹn phút giây thư giãn với chất lượng âm thanh chân thực, âm bass to rõ, khả năng lọc khử tiếng ồn tốt nhờ công nghệ Nahimic Audio mang đến những trải nghiệm giải trí trên cả tuyệt vời.
+","Công nghệ CPU:: Intel Core i5 Alder Lake - 12450HX
+Số nhân:: 8
+Số luồng:: 12
+Tốc độ CPU:: Hãng không công bố
+Tốc độ tối đa:: Turbo Boost 4.4 GHz
+Bộ nhớ đệm:: 12 MB
+","RAM:: 24 GB
+Loại RAM:: DDR5 2 khe (1 khe 12 GB + 1 khe 12 GB)
+Tốc độ Bus RAM:: 4800 MHz
+Hỗ trợ RAM tối đa:: 32 GB
+","Ổ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
+","Card rời - NVIDIA GeForce RTX 3050, 6 GB","15.6""",60 Wh,Full HD (1920 x 1080),"LAN (RJ45)
+Jack tai nghe 3.5 mm
+3 x USB 3.2
+HDMI
+1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)",2.38 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327050/Slider/vi-vn-lenovo-loq-15iax9-i5-83gs00d9vn-sliders-1.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-8-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-9-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-10-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-11-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-12-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-14-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-15-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-16-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-30-638651042190294139-750x500.jpg và
+",https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00d9vn?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-thumb-600x600.jpg
 Laptop Lenovo Ideapad 1 15ALC7 R7 5700U/16GB/512GB/Win11 (82R400C1VN),14.490.000₫,12.790.000₫,"Title: Laptop Lenovo Ideapad 1 15ALC7 R7 5700U (82R400C1VN) không chỉ là một sản phẩm phù hợp cho sinh viên mà còn dành cho những người đi làm. Hội tụ từ cấu hình ổn định, thiết kế thanh lịch cùng vô vàn tính năng nổi bật. Với tất cả những ưu điểm trên, thiết bị này thực sự là một sự lựa chọn lý tưởng cho mọi người trong việc đáp ứng nhu cầu làm việc, giải trí hàng ngày.
 Title: Ngoại hình tinh tế, sang trọng
 Detail: Với một cái nhìn tổng thể, thiết kế của laptop Lenovo có vẻ đơn giản nhưng không kém phần sang trọng và đẳng cấp. Mặc dù không có nhiều chi tiết phức tạp, chiếc máy vẫn thu hút sự chú ý với logo Lenovo duy nhất tinh tế nằm ở phía trên nắp máy, tạo ra sự ấn tượng, thanh lịch và cuốn hút, đồng thời, các góc được thiết kế bo tròn tinh tế đưa đến một cảm giác mềm mại, êm dịu khi mình sử dụng. 
@@ -186,7 +232,7 @@ Hỗ trợ RAM tối đa:: 16 GB
 1 x USB 2.0
 1 x USB 3.2
 HDMI
-1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/313627/Slider/vi-vn-lenovo-ideapad-1-15alc7-r7-82r400c1vn-thumbvideo.jpg và
+1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu)",1.61 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/313627/Slider/vi-vn-lenovo-ideapad-1-15alc7-r7-82r400c1vn-thumbvideo.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313627/lenovo-ideapad-1-15alc7-r7-82r400c1vn-glr-1-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313627/lenovo-ideapad-1-15alc7-r7-82r400c1vn-glr-2-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313627/lenovo-ideapad-1-15alc7-r7-82r400c1vn-glr-3-2-750x500.jpg và
@@ -204,53 +250,7 @@ https://cdn.tgdd.vn/Products/Images/44/313627/lenovo-ideapad-1-15alc7-r7-82r400c
 https://cdn.tgdd.vn/Products/Images/44/313627/lenovo-ideapad-1-15alc7-r7-82r400c1vn-glr-15-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313627/lenovo-ideapad-1-15alc7-r7-82r400c1vn-glr-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/313627/Kit/lenovo-ideapad-1-15alc7-r7-82r400c1vn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-1-15alc7-r7-82r400c1vn
-Laptop Lenovo Gaming LOQ 15IAX9 i5 12450HX/24GB/512GB/6GB RTX3050/144Hz/Win11 (83GS00D9VN),25.490.000₫,22.190.000₫,"Title: Diện mạo độc đáo, mang tính thể thao đến từ dòng gaming mạnh mẽ nhà Lenovo. Laptop Lenovo Gaming LOQ 15IAX9 i5 12450HX (83GS00D9VN) với cấu hình vượt trội từ con chip Intel dòng HX, card rời RTX,... máy hứa hẹn sẽ mang lại nhiều trải nghiệm giải trí thú vị hơn bên cạnh việc chiến game hấp dẫn.
-Detail: • Sở hữu bộ vi xử lý Intel Core i5 Alder Lake - 12450HX gồm 8 nhân 12 luồng mạnh mẽ, Lenovo LOQ cho phép người dùng vận hành tốt các tác vụ đồ họa, văn phòng từ cơ bản đến nâng cao một cách trơn tru, thiết kế website, lập trình hay chiến hấp dẫn với kho game khủng.
-Detail: • Card đồ họa rời NVIDIA GeForce RTX 3050 6 GB cung cấp hiệu suất đồ họa cao, chỉnh sửa, kết xuất hình ảnh 2D, render video với các phần mềm đến từ nhà Adobe. Hơn nữa, việc tăng chất lượng đồ hoạ còn cho thiết lập được các mức cấu hình từ trung bình trở lên ở các con game đình đám LOL, GTA V, Dota 2,... với những chuyển động mướt mắt hơn.
-Detail: • RAM cơ bản 24 GB vượt trội, cho phép bạn thao tác được cùng lúc với nhiều cửa sổ, trò chuyện, giao lưu với bạn bè trên Discord trong khi chờ vô game. Máy còn hỗ trợ nâng cấp tối đa 32 GB cho các game thủ thỏa sức chiến mọi tựa game ngốn nhiều tài nguyên.
-Detail: • Khởi động máy, ứng dụng nhanh chóng với tốc độ phản hồi và đọc ghi nhanh nhờ vào ổ cứng SSD 512 GB NVMe PCIe. Bạn hoàn toàn có thể tháo ra và lắp thanh khác tối đa lên đến 1 TB, hỗ trợ lưu trữ tốt nhiều tựa game yêu thích.
-Detail: • Laptop Lenovo LOQ với phần vỏ máy được hoàn thiện từ nhựa màu xám chắc chắn đạt chuẩn độ bền quân đội MIL STD 810H, không chỉ tạo nên phong cách mạnh mẽ, hiện đại và còn vô cùng dễ dàng cầm nắm. Khối lượng 2.38 kg vẫn vừa vặn để máy vào balo và thuận tiện di chuyển đến mọi địa điểm bạn muốn.
-Detail: • Thiết kế bản lề mở được 180 độ có phần nhô ra riêng biệt, cạnh dưới được bố trí các hốc thoát nhiệt không chỉ mang công dụng duy trì hiệu năng mà còn giữ được nét thẩm mỹ phi thuyền mạnh mẽ.
-Detail: • Một điểm cộng nữa cho chiếc laptop gaming này là được trang bị đèn nền đơn sắc trắng, tạo sự tiện lợi cho các game thủ khi phải chiến đấu ở những môi trường thiếu sáng.
-Detail: • Laptop được trang bị khá đầy đủ các cổng kết nối phổ biến hiện nay như: LAN (RJ45), Jack tai nghe 3.5 mm, USB 3.2, HDMI và USB-C 3.2 hỗ trợ liên kết với các thiết bị ngoại vi tương thích một cách nhanh chóng và chính xác.
-Detail: • Không gian hiển thị rộng lớn với kích thước 15.6 inch cùng độ phân giải Full HD (1920 x 1080) cung cấp những khung hình sắc nét, chân thật đến từng chi tiết trong bối cảnh game với góc nhìn lên đến 178 độ nhờ tấm nền IPS.
-Detail: • Mãn nhãn với những chuyển động mượt mà trên từng nhân vật trong game nhờ tần số quét màn hình 144 Hz và công nghệ G-Sync trên laptop Lenovo, hạn chế tối đa hiện tượng giật xé hình và luôn bảo vệ độ an toàn cho mắt trước cường độ ánh sáng mạnh nhờ vào màn hình chống chói Anti Glare.
-Detail: • Thêm nữa, chuẩn màu cao đạt 100% sRGB còn là công cụ vô cùng hữu ích cho người dùng chuyên làm việc về design, thiết kế đòi hỏi chuẩn màu sắc chính xác cao.
-Detail: • Trọn vẹn phút giây thư giãn với chất lượng âm thanh chân thực, âm bass to rõ, khả năng lọc khử tiếng ồn tốt nhờ công nghệ Nahimic Audio mang đến những trải nghiệm giải trí trên cả tuyệt vời.
-","Công nghệ CPU:: Intel Core i5 Alder Lake - 12450HX
-Số nhân:: 8
-Số luồng:: 12
-Tốc độ CPU:: Hãng không công bố
-Tốc độ tối đa:: Turbo Boost 4.4 GHz
-Bộ nhớ đệm:: 12 MB
-","RAM:: 24 GB
-Loại RAM:: DDR5 2 khe (1 khe 12 GB + 1 khe 12 GB)
-Tốc độ Bus RAM:: 4800 MHz
-Hỗ trợ RAM tối đa:: 32 GB
-","Ổ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
-","Card rời - NVIDIA GeForce RTX 3050, 6 GB","15.6""",60 Wh,Full HD (1920 x 1080),"LAN (RJ45)
-Jack tai nghe 3.5 mm
-3 x USB 3.2
-HDMI
-1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327050/Slider/vi-vn-lenovo-loq-15iax9-i5-83gs00d9vn-sliders-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-7-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-8-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-9-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-10-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-11-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-12-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-14-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-15-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-16-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327050/lenovo-loq-15iax9-i5-83gs00d9vn-30-638651042190294139-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00d9vn?utm_flashsale=1
+",https://www.thegioididong.com/laptop/lenovo-ideapad-1-15alc7-r7-82r400c1vn,https://cdn.tgdd.vn/Products/Images/44/313627/lenovo-ideapad-1-15alc7-r7-82r400c1vn-thumb-1-600x600.jpg
 Laptop Lenovo Ideapad Slim 3 15IRH8 i7 13620H/16GB/1TB/Win11 (83EM003FVN),19.490.000₫,17.390.000₫,"Title: Không thể bỏ lỡ mẫu laptop Lenovo Ideapad Slim 3 15IRH8 i7 13620H (83EM003FVN) bởi cấu hình vô cùng phù hợp với con chip Intel i7 Gen 13, RAM 16 GB, SSD 1 TB,... sẽ là trợ thủ đắc lực cho những sinh viên thuộc nhiều khối ngành, dân văn phòng hay kinh doanh.
 Detail: • Trang bị vi xử lý Intel Core i7 13620H ổn định cùng card màn hình Intel UHD Graphics sẽ cho máy khả năng xử lý nhanh chóng các tác vụ học tập, văn phòng cơ bản hay thậm chí là thiết kế đồ họa của nhà Adobe như Premiere, Photoshop, Lightroom,... Ngoài ra, nếu bạn có những nhu cầu giải trí nhẹ nhàng với những tựa game như FO4, Valorant thì laptop cũng hoàn toàn đáp ứng tốt.
 Detail: • RAM 16 GB LPDDR5 (Onboard) trên chiếc laptop học tập - văn phòng này giúp bạn làm nhiều việc cùng một lúc mà vẫn cho trải nghiệm mượt mà, trơn tru, hoàn toàn có thể làm việc ở Chrome cùng lúc với chỉnh sửa hình ảnh ở Photoshop hoặc tận hưởng một bản nhạc du dương nào đó.
@@ -274,7 +274,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ",Card tích hợp - Intel UHD Graphics,"15.6""",47 Wh,Full HD (1920 x 1080),"Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322073/Slider/vi-vn-lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-slider-1.jpg và
+1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)",1.62 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322073/Slider/vi-vn-lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322073/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322073/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322073/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-glr-3-750x500.jpg và
@@ -293,7 +293,7 @@ https://cdn.tgdd.vn/Products/Images/44/322073/lenovo-ideapad-slim-3-15irh8-i7-83
 https://cdn.tgdd.vn/Products/Images/44/322073/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-glr-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322073/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-glr-17-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/322073/Kit/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn,https://cdn.tgdd.vn/Products/Images/44/322073/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn-thumb-600x600.jpg
 Laptop Lenovo Ideapad Slim 5 14IAH8 i5 12450H/16GB/1TB/Win11 (83BF003WVN),18.490.000₫,16.690.000₫,"Title: Laptop Lenovo Ideapad 5 14IAH8 i5 12450H (83BF003WVN) vừa được lên kệ tại Thế Giới Di Động, mẫu sản phẩm laptop học tập - văn phòng sở hữu hơi hướng thời thượng, cao cấp với vẻ ngoài tinh tế đầy thu hút, đi kèm với đó là hiệu năng vượt trội hơn so với những dòng sản phẩm đồng phân khúc, mang lại cho người dùng những trải nghiệm tuyệt vời nhất.
 Detail: • Bộ vi xử lý Intel Core i5 12450H sở hữu cấu trúc 8 nhân 12 luồng mạnh mẽ, mang đến tốc độ xung nhịp tối đa lên đến 4.4 GHz nhờ Turbo Boost hỗ trợ bạn giải quyết nhanh gọn, hàng loạt tác vụ văn phòng như Word, Excel, PowerPoint,... đồng thời cũng đáp ứng người dùng thực hiện trơn tru với các công việc coding hay làm đồ hoạ.
 Detail: • GPU tích hợp Intel UHD Graphics cũng đáp ứng tối thiểu các nhu cầu căn chỉnh hình ảnh trên Photoshop, AI, render các dạng video ngắn hay hỗ trợ chơi được những tựa game nhẹ như Liên Minh Huyền Thoại và Valorant.
@@ -319,7 +319,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 HDMI
 1 x USB 3.2 (Always on)
-2 x USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322082/Slider/vi-vn-lenovo-ideapad-5-14iah8-i5-83bf003wvn-slider-1.jpg và
+2 x USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4)",1.46 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/322082/Slider/vi-vn-lenovo-ideapad-5-14iah8-i5-83bf003wvn-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322082/lenovo-ideapad-5-14iah8-i5-83bf003wvn-1-638632058751368733-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322082/lenovo-ideapad-5-14iah8-i5-83bf003wvn-2-638632058761977492-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322082/lenovo-ideapad-5-14iah8-i5-83bf003wvn-3-638632058769263008-750x500.jpg và
@@ -338,7 +338,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322082/lenovo-ideapad-5
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322082/lenovo-ideapad-5-14iah8-i5-83bf003wvn-16-638632058885881369-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322082/lenovo-ideapad-5-14iah8-i5-83bf003wvn-17-638632058893441735-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322082/Kit/lenovo-ideapad-5-14iah8-i5-83bf003wvn-bbh-638632059737888106.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-5-14iah8-i5-83bf003wvn
+",https://www.thegioididong.com/laptop/lenovo-ideapad-5-14iah8-i5-83bf003wvn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/322082/lenovo-ideapad-5-14iah8-i5-83bf003wvn-thumb-laptop-638632059812795496-600x600.jpg
 Laptop Lenovo Gaming LOQ 15ARP9 R7 7435HS/24GB/512GB/6GB RTX4050/144Hz/Win11 (83JC0040VN),29.490.000₫,26.890.000₫,"Title: Ấn tượng mạnh mẽ từ vẻ bề ngoài độc đáo, thu hút đến khả năng chiến game đỉnh cao trên mẫu laptop Lenovo Gaming LOQ 15ARP9 R7 7435HS (83JC0040VN). Máy sở hữu con chip AMD Ryzen 7 mạnh mẽ, card rời RTX 40 Series, RAM 24 GB,... sẽ cùng bạn có những khoảnh khắc chiến đấu thực sự xuất thần.
 Detail: • Laptop Lenovo LOQ được trang bị bộ vi xử lý AMD Ryzen 7 7435HS với 8 nhân và 16 luồng. Điều này mang lại hiệu năng mạnh mẽ, giúp bạn xử lý mượt mà mọi tác vụ từ chơi game đến công việc đồ họa nặng. Các game thủ có thể tận hưởng trải nghiệm chiến đấu không bị gián đoạn, trải nghiệm được đa dạng nhiều con game ""hot hit"" trên Steam hay kể cả khi chạy các ứng dụng nặng hoặc thực hiện livestream mà không lo máy bị chậm hay lag.
 Detail: • Card đồ họa rời NVIDIA GeForce RTX 4050 6 GB mang lại khả năng xử lý đồ họa mạnh mẽ, giúp bạn tận hưởng chất lượng hình ảnh tuyệt vời nhờ tính năng RAY TRACING hỗ trợ đổ bóng hình ảnh sống động trong các tựa game đòi hỏi đồ họa cao như Valorant, Cyberpunk 2077,...
@@ -365,7 +365,7 @@ Hỗ trợ RAM tối đa:: 32 GB
 Jack tai nghe 3.5 mm
 3 x USB 3.2
 HDMI
-1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327051/Slider/vi-vn-lenovo-loq-15arp9-r7-83jc0040vn-slider-1.jpg và
+1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)",2.38 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327051/Slider/vi-vn-lenovo-loq-15arp9-r7-83jc0040vn-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327051/lenovo-loq-15arp9-r7-83jc0040vn-1-638632063457342413-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327051/lenovo-loq-15arp9-r7-83jc0040vn-2-638632063463626278-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327051/lenovo-loq-15arp9-r7-83jc0040vn-3-638632063469879368-750x500.jpg và
@@ -385,7 +385,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327051/lenovo-loq-15arp
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327051/lenovo-loq-15arp9-r7-83jc0040vn-17-638632063563460445-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327051/lenovo-loq-15arp9-r7-83jc0040vn-18-638632063569556999-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327051/Kit/lenovo-loq-15arp9-r7-83jc0040vn-bbh-638632063888926132.jpg và
-",https://www.thegioididong.com/laptop/lenovo-loq-15arp9-r7-83jc0040vn
+",https://www.thegioididong.com/laptop/lenovo-loq-15arp9-r7-83jc0040vn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327051/lenovo-loq-15arp9-r7-83jc0040vn-thumb-laptop-638632064157592071-600x600.jpg
 Laptop Lenovo Ideapad Slim 5 15IRU9 Core 5 120U/16GB/512GB/Win11 (83D0000EVN),21.690.000₫,17.990.000₫,"Title: Nổi bật trong phân khúc laptop học tập - văn phòng, chiếc laptop Lenovo IdeaPad Slim 5 15IRU9 Core 5 120U (83D0000EVN) sở hữu ngoại hình thanh lịch, hiện đại, mang đến phong cách thời thượng cho học sinh, sinh viên và nhân viên văn phòng.
 Detail: • Bộ vi xử lý Intel Core 5 120U sở hữu cấu trúc 10 nhân 12 luồng mạnh mẽ, mang đến hiệu năng ấn tượng cho mọi tác vụ. Tốc độ xung nhịp tối đa lên đến 5.0 GHz nhờ Turbo Boost giúp bạn giải quyết nhanh gọn hàng loạt tác vụ văn phòng như Word, Excel, PowerPoint,... một cách trơn tru và hiệu quả. 
 Detail: • GPU tích hợp Intel Graphics đáp ứng tốt các nhu cầu chỉnh sửa hình ảnh cơ bản trên Photoshop, AI, Canva,... giúp bạn sáng tạo nội dung nhanh chóng để phục vụ cho công việc và học tập.
@@ -412,7 +412,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 2 x USB Type-C 3.2 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4)
 1 x USB 3.2
 1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326574/Slider/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn638555324028689084.jpg và
+1 x USB 3.2 (Always on)",1.79 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326574/Slider/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn638555324028689084.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326574/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn-glr-1-638622511342294846-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326574/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn-glr-2-638622511352961950-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326574/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn-glr-3-638622511362191214-750x500.jpg và
@@ -430,7 +430,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326574/lenovo-ideapad-s
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326574/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn-glr-15-638622511453941930-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326574/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn-glr-30-638622511460602925-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326574/Kit/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn-bbh-638622511782094187.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn?utm_flashsale=1
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn?utm_flashsale=1,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326574/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn-thumb-638622511854518494-600x600.jpg
 Laptop Lenovo Gaming LOQ 15IAX9 i5 12450HX/24GB/512GB/4GB RTX2050/144Hz/Win11 (83GS00DBVN),23.490.000₫,21.290.000₫,"Title: Từng chi tiết của laptop Lenovo LOQ 15IAX9 i5 12450HX (83GS00DBVN) đều được thiết kế để chinh phục thế giới game thật hấp dẫn với sức mạnh vượt trội cùng đa tính năng hữu ích. Hãy tham khảo ngay mẫu laptop gaming với thiết kế độc đáo, lạ mắt này với mức giá lý tưởng ở kệ hàng Thế Giới Di Động.
 Detail: • Cấu tạo máy cực phong cách qua lớp vỏ nhựa màu xám, kiểu dáng đặc trưng với phần gù nhô ra trên những mẫu laptop gaming nhà Lenovo mang cảm hứng như những chiếc phi thuyền vũ trụ. Khối lượng 2.38 kg giúp bạn dễ dàng mang theo máy đến bất cứ đâu để luôn sẵn sàng cho những cuộc chiến mọi lúc mọi nơi.
 Detail: • Đèn nền đơn sắc trắng trên bàn phím sẽ là trợ thủ đắc lực trong những màn đêm game đầy thử thách, đảm bảo rằng game thủ luôn có thể chiến đấu hiệu quả ngay cả trong điều kiện ánh sáng yếu. Sự bố trí hợp lý của cổng kết nối như: LAN (RJ45), USB 3.2, HDMI, USB-C 3.2,... khiến việc kết nối với các thiết bị ngoại vi chưa bao giờ dễ dàng đến thế.
@@ -455,7 +455,7 @@ Hỗ trợ RAM tối đa:: 32 GB
 3 x USB 3.2
 HDMI
 1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)
-1 x Headphone/microphone combo",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328483/Slider/vi-vn-lenovo-loq-15iax9-i5-83gs00dbvn-slider-1.jpg và
+1 x Headphone/microphone combo",2.38 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328483/Slider/vi-vn-lenovo-loq-15iax9-i5-83gs00dbvn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328483/lenovo-loq-15iax9-i5-83gs00dbvn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328483/lenovo-loq-15iax9-i5-83gs00dbvn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328483/lenovo-loq-15iax9-i5-83gs00dbvn-3-750x500.jpg và
@@ -474,7 +474,88 @@ https://cdn.tgdd.vn/Products/Images/44/328483/lenovo-loq-15iax9-i5-83gs00dbvn-15
 https://cdn.tgdd.vn/Products/Images/44/328483/lenovo-loq-15iax9-i5-83gs00dbvn-16-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328483/lenovo-loq-15iax9-i5-83gs00dbvn-30-638648607474332745-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328483/Kit/lenovo-loq-15iax9-i5-83gs00dbvn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00dbvn
+",https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00dbvn,https://cdn.tgdd.vn/Products/Images/44/328483/lenovo-loq-15iax9-i5-83gs00dbvn-thumb-600x600.jpg
+Laptop Lenovo Gaming LOQ 15IRX9 i7 13650HX/16GB/512GB/6GB RTX4050/144Hz/Win11 (83DV00D5VN),32.990.000₫,29.690.000₫,"Title: Lenovo khuấy đảo thị trường laptop gaming với siêu phẩm Lenovo LOQ 15IRX9 i7 13650HX (83DV00D5VN) - sự kết hợp hoàn hảo giữa sức mạnh cấu hình đỉnh cao và thiết kế hầm hố, cuốn hút. Sở hữu chip Intel thế hệ 13 mạnh mẽ cùng card đồ họa RTX 40 series, sẵn sàng cùng bạn chinh phục mọi tựa game, mang đến những trải nghiệm chiến game đỉnh cao và mượt mà nhất.
+Detail: • Bộ vi xử lý Intel Core i7 Raptor Lake - 13650HX sở hữu cấu trúc 14 nhân và 20 luồng, cho phép bạn chinh phục mọi thử thách. Xung nhịp tối đa lên đến 4.9 GHz mang đến hiệu suất vượt trội, giúp bạn xử lý mọi tác vụ một cách mượt mà và nhanh chóng, bất kể là game nặng, thiết kế đồ họa phức tạp hay lập trình nâng cao.
+Detail: • Được trang bị card đồ họa NVIDIA GeForce RTX 4050 6 GB cùng công nghệ AI Chip LA1 tiên tiến, chiếc laptop gaming của nhà Lenovo sẽ mang đến cho bạn sức mạnh đồ họa vượt trội. Khi chiến game với mức đồ họa cao các khung hình luôn được tái tạo sắc nét hay xử lý các công việc thiết kế 3D nặng thì vẫn có thể hoàn thành một cách mượt mà, trơn tru. 
+Detail: • Với bộ nhớ RAM 16 GB DDR5 tốc độ Bus cao 4800 MHz, chiếc laptop Lenovo này cho phép bạn thoải mái đa nhiệm, mở nhiều ứng dụng nặng hay nhiều cửa sổ trình duyệt cùng lúc mà không lo hiện tượng giật lag, đơ máy khó chịu. Bạn có thể thoải mái sáng tạo, làm việc và giải trí mà không gặp bất kỳ trở ngại nào. Bên cạnh đó, máy còn hỗ trợ RAM tối đa 32 GB, bạn có thể nâng cấp dễ dàng khi nhu cầu sử dụng ngày một cao.
+Detail: • Ổ cứng SSD 512 GB NVMe PCIe trên Lenovo LOQ mang đến tốc độ khởi động máy, tải game và ứng dụng siêu nhanh, giúp bạn tiết kiệm thời gian và tối ưu hiệu quả công việc. Bạn cũng có thể thoải mái lưu trữ tài liệu, phim ảnh, game yêu thích mà không lo thiếu dung lượng. Khả năng mở rộng không gian lưu trữ lên đến 1 TB cho phép bạn nâng cấp dễ dàng khi cần thiết.
+Detail: • Màn hình 15.6 inch vô cùng rộng rãi được trang bị tấm nền IPS hiện đại cùng độ phân giải Full HD (1920 x 1080), mang đến cho bạn những hình ảnh tươi tắn, sắc nét và sống động đến từng chi tiết. Góc nhìn rộng lên đến 178 độ cho phép bạn thưởng thức hình ảnh rõ ràng từ mọi hướng, dù bạn đang nhìn màn hình trực diện hay từ hai bên.
+Detail: • Tận hưởng những pha giao tranh gay cấn hay những màn di chuyển tốc độ cao trong game với màn hình tần số quét 144 Hz cùng công nghệ G-Sync tiên tiến. Mọi chuyển động trong game của bạn sẽ trở nên mượt mà và sống động hơn bao giờ hết, hạn chế tối đa hiện tượng xé hình hay nhòe hình, giúp bạn dễ dàng nắm bắt từng khoảnh khắc quan trọng và đưa ra chiến thuật hiệu quả trong từng trận chiến.
+Detail: • Màn hình của laptop đạt thông số 100% sRGB, mang đến cho bạn khả năng hiển thị màu sắc chính xác và chân thực nhất. Nhờ vậy, bạn có thể yên tâm thực hiện các công việc chỉnh sửa ảnh, video đòi hỏi độ chuẩn màu cao mà không lo sai lệch màu sắc, đảm bảo thành phẩm luôn hoàn hảo.
+Detail: • Công nghệ Nahimic Audio mang đến hiệu ứng âm thanh 3D đầy ấn tượng giúp bạn cảm nhận được âm thanh phát ra từ mọi hướng, tạo nên một không gian âm thanh rộng lớn và sống động như thật. Âm bass mạnh mẽ, âm trung rõ ràng và âm cao chi tiết sẽ mang đến cho bạn những giây phút giải trí tuyệt vời nhất.
+Detail: • Laptop Lenovo LOQ Gaming sở hữu thiết kế đậm chất gaming với phần gù đặc trưng, khoác lên mình tông màu xám hiện đại và bộ khung chắc chắn, mang đến diện mạo đầy cá tính và không thể trộn lẫn. Khối lượng 2.38 kg bạn vẫn có thể để vào balo mang đi nhiều nơi, sẵn sàng cùng bạn chinh phục mọi thử thách.
+Detail: • Webcam Full HD sắc nét được tích hợp sẵn giúp bạn dễ dàng giao lưu, chia sẻ khoảnh khắc với bạn bè. Khi không sử dụng, bạn có thể an tâm bảo vệ sự riêng tư với công tắc khóa camera tiện lợi. Thêm vào đó, đèn bàn phím LED RGB - 4 vùng rực rỡ sẽ mang đến cho bạn trải nghiệm chơi game đầy sống động ngay cả trong môi trường thiếu sáng.
+Detail: • Đa dạng các cổng kết nối cần thiết ở cạnh bên và sau của laptop gồm: LAN (RJ45), Jack tai nghe 3.5 mm, USB 3.2, HDMI và USB-C 3.2.
+","Công nghệ CPU:: Intel Core i7 Raptor Lake - 13650HX
+Số nhân:: 14
+Số luồng:: 20
+Tốc độ CPU:: 2.6GHz
+Tốc độ tối đa:: Turbo Boost 4.9 GHz
+Bộ nhớ đệm:: 24 MB
+","RAM:: 16 GB
+Loại RAM:: DDR5 2 khe (1 khe 16 GB + 1 khe rời)
+Tốc độ Bus RAM:: 4800 MHz
+Hỗ trợ RAM tối đa:: 32 GB
+","Ổ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
+","Card rời - NVIDIA GeForce RTX 4050, 6 GB","15.6""",60 Wh,Full HD (1920 x 1080),"LAN (RJ45)
+Jack tai nghe 3.5 mm
+3 x USB 3.2
+HDMI
+1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)",2.38 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-8-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-9-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-10-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-11-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-12-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-13-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-14-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-15-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-30-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/325504/Kit/lenovo-loq-15irx9-i7-83dv00d5vn-bbh-org.jpg và
+",https://www.thegioididong.com/laptop/lenovo-loq-15irx9-i7-83dv00d5vn,https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-thumb-600x600.jpg
+Laptop Lenovo V14 G4 i7 1355U/16GB/512GB/Win11 (83A00012VN),19.990.000₫,18.990.000₫,"Title: Lựa chọn một chiếc laptop vừa hợp túi tiền lại có thể đáp ứng hàng loạt các tác vụ công việc thường ngày luôn là tiêu chí hàng đầu cho người dùng hiện đại. Laptop Lenovo V14 G4 i7 1355U (83A00012VN) sở hữu con chip Intel Gen 13 mạnh mẽ, RAM cùng bộ nhớ lớn hiện đang có mức giá hấp dẫn tại Thế Giới Di Động.
+Detail: • Laptop Lenovo sở hữu bộ vi xử lý Intel Core i7 1355U thế hệ thứ 13 mạnh mẽ, tốc độ tối đa lên tới 5.0 GHz, kết hợp cùng card đồ họa tích hợp Intel Iris Xe Graphics, xử lý trơn tru và hiệu quả mọi công việc doanh nghiệp từ làm giấy tờ đến xử lý các file bảng tính nặng nề. Bên cạnh đó, các tác vụ chỉnh sửa hình ảnh, video thông thường với Photoshop, Capcut hay chiến game nhẹ cũng đều đáp ứng được thoải mái.
+Detail: • Bộ nhớ RAM 16 GB DDR4 cung cấp khả năng đa nhiệm trơn tru với tốc độ truyền dữ liệu nhanh để bạn mở cùng lúc nhiều ứng dụng mà không lo giật lag. Ổ cứng SSD 512 GB NVMe PCIe Gen 4.0 mang lại tốc độ khởi động hệ thống, ứng dụng nhanh chỉ trong vài giây, dung lượng lớn cho bất cứ lưu trữ cá nhân nào.
+Detail: • Laptop có màn hình 14 inch với độ phân giải Full HD (1920 x 1080) cung cấp hình ảnh sắc nét, màu sắc chính xác, tăng cường khả năng quan sát hơn với tấm nền IPS mở rộng góc độ quan sát lên 178 độ. Màn hình cũng hỗ trợ công nghệ chống chói Anti Glare để giảm thiểu hiện tượng chói sáng và căng thẳng cho mắt.
+Detail: • Công nghệ Dolby Audio cung cấp bộ tùy chỉnh các thông số cơ bản của âm thanh như bass, treble,... để tương thích hơn với các hoạt động giải trí khác nhau.
+Detail: • Laptop Lenovo V series có thiết kế đẹp mắt với tông màu xám sang trọng cùng khối lượng 1.43 kg khá nhẹ nhàng để mang theo đến mọi nơi. Hơn nữa, lớp vỏ nhựa cứng cáp được gia công khá kỹ nên hoàn toàn có thể yên tâm khi có lỡ xảy ra va đập nhẹ.
+Detail: • Bản lề linh hoạt mở gập được 180 độ, linh hoạt cho các tư thế ngồi sử dụng hay chia sẻ thông tin dễ hơn trong các buổi họp nhóm, thảo luận chung.
+Detail: • Dọc hai bên thân chiếc laptop học tập - văn phòng này có nhiều cổng như: USB Type-C, USB 3.2, USB 2.0, HDMI, LAN,... cho linh hoạt ghép nối và truy xuất dữ liệu.
+","Công nghệ CPU:: Intel Core i7 Raptor Lake - 1355U
+Số nhân:: 10
+Số luồng:: 12
+Tốc độ CPU:: 1.7GHz
+Tốc độ tối đa:: Turbo Boost 5.0 GHz
+Bộ nhớ đệm:: 12 MB
+","RAM:: 16 GB
+Loại RAM:: DDR4 2 khe (8 GB onboard + 1 khe 8 GB)
+Tốc độ Bus RAM:: 3200 MHz
+Hỗ trợ RAM tối đa:: 16 GB
+","Ổ cứng:: 512 GB SSD NVMe PCIe Gen 4.0
+Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)
+",Card tích hợp - Intel Iris Xe Graphics,"14""",38Wh,Full HD (1920 x 1080),"USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)
+1 x USB 2.0
+1 x USB 3.2
+HDMI
+1 x Headphone/microphone combo
+LAN (RJ45)",1.43 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326641/Slider/vi-vn-lenovo-thinkpad-v14-i7-83a00012vn-slider-2.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-8-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-9-750x500.jpg và
+",https://www.thegioididong.com/laptop/lenovo-thinkpad-v14-i7-83a00012vn,https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-thumb-600x600.jpg
 Laptop Lenovo ThinkPad E14 Gen 6 Ultra 7 155U/16GB/512GB/Win11 (21M7004UVN),28.790.000₫,27.990.000₫,"Title: Laptop Lenovo ThinkPad E14 Gen 6 Ultra 7 (21M7004UVN) một trong những sự lựa chọn hàng đầu cho những ai tìm kiếm một chiếc laptop văn phòng có hiệu năng mạnh mẽ nhờ chip AI Intel Core Ultra 7 cùng kiểu dáng hiện đại.
 Detail: • Laptop Lenovo này sở hữu nét đặc trưng của dòng ThinkPad với vẻ ngoài cứng cáp với các đường nét tinh tế. Vỏ máy được làm từ kim loại - nhôm với màu đen bóng bẩy truyền thống, tạo nên vẻ ngoài thanh lịch và chuyên nghiệp. 
 Detail: • Kích thước máy khá nhẹ 1.44 kg khiến cho việc di chuyển dễ dàng, thích hợp cho những bạn thường xuyên di chuyển nhiều ngoài đường. Máy còn được trang bị đèn bàn phím đơn sắc màu trắng, giúp bạn làm việc hiệu quả ngay cả trong điều kiện ánh sáng yếu.
@@ -503,7 +584,7 @@ HDMI
 1 x USB-C (hỗ trợ USB 3.2, USB Power Delivery and DisplayPort 1.4)
 1 x USB-C (hỗ trợ Thunderbolt 4 / USB4, USB Power Delivery 3.1 and DisplayPort 2.1)
 1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326639/Slider/vi-vn-lenovo-thinkpad-e14-ultra-7-21m7004uvn-sliders-1.jpg và
+1 x USB 3.2 (Always on)",1.44 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326639/Slider/vi-vn-lenovo-thinkpad-e14-ultra-7-21m7004uvn-sliders-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/lenovo-thinkpad-e14-ultra-7-21m7004uvn-glr-1-638646013802346537-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/lenovo-thinkpad-e14-ultra-7-21m7004uvn-glr-2-638646013811383827-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/lenovo-thinkpad-e14-ultra-7-21m7004uvn-glr-3-638646013817299193-750x500.jpg và
@@ -523,78 +604,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/lenovo-thinkpad-
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/lenovo-thinkpad-e14-ultra-7-21m7004uvn-glr-17-638646013912072404-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/lenovo-thinkpad-e14-ultra-7-21m7004uvn-30-638651039958742515-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/Kit/lenovo-thinkpad-e14-ultra-7-21m7004uvn-bbh-638646017737222060.jpg và
-",https://www.thegioididong.com/laptop/lenovo-thinkpad-e14-ultra-7-21m7004uvn
-Laptop Lenovo V14 G4 i7 1355U/16GB/512GB/Win11 (83A00012VN),19.990.000₫,18.990.000₫,"Title: Lựa chọn một chiếc laptop vừa hợp túi tiền lại có thể đáp ứng hàng loạt các tác vụ công việc thường ngày luôn là tiêu chí hàng đầu cho người dùng hiện đại. Laptop Lenovo V14 G4 i7 1355U (83A00012VN) sở hữu con chip Intel Gen 13 mạnh mẽ, RAM cùng bộ nhớ lớn hiện đang có mức giá hấp dẫn tại Thế Giới Di Động.
-Detail: • Laptop Lenovo sở hữu bộ vi xử lý Intel Core i7 1355U thế hệ thứ 13 mạnh mẽ, tốc độ tối đa lên tới 5.0 GHz, kết hợp cùng card đồ họa tích hợp Intel Iris Xe Graphics, xử lý trơn tru và hiệu quả mọi công việc doanh nghiệp từ làm giấy tờ đến xử lý các file bảng tính nặng nề. Bên cạnh đó, các tác vụ chỉnh sửa hình ảnh, video thông thường với Photoshop, Capcut hay chiến game nhẹ cũng đều đáp ứng được thoải mái.
-Detail: • Bộ nhớ RAM 16 GB DDR4 cung cấp khả năng đa nhiệm trơn tru với tốc độ truyền dữ liệu nhanh để bạn mở cùng lúc nhiều ứng dụng mà không lo giật lag. Ổ cứng SSD 512 GB NVMe PCIe Gen 4.0 mang lại tốc độ khởi động hệ thống, ứng dụng nhanh chỉ trong vài giây, dung lượng lớn cho bất cứ lưu trữ cá nhân nào.
-Detail: • Laptop có màn hình 14 inch với độ phân giải Full HD (1920 x 1080) cung cấp hình ảnh sắc nét, màu sắc chính xác, tăng cường khả năng quan sát hơn với tấm nền IPS mở rộng góc độ quan sát lên 178 độ. Màn hình cũng hỗ trợ công nghệ chống chói Anti Glare để giảm thiểu hiện tượng chói sáng và căng thẳng cho mắt.
-Detail: • Công nghệ Dolby Audio cung cấp bộ tùy chỉnh các thông số cơ bản của âm thanh như bass, treble,... để tương thích hơn với các hoạt động giải trí khác nhau.
-Detail: • Laptop Lenovo V series có thiết kế đẹp mắt với tông màu xám sang trọng cùng khối lượng 1.43 kg khá nhẹ nhàng để mang theo đến mọi nơi. Hơn nữa, lớp vỏ nhựa cứng cáp được gia công khá kỹ nên hoàn toàn có thể yên tâm khi có lỡ xảy ra va đập nhẹ.
-Detail: • Bản lề linh hoạt mở gập được 180 độ, linh hoạt cho các tư thế ngồi sử dụng hay chia sẻ thông tin dễ hơn trong các buổi họp nhóm, thảo luận chung.
-Detail: • Dọc hai bên thân chiếc laptop học tập - văn phòng này có nhiều cổng như: USB Type-C, USB 3.2, USB 2.0, HDMI, LAN,... cho linh hoạt ghép nối và truy xuất dữ liệu.
-","Công nghệ CPU:: Intel Core i7 Raptor Lake - 1355U
-Số nhân:: 10
-Số luồng:: 12
-Tốc độ CPU:: 1.7GHz
-Tốc độ tối đa:: Turbo Boost 5.0 GHz
-Bộ nhớ đệm:: 12 MB
-","RAM:: 16 GB
-Loại RAM:: DDR4 2 khe (8 GB onboard + 1 khe 8 GB)
-Tốc độ Bus RAM:: 3200 MHz
-Hỗ trợ RAM tối đa:: 16 GB
-","Ổ cứng:: 512 GB SSD NVMe PCIe Gen 4.0
-Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)
-",Card tích hợp - Intel Iris Xe Graphics,"14""",38Wh,Full HD (1920 x 1080),"USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)
-1 x USB 2.0
-1 x USB 3.2
-HDMI
-1 x Headphone/microphone combo
-LAN (RJ45)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326641/Slider/vi-vn-lenovo-thinkpad-v14-i7-83a00012vn-slider-2.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-7-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-8-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326641/lenovo-thinkpad-v14-i7-83a00012vn-9-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-thinkpad-v14-i7-83a00012vn
-Laptop Lenovo IdeaPad Slim 5 14IMH9 Ultra 7 155H/32GB/1TB/Win11 (83DA0020VN),28.690.000₫,25.990.000₫,"Title: Tìm kiếm một chiếc laptop đáp ứng mọi nhu cầu học tập và giải trí với hiệu năng mạnh mẽ, màn hình đẹp và giá thành hợp lý? Laptop Lenovo IdeaPad Slim 5 14IMH9 Ultra 7 155H (83DA0020VN) chính là lựa chọn hoàn hảo dành cho bạn với đầy đủ tiêu chí được yêu cầu, mẫu chip thế hệ mới trên máy còn được tích hợp đa dạng AI hữu ích.
-Detail: • Laptop mang thiết kế mỏng nhẹ với vỏ kim loại nhôm nguyên khối màu xám hiện đại, khối lượng chỉ 1.48 kg, dễ dàng mang theo bên mình mọi lúc mọi nơi. Máy đạt chuẩn độ bền quân đội MIL STD 810H, có khả năng chống chịu va đập và tác động ngoại lực tốt, cho bạn an tâm sử dụng trong thời gian dài.
-Detail: • Đa tính năng bảo mật tân tiến như: TPM 2.0, công tắc khóa camera và mở khóa khuôn mặt cũng mang lại những sự hữu ích nhất định. Ngoài ra, laptop học tập - văn phòng còn có cả Full HD Webcam cho video call và làm việc trực tuyến, đèn nền bàn phím phòng khi sử dụng vào đêm khuya, đây đều là những sự trang bị không thể thiếu trên một mẫu thiết bị làm việc cá nhân.
-Detail: • Dọc 2 bên thiết bị được bố trí đa dạng cổng giao tiếp cần thiết từ: HDMI, USB Type-C 3.2, USB 3.2, Headphone/microphone combo và khe micro SD cho hầu hết mọi nhu cầu kết nối.
-Detail: • Laptop Lenovo IdeaPad sở hữu màn hình OLED 14 inch với độ phân giải WUXGA (1920 x 1200) cho hình ảnh sắc nét, sống động đến từng chi tiết. Độ phủ màu 100% DCI-P3 cho hiển thị những gam màu chính xác, đáp ứng nhu cầu về chất lượng của ấn phẩm đồ học cho các nhà sáng tạo nội dung.
-Detail: • Kích thước khung hình lý tưởng để chia đôi cửa sổ giúp đa nhiệm hơn trong công việc, đồng thời thì độ sáng cũng tinh chỉnh được đến 400 nits, thay đổi nhiều không gian sử dụng khác nhau mà không gặp bất cứ khó khăn nào.
-Detail: • Công nghệ Dolby Audio mang đến âm thanh sống động, cho bạn những giây phút giải trí thư giãn tuyệt vời. Đồng thời laptop cũng hỗ trợ hệ thống chỉnh các thông số âm thanh như bass, treble,... cho từng dạng giải trí riêng.
-Detail: • Được trang bị bộ vi xử lý Intel Core Ultra 7 155H mới nhất với 16 nhân 22 luồng cùng card đồ họa Intel Arc Graphics, laptop Lenovo tự tin xử lý mọi tác vụ từ cơ bản đến phức tạp trên đa nền tảng Microsoft Office, Google Workspace,... một cách trơn tru nhất. Khả năng dựng hình tốt, cân bằng được nhiều công việc đồ hoạ trên Canva, Photoshop, Figma,...
-Detail: • Điểm đặc biệt hơn của laptop Lenovo IdeaPad Slim là tích hợp NPU - nhân xử lý AI thế hệ mới. Nhờ vậy, hiệu suất được tối ưu hóa, tiết kiệm điện năng và mang đến những trải nghiệm thông minh như tự động tracking khuôn mặt, lọc bỏ tiếng ồn khi họp online, tăng tốc nhận diện đồ họa,...
-Detail: • Bên cạnh đó, dung lượng RAM khủng 32 GB LPDDR5X Onboard giúp bạn thoải mái mở hàng chục ứng dụng cùng lúc mà không lo giật lag. Truy xuất dữ liệu tốc độ, tải nhanh mọi file hay lưu trữ thoải mái nhờ ổ cứng SSD 1 TB NVMe PCIe Gen 4.
-","Công nghệ CPU:: Intel Core Ultra 7 Meteor Lake - 155H
-Số nhân:: 16
-Số luồng:: 22
-Tốc độ CPU:: 3.8GHz
-Tốc độ tối đa:: Turbo Boost 4.8 GHz
-Bộ nhớ đệm:: 24 MB
-","RAM:: 32 GB
-Loại RAM:: LPDDR5X (Onboard)
-Tốc độ Bus RAM:: 7467 MHz
-Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
-","Ổ cứng:: 1 TB SSD NVMe PCIe Gen 4
-",Card tích hợp - Intel Arc Graphics,"14""",57Wh,"WUXGA, OLED","HDMI
-2 x USB Type-C 3.2 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4)
-1 x USB 3.2
-1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328135/Slider/vi-vn-lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-slider-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-7-750x500.jpg và
-https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-30-638651061125657958-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn?utm_flashsale=1
+",https://www.thegioididong.com/laptop/lenovo-thinkpad-e14-ultra-7-21m7004uvn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/lenovo-thinkpad-e14-ultra-7-21m7004uvn-thumb-638646018111183543-600x600.jpg
 Laptop Lenovo V15 G4 IRU i5 1335U/16GB/512GB/Win11 (83A1000LVN),17.990.000₫,15.990.000₫,"Title: Laptop Lenovo V15 G4 IRU i5 1335U (83A1000LVN) mang đến sự kết hợp hoàn hảo giữa vẻ đẹp hiện đại cùng hàng loạt các công nghệ tiên tiến, là một lựa chọn không thể bỏ qua để tối ưu trải nghiệm trong học tập, công việc và giải trí đối với các bạn học sinh - sinh viên hoặc nhân viên văn phòng.
 Title: Kiểu dáng tinh giản, sang trọng
 Detail: Trên hành trình tìm kiếm sự hoàn hảo của dòng máy laptop học tập - văn phòng, laptop Lenovo tỏa sáng với sự đơn giản và đẳng cấp của ngoại hình. Không phô trương, không quá nhiều chi tiết phức tạp, máy chỉ đơn giản là một biểu tượng của sự chắc chắn, tối giản. Khi được chế tác từ lớp vỏ nhựa hoàn toàn cùng tông xám trầm, máy mang đến một vẻ đẹp cứng cáp, thanh lịch, khiến mình tự tin mỗi khi đặt nó ở bất kỳ góc độ nào.
@@ -642,7 +652,7 @@ Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng
 Jack tai nghe 3.5 mm
 1 x USB 3.2
 HDMI
-LAN (RJ45)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/314257/Slider/vi-vn-lenovo-v15-g4-iru-i5-83a1000lvn-thumbvideo-1.jpg và
+LAN (RJ45)",1.67 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/314257/Slider/vi-vn-lenovo-v15-g4-iru-i5-83a1000lvn-thumbvideo-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314257/lenovo-v15-g4-iru-i5-83a1000lvn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314257/lenovo-v15-g4-iru-i5-83a1000lvn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314257/lenovo-v15-g4-iru-i5-83a1000lvn-glr-3-750x500.jpg và
@@ -661,59 +671,140 @@ https://cdn.tgdd.vn/Products/Images/44/314257/lenovo-v15-g4-iru-i5-83a1000lvn-gl
 https://cdn.tgdd.vn/Products/Images/44/314257/lenovo-v15-g4-iru-i5-83a1000lvn-glr-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314257/lenovo-v15-g4-iru-i5-83a1000lvn-glr-17-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/314257/Kit/lenovo-v15-g4-iru-i5-83a1000lvn-glr-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-v15-g4-iru-i5-83a1000lvn
-Laptop Lenovo Ideapad 3 15IAU7 i7 1255U/16GB/1TB/Win11 (82RK00X0VN),18.990.000₫,16.490.000₫,"Title: Là điển hình của một mẫu laptop học tập - văn phòng sở hữu hiệu năng ổn định, tính đa dụng cần thiết để đáp ứng đầy đủ hầu hết mọi nhu cầu của học sinh, sinh viên hay nhân viên văn phòng. Laptop Lenovo Ideapad 3 15IAU7 i7 1255U (82RK00X0VN) chắc chắn là sản phẩm bạn không thể bỏ qua khi lựa chọn laptop phục vụ công việc học tập cũng như giải trí.
-Detail: • Bộ vi xử lý Intel Core i7 1255U kết hợp cùng GPU Intel Iris Xe Graphics mang đến hiệu suất đủ mạnh mẽ để máy vận hành mượt mà mọi tác vụ văn phòng và giải trí thường ngày, đồng thời thiết bị cũng cho phép người dùng chạy code hay chỉnh sửa hình ảnh, render video đơn giản cũng như chơi game nhẹ.
-Detail: • RAM 16 GB DDR4 giúp công việc của bạn được đa nhiệm hiệu quả, thao tác cùng lúc với hàng chục tab trình duyệt hay mở các ứng dụng đồ hoạ đòi hỏi nhiều tài nguyên mà không lo đơ hay giật lag máy.
-Detail: • Ổ cứng SSD 1 TB NVMe PCIe Gen 4 trên laptop Lenovo cung cấp một không gian lưu trữ thoải mái cho nhiều tài liệu và tệp tin. Ngoài ra, ổ SSD còn cho khả năng truy xuất và ghi đọc dữ liệu nhanh hơn đáng kể so với những loại ổ cứng HDD thông thường.
-Detail: • Màn hình 15.6 inch độ phân giải Full HD (1920 x 1080) đi cùng tấm nền IPS mang lại màu sắc chân thực, góc nhìn rộng, giúp người dùng có trải nghiệm giải trí tuyệt vời, phù hợp cho các công việc liên quan đến văn bản, giấy tờ và các tác vụ cần sử dụng màn hình bao quát. Tính năng chống chói Anti Glare cũng cho phép hiển thị rõ ràng hơn, ít bị phản xạ lại khi sử dụng máy ngoài trời hay dưới điều kiện ánh sáng mạnh.
-Detail: • Công nghệ Dolby Audio giúp cải thiện chất âm trên laptop, cho người dùng trải nghiệm âm thanh tốt hơn khi xem phim, nghe nhạc hay gọi video.
-Detail: • Laptop Lenovo IdeaPad được thiết kế với lớp vỏ nhựa cao cấp cùng lớp sơn xám trung tính và đường nét hiện đại, mang đến tính thẩm mỹ cao và sự chuyên nghiệp khi sử dụng. Khối lượng tổng thể của máy là 1.63 kg, gọn gàng và vừa vặn với chiếc balo của bạn, thuận tiện mang theo mọi nơi.
-Detail: • Thêm nữa, laptop cũng được tích hợp đa dạng các tính năng bảo mật, đảm bảo an toàn cho thông tin hình ảnh và dữ liệu người dùng như: TPM 2.0, bảo mật vân tay và công tắc khóa camera.
-Detail: • Thiết bị còn được trang bị các cổng giao tiếp như: HDMI, USB 2.0, USB 3.2, USB-C 3.2, khe thẻ nhớ SD, cho phép người dùng kết nối với chuột, bàn phím, màn hình,... một cách dễ dàng.
-","Công nghệ CPU:: Intel Core i7 Alder Lake - 1255U
-Số nhân:: 10
-Số luồng:: 12
-Tốc độ CPU:: 1.7GHz
-Tốc độ tối đa:: Turbo Boost 4.7 GHz
-Bộ nhớ đệm:: 12 MB
+",https://www.thegioididong.com/laptop/lenovo-v15-g4-iru-i5-83a1000lvn,https://cdn.tgdd.vn/Products/Images/44/314257/lenovo-v15-g4-iru-i5-83a1000lvn-thumb-1-600x600.jpg
+Laptop Lenovo Ideapad Gaming 3 15ACH6 R5 5500H/16GB/512GB/4GB RTX2050/144Hz/Win11 (82K2027PVN),18.990.000₫,15.990.000₫,"Title: Một mẫu laptop gaming hot mang mức giá tầm trung và sở hữu những thông số đủ mạnh cho các anh em chiến thoải mái với những con game thịnh hành, phục vụ giải trí hay công việc đầy đủ. Laptop Lenovo Ideapad Gaming 3 15ACH6 R5 5500H (82K2027PVN) chắc chắn sẽ không khiến bạn thất vọng với giá trị bỏ ra.
+Detail: • Laptop Lenovo Ideapad sở hữu con chip AMD Ryzen 5 5500H tích hợp cùng card rời NVIDIA GeForce RTX 2050 4 GB hỗ trợ mức hiệu suất mạnh mẽ cho phép bạn chiến thoả thích với những tựa game đang hot như: FO4, Call Of Duty, CS:GO,... Ngoài ra, mức cấu hình trên cũng rất hữu ích khi thực hiện chỉnh sửa hình ảnh và edit video cơ bản với Photoshop, AI, CapCut,... và vận hành nhanh chóng các công việc thường ngày.
+Detail: • Bộ nhớ RAM 16 GB cho trải nghiệm đa nhiệm mượt mà, mở nhiều ứng dụng, các tựa game hay ứng dụng đồ hoạ mà không lo thiết bị gặp hiện tượng lag hay đơ. Ổ cứng SSD 512 GB NVMe PCIe Gen 4.0 giảm thời gian chờ đợi khi khởi động ứng dụng đi đáng kể, dung lượng thoải mái có hỗ trợ nâng cấp lên tối đa tận 1 TB.
+Detail: • Tận hưởng khung cảnh game phong phú và bắt mắt qua các chi tiết hình ảnh sắc nét trong khung hình 15.6 inch có độ phân giải Full HD (1920 x 1080). Ngoài ra, tính năng chống chói Anti Glare cùng mức sáng 300 nits luôn đảm bảo cho chất lượng hiển thị ở mức tối ưu nhất ở nhiều không gian sử dụng khác nhau.
+Detail: • Thêm nữa, tần số quét 144 Hz cũng khiến những trải nghiệm chơi game FPS tốc độ cao của bạn cũng được trở nên thích mắt và mượt mà hơn hẳn.
+Detail: • Laptop mang đến cho người dùng cảm giác đắm chìm hơn trong những trận game căng thẳng, những bộ phim bom tấn nhờ công nghệ Nahimic Audio có khả năng tái tạo âm thanh 3D với chất âm như toả ra từ mọi hướng.
+Detail: • Dễ dàng chia sẻ những giờ phút giải trí cùng bạn bè với HD webcam được trang bị sẵn, bạn cũng có thể đóng mở thủ công khi không dùng với công tắc khoá camera để giữ an toàn cho hình ảnh cá nhân. Bàn phím máy có đèn nền sẵn sàng phục vụ cho những buổi chiến game vào đêm khuya.
+Detail: • Thiết kế kiểu dáng phi thuyền cuốn hút, không mang quá nhiều chi tiết nhưng với bộ khung độc đáo thì máy vẫn trọn vẹn thể hiện nét phong cách và cá tính điển hình của những mẫu laptop gaming. Khối lượng 2.25 kg vẫn khá thoải mái cho anh em có thể bỏ trong balo và mang theo bên mình cả ngày.
+Detail: • Laptop Lenovo có đầy đủ các cổng kết nối thông dụng dọc 2 bên máy như: USB Type-C, Jack tai nghe 3.5 mm, USB 3.2, HDMI và LAN để thuận tiện khi truyền tải dữ liệu với các thiết bị ngoại vi.
+","Công nghệ CPU:: AMD Ryzen 5 - 5500H
+Số nhân:: 4
+Số luồng:: 8
+Tốc độ CPU:: 3.3GHz
+Tốc độ tối đa:: Turbo Boost 4.2 GHz
+Bộ nhớ đệm:: 8 MB
 ","RAM:: 16 GB
-Loại RAM:: DDR4 2 khe (8 GB onboard + 1 khe 8 GB)
+Loại RAM:: DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)
 Tốc độ Bus RAM:: 3200 MHz
 Hỗ trợ RAM tối đa:: 16 GB
-","Ổ cứng:: 1 TB SSD NVMe PCIe Gen 4
-",Card tích hợp - Intel Iris Xe Graphics,"15.6""",45Wh,Full HD (1920 x 1080),"Jack tai nghe 3.5 mm
-1 x USB 2.0
+","Ổ cứng:: 512 GB SSD NVMe PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))
+Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)
+","Card rời - NVIDIA GeForce RTX 2050, 4 GB","15.6""",45Wh,Full HD (1920 x 1080),"LAN (RJ45)
+Jack tai nghe 3.5 mm
+2 x USB 3.2
+HDMI
+1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu)",2.25 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/313667/Slider/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-slider-fix-1-1020x570.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-8-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-9-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-10-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-11-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-12-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-13-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-14-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-15-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/313667/Kit/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-glr-bbh-org.jpg và
+",https://www.thegioididong.com/laptop/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn,https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-600x600.png
+Laptop Lenovo Ideapad Slim 5 16IMH9 Ultra 5 125H/16GB/512GB/120Hz/Win11 (83DC001RVN),23.690.000₫,22.690.000₫,"Title: Lenovo Ideapad Slim 5 16IMH9 Ultra 5 125H (83DC001RVN) là tuyên ngôn về phong cách thời thượng của người sở hữu nhờ thiết kế đẹp mắt, đi cùng bộ thông số cấu hình mạnh mẽ giúp bạn xử lý mọi tác vụ một cách nhanh chóng, từ những công việc văn phòng cơ bản đến những ứng dụng đồ họa nặng.
+Detail: • Bộ vi xử lý Intel Core Ultra 5 125H mang cấu trúc 14 nhân 18 luồng, mang đến tốc độ xử lý bứt phá lên đến 4.5 GHz nhờ Turbo Boost, giúp bạn chinh phục mọi tác vụ văn phòng như Word, Excel, PowerPoint,... một cách nhanh chóng và hiệu quả.
+Detail: • GPU Intel Arc Graphics trên laptop Lenovo cũng sẽ là người bạn đồng hành lý tưởng cho những ai yêu thích lập trình hay sáng tạo đồ họa. Hiệu năng mạnh mẽ của nó giúp bạn xử lý mượt mà mọi ứng dụng, từ những phần mềm lập trình đến các phần mềm đồ họa như Photoshop, AI, Figma,...
+Detail: • RAM 16 GB mang đến cho chiếc laptop học tập - văn phòng khả năng đa nhiệm vượt trội, bạn có thể thoải mái mở nhiều ứng dụng cùng lúc, chuyển đổi qua lại giữa các ứng dụng một cách trơn tru mà không hề gặp hiện tượng giật lag hay đơ máy.
+Detail: • Ổ cứng SSD 512 GB NVMe PCIe Gen 4 cung cấp tốc độ khởi động hệ thống ấn tượng, giúp bạn tiết kiệm thời gian chờ đợi đáng kể. Bên cạnh đó cũng đáp ứng nhu cầu lưu trữ dữ liệu cho các tệp tin cá nhân, tài liệu học tập và công việc một cách thoải mái.
+Detail: • Laptop Lenovo sở hữu màn hình 16 inch có độ phân giải 2K (2048 x 1280) với độ sáng 400 nits, mở ra thế giới hình ảnh sắc nét, sống động đến từng chi tiết trong mọi điều kiện ánh sáng. Tần số quét 120 Hz trên laptop cũng giúp mọi chuyển động trở nên mượt mà hơn, đặc biệt khi chơi game, xem phim hành động hay cuộn trang.
+Detail: • Tấm nền OLED tiên tiến kết hợp chuẩn 100% DCI-P3 cũng mang đến dải màu rộng và độ tương phản ấn tượng từ mọi góc nhìn, giúp bạn tận hưởng những thước phim giải trí mãn nhãn hay tạo ra những bản thiết kế đồ họa ấn tượng với màu sắc chuẩn xác, truyền tải trọn vẹn ý tưởng của mình.
+Detail: • Công nghệ Dolby Audio trên laptop Lenovo Ideapad mang đến cho bạn thế giới giải trí sống động và đầy mê hoặc nhờ khả năng tái tạo âm thanh một cách trung thực, chi tiết, giúp bạn đắm chìm vào từng nốt nhạc, từng lời ca.
+Detail: • Đa dạng tiện ích bảo mật gồm mở khóa khuôn mặt, công tắc khóa camera, camera IR, chip TPM 2.0, giúp tăng cường khả năng bảo vệ cho dữ liệu cá nhân của bạn trước những rủi ro bị tấn công mạng hay rò rỉ thông tin.
+Detail: • Ideapad Slim 5 mang diện mạo sang trọng, thời thượng khẳng định gu thẩm mỹ tinh tế của người sở hữu với lớp vỏ nhôm xám cứng cáp. Hơn thế nữa, độ bền chuẩn quân đội MIL STD 810H còn giúp máy chống chịu va đập, chống sốc và nhiệt độ một cách đáng kinh ngạc, cho phép bạn yên tâm sử dụng laptop trong mọi môi trường. 
+Detail: • Máy cũng tích hợp đèn nền phím đơn sắc giúp bạn dễ dàng thao tác trong môi trường thiếu sáng. Các cổng giao tiếp như Jack tai nghe 3.5 mm, USB 3.2, HDMI, USB Type-C, khe Micro SD cũng giúp bạn thuận tiện kết nối với các thiết bị ngoại vi.
+","Công nghệ CPU:: Intel Core Ultra 5 Meteor Lake - 125H
+Số nhân:: 14
+Số luồng:: 18
+Tốc độ CPU:: 1.2GHz
+Tốc độ tối đa:: Turbo Boost 4.5 GHz
+Bộ nhớ đệm:: 18 MB
+","RAM:: 16 GB
+Loại RAM:: LPDDR5X (Onboard)
+Tốc độ Bus RAM:: 7467 MHz
+Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
+","Ổ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
+",Card tích hợp - Intel Arc Graphics,"16""",57Wh,"2K, OLED","Jack tai nghe 3.5 mm
 1 x USB 3.2
 HDMI
-1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/313637/Slider/vi-vn-lenovo-ideapad-3-15iau7-i7-82rk00x0vn-slider-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-7-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-8-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-9-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-10-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-11-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-12-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-13-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/313637/lenovo-ideapad-3-15iau7-i7-82rk00x0vn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-3-15iau7-i7-82rk00x0vn
-Laptop Lenovo Ideapad Slim 5 16IMH9 Ultra 7 155H/32GB/512GB/120Hz/Win11 (83DC001SVN),27.690.000₫,26.690.000₫,"Title: Khó kiếm đâu trên thị trường một mẫu laptop vừa sở hữu con chip Ultra 7 có AI tích hợp hoàn toàn mới, RAM đến 32 GB, sở hữu màn hình 2K tuyệt đẹp mà còn nằm trong phân khúc dưới 30 triệu. Laptop Lenovo Ideapad Slim 5 16IMH9 Ultra 7 155H (83DC001SVN) chắc chắn là sự lựa chọn không thể tuyệt vời hơn khi cân nhắc mua một chiếc máy phục vụ học tập hay công việc.
-Detail: • Laptop Lenovo IdeaPad sử dụng bộ vi xử lý Intel Core Ultra 7 155H với 16 nhân và 22 luồng mạnh mẽ đi cùng GPU Intel Arc Graphics, đáp ứng mọi nhu cầu công việc và giải trí. Tạo lập các file Excel báo cáo nặng hay cập nhật dữ liệu nhanh chóng và đồng thời CPU này cũng hỗ trợ chỉnh sửa đồ các file đồ hoạ 2D, video khá tốt.
-Detail: • Việc tích hợp NPU - nhân xử lý AI, giúp tối ưu hóa hiệu suất và phân bổ công việc thật thông minh để tiết kiệm điện hơn hẳn các dòng chip thế hệ trước. Hơn nữa một số tính năng AI như tự động tracking khuôn mặt, lọc bỏ tiếng ồn khi họp online, tăng tốc nhận diện đồ hoạ,... cũng mang đến những lợi ích nhất định trong làm việc thường ngày.
-Detail: • Laptop có trang bị bộ nhớ RAM 32 GB LPDDR5X Onboard, giúp bạn xử lý đa nhiệm mượt mà, chạy nhiều ứng dụng cùng lúc mà không lo giật lag. Vận hành hiệu quả ngay từ lúc đầu mà không cần phải nâng cấp gì thêm.
-Detail: • Ổ cứng SSD NVMe PCIe Gen 4.0 dung lượng 512 GB mang lại không gian lưu trữ khổng lồ, cho phép bạn thoải mái lưu trữ dữ liệu, tài liệu, phim ảnh và âm nhạc mà không lo giới hạn. Tốc độ truy cập dữ liệu cực nhanh giúp bạn tiết kiệm thời gian và nâng cao hiệu quả công việc và giải trí. Nếu thích thì bạn hoàn toàn có thể tháo lắp và nâng không gian lưu trữ lên đến 1 TB.
-Detail: • Màn hình OLED 16 inch hiển thị độ phân giải 2K (2048 x 1280) mở rộng tầm nhìn thêm bao quát hơn, từ đó dễ dàng trong việc chia nhỏ nhiều cửa sổ trong quá trình làm việc. Tốc độ làm mới 120 Hz, quá vượt trội so với một chiếc laptop học tập - văn phòng, tái tạo chuyển động mượt mà, tăng cao trải nghiệm phim ảnh và chơi game.
-Detail: • Với độ phủ màu 100% DCI-P3, máy tái tạo màu sắc chính xác, phù hợp với nhu cầu của các nhà sáng tạo nội dung và chuyên gia đồ họa. Độ sáng tối đa 400 nits dễ dàng điều chỉnh để tương thích với mắt người trong nhiều môi trường sử dụng khác nhau.
-Detail: • Công nghệ Dolby Audio giúp khuếch đại âm thanh mạnh mẽ, mang lại trải nghiệm âm thanh sống động, giúp bạn thư giãn khi làm việc và học tập.
-Detail: • Máy thể hiện ấn tượng với thiết kế trang nhã, đầy tinh tế. qua lớp vỏ nhôm xám hiện đại. Khối lượng tiêu chuẩn 1.82 kg để bạn có thể dễ dàng đặt nó vào balo hoặc túi xách và mang theo bất cứ đâu, trở thành người bạn đồng hành lý tưởng trong mọi cuộc hành trình.
-Detail: • Đạt chuẩn độ bền quân đội MIL STD 810H, laptop Lenovo có khả năng chống chịu va đập và tác động ngoại lực tuyệt vời, sẵn sàng cùng bạn đến mọi nơi. Bàn phím có đèn nền đơn sắc trắng, giúp bạn làm việc hiệu quả ngay cả trong môi trường thiếu sáng, mang lại khả năng hiển thị rõ ràng mọi lúc mọi nơi.
-Detail: • Full HD Webcam tích hợp giúp bạn dễ dàng tham gia các cuộc họp trực tuyến hoặc trò chuyện video. Camera IR kết hợp công nghệ mở khóa bằng khuôn mặt cho phép bạn đăng nhập nhanh chóng và an toàn. Máy còn có công tắc khóa camera, giúp bạn kiểm soát quyền riêng tư một cách hiệu quả.
-Detail: • Máy được trang bị nhiều cổng giao tiếp tiện lợi như: HDMI, USB Type-C, USB 3.2,... ở hai bên thân máy, mang lại sự thuận tiện tối đa khi kết nối sử dụng.
+1 x USB 3.2 (Always on)
+2 x USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4)",1.82 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326498/Slider/vi-vn-lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-sliders-1.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-7-750x500.jpg và
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn,https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-thumb-600x600.jpg
+Laptop Lenovo Gaming Legion 5 16IRX9 i7 14650HX/16GB/1TB/8GB RTX4060/165Hz/Win11 (83DG0051VN),45.990.000₫,40.390.000₫,"Title: Laptop Lenovo Legion 5 16IRX9 i7 14650HX (83DG0051VN) là một sản phẩm đỉnh cao dành cho game thủ và những người yêu thích công nghệ, mang đến sự kết hợp hoàn hảo giữa hiệu suất mạnh mẽ và thiết kế độc đáo. Đây không chỉ là một công cụ giải trí tuyệt vời mà còn là một cộng sự đáng tin cậy cho đa dạng yêu cầu đồ họa nặng của bạn.
+Detail: • Được trang bị bộ vi xử lý Intel Core i7 14650HX với 16 nhân và 24 luồng, Lenovo Legion 5 có thể dễ dàng đưa bạn cuốn vào cuộc chiến hấp dẫn trong các tựa game AAA đồ họa cao như Cyberpunk 2077, Assassin's Creed Valhalla và Call of Duty: Warzone, đồng thời cũng cho hiệu suất xử lý và tính toán cao cho nhiều công việc phức tạp khác nhau.
+Detail: • GPU NVIDIA GeForce RTX 4060 với 8 GB VRAM thực hiện các công việc thiết kế đồ họa 2D, 3D trên các ứng dụng như Adobe Photoshop, Adobe Illustrator, AutoCAD và Blender mà không gặp khó khăn. Laptop cũng hỗ trợ tối ưu cho các công việc lập trình và thiết kế phần mềm như Visual Studio, Eclipse hay Unity.
+Detail: • Hơn nữa, card đồ hoạ rời còn tích hợp công nghệ DLSS 3 và Ray Tracing giúp tăng cường chất lượng hình ảnh và hiệu suất chơi game, tối ưu hóa hiệu suất đồ họa và giảm độ trễ khung hình, giúp nâng cao trải nghiệm gaming.
+Detail: • Được trang bị RAM 16 GB DDR5 tốc độ cao 5600 MHz, laptop Lenovo cung cấp không gian làm việc linh hoạt và ổn định. Khả năng nâng cấp RAM lên đến 64 GB giúp máy mạnh mẽ hơn so với các đối thủ cùng phân khúc. Điều này rất hữu ích khi bạn làm việc với các ứng dụng đòi hỏi nhiều tài nguyên như After Effects hay quay dựng.
+Detail: • Ổ SSD 1 TB M.2 PCIe cung cấp không gian lưu trữ rộng rãi và tốc độ truy xuất dữ liệu nhanh chóng, hỗ trợ tối đa cho việc lưu trữ game và các dự án đồ họa nặng. Việc tải và cài đặt các ứng dụng như SolidWorks cũng sẽ trở nên nhanh chóng và dễ dàng hơn.
+Detail: • Laptop Lenovo Legion đang sở hữu sự cân bằng hoàn hảo bởi sự cao cấp, hiện đại cùng cá tính và độc đáo của các mẫu máy chiến game điển hình. Logo dòng máy đặc trưng được phủ bóng và đặt cách điệu cũng làm nổi bật hơn về mặt thẩm mỹ. Bản lề chắc chắn cho phép gập mở được 180 độ thuận tiện cho những tình huống chia sẻ nội dung.
+Detail: • Các khe thoát nhiệt được bố trí hợp lý xung quanh máy, đảm bảo nhiệt độ luôn được kiểm soát tốt, ngay cả khi chạy các ứng dụng nặng và đồ hoạ cao. Bàn phím với đèn nền chuyển màu RGB 4 vùng tạo điểm nhấn phong cách và cải thiện trải nghiệm sử dụng, đặc biệt trong điều kiện ánh sáng yếu. 
+Detail: • Máy được trang bị nhiều cổng kết nối như: LAN, USB 3.2, HDMI, USB Type-C,... giúp kết nối dễ dàng với các thiết bị ngoại vi. Điều này rất tiện lợi khi cần kết nối với các thiết bị lưu trữ ngoài hoặc các phụ kiện khác khi làm việc.
+Detail: • Kích thước 16 inch với độ phân giải WQXGA (2560 x 1600), tần số quét 165 Hz và tấm nền IPS, mang lại hình ảnh mượt mà và sắc nét, phù hợp cho game thủ và người dùng yêu thích giải trí đa phương tiện. Độ phủ màu 100% sRGB giúp chỉnh sửa đồ họa với màu sắc chuẩn xác trên các ứng dụng như Premiere và Affinity Designer.
+Detail: • Hệ thống loa trên laptop gaming với công nghệ Nahimic Audio mạnh mẽ và chi tiết, giúp bạn tận hưởng âm nhạc và các hiệu ứng âm thanh trong game, vừa tăng cảm giác thích thú vừa cải thiện độ phán đoán chính xác trong các cuộc chiến căng thẳng.
+","Công nghệ CPU:: Intel Core i7 Raptor Lake - 14650HX
+Số nhân:: 16
+Số luồng:: 24
+Tốc độ CPU:: 2.2GHz
+Tốc độ tối đa:: Turbo Boost 5.20 GHz
+Bộ nhớ đệm:: 30 MB
+","RAM:: 16 GB
+Loại RAM:: DDR5 2 khe (1 khe 16 GB + 1 khe rời)
+Tốc độ Bus RAM:: 5600 MHz
+Hỗ trợ RAM tối đa:: 64 GB
+","Ổ cứng:: 1 TB SSD M.2 PCIe
+","Card rời - NVIDIA GeForce RTX 4060, 8 GB","16""",80 Wh,WQXGA (2560 x 1600),"LAN (RJ45)
+2 x USB 3.2
+HDMI
+1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)
+1 x USB Type-C (hỗ trợ DisplayPort 1.4)
+1 x Headphone/microphone combo
+1 x USB 3.2 (Always on)",2.36 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326723/Slider/1-1020x570.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-7-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-8-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-9-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-10-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-11-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-12-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-13-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-14-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-30-638651055843545153-750x500.jpg và
+",https://www.thegioididong.com/laptop/lenovo-legion-5-16irx9-i7-83dg0051vn,https://cdn.tgdd.vn/Products/Images/44/326723/lenovo-legion-5-16irx9-i7-83dg0051vn-thumb-600x600.jpg
+Laptop Lenovo IdeaPad Slim 5 14IMH9 Ultra 7 155H/32GB/1TB/Win11 (83DA0020VN),28.690.000₫,25.990.000₫,"Title: Tìm kiếm một chiếc laptop đáp ứng mọi nhu cầu học tập và giải trí với hiệu năng mạnh mẽ, màn hình đẹp và giá thành hợp lý? Laptop Lenovo IdeaPad Slim 5 14IMH9 Ultra 7 155H (83DA0020VN) chính là lựa chọn hoàn hảo dành cho bạn với đầy đủ tiêu chí được yêu cầu, mẫu chip thế hệ mới trên máy còn được tích hợp đa dạng AI hữu ích.
+Detail: • Laptop mang thiết kế mỏng nhẹ với vỏ kim loại nhôm nguyên khối màu xám hiện đại, khối lượng chỉ 1.48 kg, dễ dàng mang theo bên mình mọi lúc mọi nơi. Máy đạt chuẩn độ bền quân đội MIL STD 810H, có khả năng chống chịu va đập và tác động ngoại lực tốt, cho bạn an tâm sử dụng trong thời gian dài.
+Detail: • Đa tính năng bảo mật tân tiến như: TPM 2.0, công tắc khóa camera và mở khóa khuôn mặt cũng mang lại những sự hữu ích nhất định. Ngoài ra, laptop học tập - văn phòng còn có cả Full HD Webcam cho video call và làm việc trực tuyến, đèn nền bàn phím phòng khi sử dụng vào đêm khuya, đây đều là những sự trang bị không thể thiếu trên một mẫu thiết bị làm việc cá nhân.
+Detail: • Dọc 2 bên thiết bị được bố trí đa dạng cổng giao tiếp cần thiết từ: HDMI, USB Type-C 3.2, USB 3.2, Headphone/microphone combo và khe micro SD cho hầu hết mọi nhu cầu kết nối.
+Detail: • Laptop Lenovo IdeaPad sở hữu màn hình OLED 14 inch với độ phân giải WUXGA (1920 x 1200) cho hình ảnh sắc nét, sống động đến từng chi tiết. Độ phủ màu 100% DCI-P3 cho hiển thị những gam màu chính xác, đáp ứng nhu cầu về chất lượng của ấn phẩm đồ học cho các nhà sáng tạo nội dung.
+Detail: • Kích thước khung hình lý tưởng để chia đôi cửa sổ giúp đa nhiệm hơn trong công việc, đồng thời thì độ sáng cũng tinh chỉnh được đến 400 nits, thay đổi nhiều không gian sử dụng khác nhau mà không gặp bất cứ khó khăn nào.
+Detail: • Công nghệ Dolby Audio mang đến âm thanh sống động, cho bạn những giây phút giải trí thư giãn tuyệt vời. Đồng thời laptop cũng hỗ trợ hệ thống chỉnh các thông số âm thanh như bass, treble,... cho từng dạng giải trí riêng.
+Detail: • Được trang bị bộ vi xử lý Intel Core Ultra 7 155H mới nhất với 16 nhân 22 luồng cùng card đồ họa Intel Arc Graphics, laptop Lenovo tự tin xử lý mọi tác vụ từ cơ bản đến phức tạp trên đa nền tảng Microsoft Office, Google Workspace,... một cách trơn tru nhất. Khả năng dựng hình tốt, cân bằng được nhiều công việc đồ hoạ trên Canva, Photoshop, Figma,...
+Detail: • Điểm đặc biệt hơn của laptop Lenovo IdeaPad Slim là tích hợp NPU - nhân xử lý AI thế hệ mới. Nhờ vậy, hiệu suất được tối ưu hóa, tiết kiệm điện năng và mang đến những trải nghiệm thông minh như tự động tracking khuôn mặt, lọc bỏ tiếng ồn khi họp online, tăng tốc nhận diện đồ họa,...
+Detail: • Bên cạnh đó, dung lượng RAM khủng 32 GB LPDDR5X Onboard giúp bạn thoải mái mở hàng chục ứng dụng cùng lúc mà không lo giật lag. Truy xuất dữ liệu tốc độ, tải nhanh mọi file hay lưu trữ thoải mái nhờ ổ cứng SSD 1 TB NVMe PCIe Gen 4.
 ","Công nghệ CPU:: Intel Core Ultra 7 Meteor Lake - 155H
 Số nhân:: 16
 Số luồng:: 22
@@ -724,79 +815,21 @@ Bộ nhớ đệm:: 24 MB
 Loại RAM:: LPDDR5X (Onboard)
 Tốc độ Bus RAM:: 7467 MHz
 Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
-","Ổ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
-",Card tích hợp - Intel Arc Graphics,"16""",57Wh,"2K, OLED","HDMI
+","Ổ cứng:: 1 TB SSD NVMe PCIe Gen 4
+",Card tích hợp - Intel Arc Graphics,"14""",57Wh,"WUXGA, OLED","HDMI
 2 x USB Type-C 3.2 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4)
 1 x USB 3.2
 1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326577/Slider/vi-vn-lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-slider-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-1-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-2-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-3-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-4-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-5-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-6-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-7-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn
-Laptop Lenovo IdeaPad 1 15AMN7 R5 7520U/8GB/256GB/Win11 (82VG0061VN),12.690.000₫,9.490.000₫,"Title: Với cấu hình mạnh mẽ và thiết kế thanh lịch, Lenovo IdeaPad 1 15AMN7 R5 7520U (82VG0061VN) sẽ đáp ứng đầy đủ các tiêu chí khi bạn chọn mua laptop học tập - văn phòng. Đây cũng là mẫu laptop đầu tiên trang bị CPU AMD 7000 series mới nhất tại Thế Giới Di Động.
-Title: Ngoại hình tinh tế, thanh lịch
-Detail: Điểm đầu tiên mình ấn tượng bởi chiếc máy này chính là thiết kế không mang quá nhiều chi tiết nhưng toát lên được nét hiện đại và thanh lịch, logo được đặt vỏn vẹn ở góc máy giữ cho diện mạo thêm tinh tế cũng như mang những nét đặc trưng vốn có của dòng laptop Lenovo. Khối lượng 1.58 kg cho mình cảm giác cầm nắm đầm tay cũng như không quá nặng để có thể linh động mang theo phục vụ công việc.
-Detail: Lớp vỏ nhựa màu xám được hoàn thiện khá tốt, cho mình cảm giác mát tay khi sờ hay khi cầm nắm đều chắc chắn. Bên cạnh đó, vỏ được chế tác bằng nhựa nhưng máy vẫn đảm bảo được độ chắc chắn, khi mình ấn nhẹ xuống mặt lưng máy thì không gặp hiện tượng bị flex.
-Detail: 
-Detail: Lenovo IdeaPad 1 được trang bị hệ thống bàn phím Fullsize, có cả cụm phím số cho phép mình nhập liệu những file tính toán với những số liệu phức tạp. Cá nhân mình khi gõ phím khá thích tay khi các phím được bố trí thoáng, hành trình phím sâu và có độ nảy tốt, kể cả khi soạn thảo văn bản trong thời gian dài cũng không bị mỏi tay.
-Detail: Mình chỉ hơi tiếc một chút khi bàn phím không hỗ trợ đèn nền, do đó trong thời gian đầu khi mới làm quen với laptop sẽ hơi khó khăn một chút nếu sử dụng vào ban đêm, nhưng về sau khi đã gõ quen tay mình cũng không còn quá chú tâm đến việc có hay không đèn nền bàn phím.
-Detail: Touch Pad có độ lớn vừa phải cùng độ nhạy khá tốt nên khi kéo thả hay di chuyển con trỏ để thao tác thì cho mình cảm giác suôn sẻ. Tuy nhiên, với cổ tay nam hơi quá to so với bàn di chuột nên đôi khi mình cũng bị khựng lại khi thao tác, các bạn cũng gặp những tình trạng như vậy thì có thể lưu ý sắm thêm chuột bên ngoài để phục vụ công việc tốt hơn.
-Detail: 
-Detail: Các cổng kết nối của laptop thì cũng được trang bị khá đầy đủ với: USB 2.0, USB 3.2, HDMI, Jack 3.5 mm và USB Type-C. Bạn không cần phải quá lo lắng khi không có đầu chuyển đổi trong mỗi lần thuyết trình hay trong trường hợp phải ghép nối với các thiết bị khác nữa.
-Detail: 
-Detail: Lenovo IdeaPad 1 cho mình cảm giác khá an tâm khi sử dụng nhờ các tính năng nổi bật được trang bị như công tắc khóa camera, cho phép mình đóng mở camera một cách thủ công, đảm bảo an toàn cho hình ảnh và thông tin.
-Title: Cấu hình ổn định, giải quyết công việc hiệu quả
-Detail: So với một chiếc laptop học tập - văn phòng trong cùng phân khúc thì máy được trang bị với những cấu hình khá mới mẻ. Bộ vi xử lý AMD Ryzen 5 7520U với thiết kế 4 nhân, 8 luồng cho tốc độ xung nhịp tối đa 4.3 GHz cùng card tích hợp AMD Radeon 610M Graphics giúp mình xử lý trơn tru các tác vụ học tập, văn phòng trên Office như Word, Excel, PowerPoint,... cũng như xem phim, lướt web và giải trí đều rất mượt mà. Hơn nữa, với cấu hình như trên thì khi mình thử chơi tựa game Liên Minh Huyền Thoại quốc dân ở mức cấu hình thấp thì khả năng đáp ứng của máy cũng rất tốt.
-Detail: 
-Detail: Độ đa nhiệm của máy thì không còn gì phải bàn vì với thói quen để cùng lúc nhiều tab Chrome hay các phần mềm khác như Spotify, Word,... khi sử dụng của mình mà máy vẫn đáp ứng tốc độ chạy mượt mà, hạn chế gặp hiện tượng giật lag nhờ RAM 8 GB LPDDR5 (Onboard) có tốc độ Bus lên đến 5500 MHz.
-Detail: Ổ cứng 256 GB SSD NVMe PCIe còn mang đến tốc độ mở máy hay truy cập các ứng dụng nhanh chóng, không gian lưu trữ tương đối. Với 256 GB, cá nhân mình vừa đủ để tải các file tài liệu, luận văn hay thậm chí là các bộ phim và video, nhưng nếu bạn có nhu cầu lưu trữ cao thì hoàn toàn có thể nâng cấp dung lượng lên tối đa 1 TB.
-Detail: 
-Title: Hiển thị hình ảnh trung thực, rõ nét
-Detail: Lenovo IdeaPad 1 được trang bị màn hình với kích thước 15.6 inch cùng độ phân giải Full HD (1920 x 1080) và tần số quét 60 Hz, có thể nói các thông số của màn chỉ ở mức cơ bản nhưng vẫn đáp ứng tốt cho mình ở các nhu cầu cơ bản hằng ngày như xem phim giải trí, soạn thảo, học tập hay làm việc văn phòng trên máy,... 
-Detail: 
-Detail: Hơn nữa, thứ mình thích nhất ở laptop Lenovo IdeaPad có lẽ chính là phần bản lề được thiết kế có thể mở 180 độ, khá tiện lợi, chia sẻ được thông tin với ngay cả người ngồi đối diện khi họp nhóm. 
-Detail: Công nghệ Dolby Audio cho phép tùy chỉnh các loại âm thanh để phù hợp nhiều loại hoạt động của bạn như nghe nhạc, xem phim hay chơi game. Chất âm có độ phân giải cùng tần số cao nên mình mỗi khi giải trí chỉ cần để ở mức 60% là đã có thể tận hưởng âm thanh sống động và chân thực rồi.
-Detail: 
-Detail: Pin dung lượng 42 Wh không cao nhưng máy vẫn có thể vận hành trong khoảng 5 tiếng đối với các tác vụ văn phòng kết hợp cùng giải trí. Bản thân mình khi mang máy theo đi học hay công việc thời lượng pin vẫn đáp ứng khá đầy đủ, nhưng mình vẫn khuyên các bạn nên luôn mang theo củ sạc để có thể kết nối kịp thời, nhanh chóng cũng như hỗ trợ các công việc thêm hiệu quả.
-Detail: Tổng thể, Lenovo IdeaPad 1 15AMN7 R5 7520U (82VG0061VN) sở hữu hiệu năng khá tốt và có phần nhỉnh hơn khi so sánh với dòng máy khác trong phân khúc. Hiệu năng ổn định, ngoại hình đơn giản nhưng không kém phần thanh lịch cùng đa dạng các tiện ích hấp dẫn như bản lề mở 180 độ, công tắc khóa camera,... tất cả đều xứng đáng với giá trị mà mình bỏ ra.
-","Công nghệ CPU:: AMD Ryzen 5 - 7520U
-Số nhân:: 4
-Số luồng:: 8
-Tốc độ CPU:: 2.8GHz
-Tốc độ tối đa:: Turbo Boost 4.3 GHz
-Bộ nhớ đệm:: 4 MB
-","RAM:: 8 GB
-Loại RAM:: LPDDR5 (Onboard)
-Tốc độ Bus RAM:: 5500 MHz
-Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
-","Ổ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
-",Card tích hợp - AMD Radeon 610M Graphics,"15.6""",42 Wh,Full HD (1920 x 1080),"Jack tai nghe 3.5 mm
-1 x USB 2.0
-1 x USB 3.2
-HDMI
-1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/303562/Slider/vi-vn-lenovo-ideapad-1-15amn7-r5-82vg0061vn-thumbvideo.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-7-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-8-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-9-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-10-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-12-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-13-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-glr-14-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/lenovo-ideapad-1-15amn7-r5-82vg0061vn-30-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/303562/Kit/lenovo-ideapad-1-15amn7-r5-82vg0061vn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-1-15amn7-r5-82vg0061vn
+1 x USB 3.2 (Always on)",1.48 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328135/Slider/vi-vn-lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-slider-1.jpg và
+https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-2-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-3-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-4-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-5-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-6-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-7-750x500.jpg và
+https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-30-638651061125657958-750x500.jpg và
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/328135/lenovo-ideapad-slim-5-14imh9-ultra-7-83da0020vn-thumb-600x600.jpg
 Laptop Lenovo ThinkBook 16 G7 Ultra 5 125U/16GB/512GB/Win11 (21MS007GVN),23.190.000₫,22.990.000₫,"Title: Nếu bạn đang cần một người bạn đồng hành học tập, làm việc hiệu quả, linh động nhưng lại sở hữu một mức giá thành cân đối thì đừng bỏ qua laptop Lenovo ThinkBook 16 G7 Ultra 5 125U (21MS007GVN). Máy với hiệu năng tích hợp cao, màn hình 16 inch sắc nét hỗ trợ người dùng mọi việc từ cơ bản đến nâng cao.
 Detail: • Bộ vi xử lý Intel Core Ultra 5 125U mới nhất với cấu trúc 12 nhân 14 luồng, cho tốc độ xung nhịp tối đa lên đến 4.3 GHz nhờ công nghệ Turbo Boost, giúp bạn dễ dàng vượt qua mọi tác vụ văn phòng như Word, Excel, PowerPoint,... một cách hiệu quả và nhanh chóng.
 Detail: • GPU Intel Graphics trên laptop là người bạn đồng hành hoàn hảo cho những ai đam mê sáng tạo nội dung hoặc làm việc với các ứng dụng đồ họa. Hiệu suất mạnh mẽ của nó cho phép xử lý trơn tru các phần mềm từ lập trình đến đồ họa như Photoshop, AI, Figma,... Bạn còn có thể chơi các tựa game như FO4, LOL, Valorant,... ở cấu hình được căn chỉnh hợp lý để giải trí.
@@ -824,7 +857,7 @@ HDMI
 1 x USB-C (hỗ trợ USB 3.2, USB Power Delivery and DisplayPort 1.4)
 1 x USB-C (hỗ trợ Thunderbolt 4 / USB4, USB Power Delivery 3.1 and DisplayPort 2.1)
 1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326640/Slider/vi-vn-lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-slider-1.jpg và
+1 x USB 3.2 (Always on)",1.7 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326640/Slider/vi-vn-lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-3-750x500.jpg và
@@ -835,42 +868,44 @@ https://cdn.tgdd.vn/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21m
 https://cdn.tgdd.vn/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-8-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-9-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-30-638651040737609412-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn
-Laptop Lenovo Ideapad Slim 5 16IMH9 Ultra 5 125H/16GB/512GB/120Hz/Win11 (83DC001RVN),23.690.000₫,22.690.000₫,"Title: Lenovo Ideapad Slim 5 16IMH9 Ultra 5 125H (83DC001RVN) là tuyên ngôn về phong cách thời thượng của người sở hữu nhờ thiết kế đẹp mắt, đi cùng bộ thông số cấu hình mạnh mẽ giúp bạn xử lý mọi tác vụ một cách nhanh chóng, từ những công việc văn phòng cơ bản đến những ứng dụng đồ họa nặng.
-Detail: • Bộ vi xử lý Intel Core Ultra 5 125H mang cấu trúc 14 nhân 18 luồng, mang đến tốc độ xử lý bứt phá lên đến 4.5 GHz nhờ Turbo Boost, giúp bạn chinh phục mọi tác vụ văn phòng như Word, Excel, PowerPoint,... một cách nhanh chóng và hiệu quả.
-Detail: • GPU Intel Arc Graphics trên laptop Lenovo cũng sẽ là người bạn đồng hành lý tưởng cho những ai yêu thích lập trình hay sáng tạo đồ họa. Hiệu năng mạnh mẽ của nó giúp bạn xử lý mượt mà mọi ứng dụng, từ những phần mềm lập trình đến các phần mềm đồ họa như Photoshop, AI, Figma,...
-Detail: • RAM 16 GB mang đến cho chiếc laptop học tập - văn phòng khả năng đa nhiệm vượt trội, bạn có thể thoải mái mở nhiều ứng dụng cùng lúc, chuyển đổi qua lại giữa các ứng dụng một cách trơn tru mà không hề gặp hiện tượng giật lag hay đơ máy.
-Detail: • Ổ cứng SSD 512 GB NVMe PCIe Gen 4 cung cấp tốc độ khởi động hệ thống ấn tượng, giúp bạn tiết kiệm thời gian chờ đợi đáng kể. Bên cạnh đó cũng đáp ứng nhu cầu lưu trữ dữ liệu cho các tệp tin cá nhân, tài liệu học tập và công việc một cách thoải mái.
-Detail: • Laptop Lenovo sở hữu màn hình 16 inch có độ phân giải 2K (2048 x 1280) với độ sáng 400 nits, mở ra thế giới hình ảnh sắc nét, sống động đến từng chi tiết trong mọi điều kiện ánh sáng. Tần số quét 120 Hz trên laptop cũng giúp mọi chuyển động trở nên mượt mà hơn, đặc biệt khi chơi game, xem phim hành động hay cuộn trang.
-Detail: • Tấm nền OLED tiên tiến kết hợp chuẩn 100% DCI-P3 cũng mang đến dải màu rộng và độ tương phản ấn tượng từ mọi góc nhìn, giúp bạn tận hưởng những thước phim giải trí mãn nhãn hay tạo ra những bản thiết kế đồ họa ấn tượng với màu sắc chuẩn xác, truyền tải trọn vẹn ý tưởng của mình.
-Detail: • Công nghệ Dolby Audio trên laptop Lenovo Ideapad mang đến cho bạn thế giới giải trí sống động và đầy mê hoặc nhờ khả năng tái tạo âm thanh một cách trung thực, chi tiết, giúp bạn đắm chìm vào từng nốt nhạc, từng lời ca.
-Detail: • Đa dạng tiện ích bảo mật gồm mở khóa khuôn mặt, công tắc khóa camera, camera IR, chip TPM 2.0, giúp tăng cường khả năng bảo vệ cho dữ liệu cá nhân của bạn trước những rủi ro bị tấn công mạng hay rò rỉ thông tin.
-Detail: • Ideapad Slim 5 mang diện mạo sang trọng, thời thượng khẳng định gu thẩm mỹ tinh tế của người sở hữu với lớp vỏ nhôm xám cứng cáp. Hơn thế nữa, độ bền chuẩn quân đội MIL STD 810H còn giúp máy chống chịu va đập, chống sốc và nhiệt độ một cách đáng kinh ngạc, cho phép bạn yên tâm sử dụng laptop trong mọi môi trường. 
-Detail: • Máy cũng tích hợp đèn nền phím đơn sắc giúp bạn dễ dàng thao tác trong môi trường thiếu sáng. Các cổng giao tiếp như Jack tai nghe 3.5 mm, USB 3.2, HDMI, USB Type-C, khe Micro SD cũng giúp bạn thuận tiện kết nối với các thiết bị ngoại vi.
-","Công nghệ CPU:: Intel Core Ultra 5 Meteor Lake - 125H
-Số nhân:: 14
-Số luồng:: 18
-Tốc độ CPU:: 1.2GHz
-Tốc độ tối đa:: Turbo Boost 4.5 GHz
-Bộ nhớ đệm:: 18 MB
-","RAM:: 16 GB
+",https://www.thegioididong.com/laptop/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn,https://cdn.tgdd.vn/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-thumb-600x600.jpg
+Laptop Lenovo Ideapad Slim 5 16IMH9 Ultra 7 155H/32GB/512GB/120Hz/Win11 (83DC001SVN),27.690.000₫,26.690.000₫,"Title: Khó kiếm đâu trên thị trường một mẫu laptop vừa sở hữu con chip Ultra 7 có AI tích hợp hoàn toàn mới, RAM đến 32 GB, sở hữu màn hình 2K tuyệt đẹp mà còn nằm trong phân khúc dưới 30 triệu. Laptop Lenovo Ideapad Slim 5 16IMH9 Ultra 7 155H (83DC001SVN) chắc chắn là sự lựa chọn không thể tuyệt vời hơn khi cân nhắc mua một chiếc máy phục vụ học tập hay công việc.
+Detail: • Laptop Lenovo IdeaPad sử dụng bộ vi xử lý Intel Core Ultra 7 155H với 16 nhân và 22 luồng mạnh mẽ đi cùng GPU Intel Arc Graphics, đáp ứng mọi nhu cầu công việc và giải trí. Tạo lập các file Excel báo cáo nặng hay cập nhật dữ liệu nhanh chóng và đồng thời CPU này cũng hỗ trợ chỉnh sửa đồ các file đồ hoạ 2D, video khá tốt.
+Detail: • Việc tích hợp NPU - nhân xử lý AI, giúp tối ưu hóa hiệu suất và phân bổ công việc thật thông minh để tiết kiệm điện hơn hẳn các dòng chip thế hệ trước. Hơn nữa một số tính năng AI như tự động tracking khuôn mặt, lọc bỏ tiếng ồn khi họp online, tăng tốc nhận diện đồ hoạ,... cũng mang đến những lợi ích nhất định trong làm việc thường ngày.
+Detail: • Laptop có trang bị bộ nhớ RAM 32 GB LPDDR5X Onboard, giúp bạn xử lý đa nhiệm mượt mà, chạy nhiều ứng dụng cùng lúc mà không lo giật lag. Vận hành hiệu quả ngay từ lúc đầu mà không cần phải nâng cấp gì thêm.
+Detail: • Ổ cứng SSD NVMe PCIe Gen 4.0 dung lượng 512 GB mang lại không gian lưu trữ khổng lồ, cho phép bạn thoải mái lưu trữ dữ liệu, tài liệu, phim ảnh và âm nhạc mà không lo giới hạn. Tốc độ truy cập dữ liệu cực nhanh giúp bạn tiết kiệm thời gian và nâng cao hiệu quả công việc và giải trí. Nếu thích thì bạn hoàn toàn có thể tháo lắp và nâng không gian lưu trữ lên đến 1 TB.
+Detail: • Màn hình OLED 16 inch hiển thị độ phân giải 2K (2048 x 1280) mở rộng tầm nhìn thêm bao quát hơn, từ đó dễ dàng trong việc chia nhỏ nhiều cửa sổ trong quá trình làm việc. Tốc độ làm mới 120 Hz, quá vượt trội so với một chiếc laptop học tập - văn phòng, tái tạo chuyển động mượt mà, tăng cao trải nghiệm phim ảnh và chơi game.
+Detail: • Với độ phủ màu 100% DCI-P3, máy tái tạo màu sắc chính xác, phù hợp với nhu cầu của các nhà sáng tạo nội dung và chuyên gia đồ họa. Độ sáng tối đa 400 nits dễ dàng điều chỉnh để tương thích với mắt người trong nhiều môi trường sử dụng khác nhau.
+Detail: • Công nghệ Dolby Audio giúp khuếch đại âm thanh mạnh mẽ, mang lại trải nghiệm âm thanh sống động, giúp bạn thư giãn khi làm việc và học tập.
+Detail: • Máy thể hiện ấn tượng với thiết kế trang nhã, đầy tinh tế. qua lớp vỏ nhôm xám hiện đại. Khối lượng tiêu chuẩn 1.82 kg để bạn có thể dễ dàng đặt nó vào balo hoặc túi xách và mang theo bất cứ đâu, trở thành người bạn đồng hành lý tưởng trong mọi cuộc hành trình.
+Detail: • Đạt chuẩn độ bền quân đội MIL STD 810H, laptop Lenovo có khả năng chống chịu va đập và tác động ngoại lực tuyệt vời, sẵn sàng cùng bạn đến mọi nơi. Bàn phím có đèn nền đơn sắc trắng, giúp bạn làm việc hiệu quả ngay cả trong môi trường thiếu sáng, mang lại khả năng hiển thị rõ ràng mọi lúc mọi nơi.
+Detail: • Full HD Webcam tích hợp giúp bạn dễ dàng tham gia các cuộc họp trực tuyến hoặc trò chuyện video. Camera IR kết hợp công nghệ mở khóa bằng khuôn mặt cho phép bạn đăng nhập nhanh chóng và an toàn. Máy còn có công tắc khóa camera, giúp bạn kiểm soát quyền riêng tư một cách hiệu quả.
+Detail: • Máy được trang bị nhiều cổng giao tiếp tiện lợi như: HDMI, USB Type-C, USB 3.2,... ở hai bên thân máy, mang lại sự thuận tiện tối đa khi kết nối sử dụng.
+","Công nghệ CPU:: Intel Core Ultra 7 Meteor Lake - 155H
+Số nhân:: 16
+Số luồng:: 22
+Tốc độ CPU:: 3.8GHz
+Tốc độ tối đa:: Turbo Boost 4.8 GHz
+Bộ nhớ đệm:: 24 MB
+","RAM:: 32 GB
 Loại RAM:: LPDDR5X (Onboard)
 Tốc độ Bus RAM:: 7467 MHz
 Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ","Ổ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
-",Card tích hợp - Intel Arc Graphics,"16""",57Wh,"2K, OLED","Jack tai nghe 3.5 mm
+",Card tích hợp - Intel Arc Graphics,"16""",57Wh,"2K, OLED","HDMI
+2 x USB Type-C 3.2 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4)
 1 x USB 3.2
-HDMI
-1 x USB 3.2 (Always on)
-2 x USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326498/Slider/vi-vn-lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-sliders-1.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-7-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn
+1 x Headphone/microphone combo
+1 x USB 3.2 (Always on)",1.82 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326577/Slider/vi-vn-lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-slider-1.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-1-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-2-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-3-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-4-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-5-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-6-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-7-1-750x500.jpg và
+https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-30-750x500.jpg và
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn,https://cdn.tgdd.vn/Products/Images/44/326577/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn-thumb-600x600.jpg
 Laptop Lenovo Gaming Legion Pro 5 16IRX9 i9 14900HX/32GB/1TB/8GB RTX4060/240Hz/Win11 (83DF0047VN),49.990.000₫,46.990.000₫,"Title: Laptop Lenovo Gaming Legion Pro 5 16IRX9 i9 14900HX (83DF0047VN) chính là một chiến binh mạnh mẽ sẵn sàng đưa bạn đến với những chiến thắng vang dội trong mọi trận game. Sở hữu CPU thế hệ 14 với hiệu năng bứt phá, chiếc máy không chỉ chinh phục các tựa game nặng đô mà còn chạy mượt các tác vụ chỉnh sửa ảnh, render video,...
 Title: Sẵn sàng chiếc mọi tựa game nặng đô
 Detail: Bộ xử lý Intel Core i9 Raptor Lake 14900HX thế hệ thứ 14 chính là quái vật về hiệu năng, sẵn sàng chinh phục mọi thử thách bạn đặt ra. Sức mạnh từ 24 nhân 32 luồng bẻ gãy mọi giới hạn, “cân” gọn mọi tựa game. Đồng thời, chiếc laptop này còn xử lý các ứng dụng nặng và công việc đa nhiệm nhanh hơn bao giờ hết. Bạn có thể biên tập video, dựng hình 3D và phát triển phần mềm một cách trơn tru.
@@ -906,7 +941,7 @@ Jack tai nghe 3.5 mm
 HDMI
 1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)
 1 x USB Type-C (hỗ trợ DisplayPort 1.4)
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326497/Slider/vi-vn-lenovo-legion-pro-5-16irx9-i9-83df0047vn-sliders-1.jpg và
+1 x USB 3.2 (Always on)",2.5 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326497/Slider/vi-vn-lenovo-legion-pro-5-16irx9-i9-83df0047vn-sliders-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326497/lenovo-legion-pro-5-16irx9-i9-83df0047vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326497/lenovo-legion-pro-5-16irx9-i9-83df0047vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326497/lenovo-legion-pro-5-16irx9-i9-83df0047vn-3-750x500.jpg và
@@ -920,7 +955,7 @@ https://cdn.tgdd.vn/Products/Images/44/326497/lenovo-legion-pro-5-16irx9-i9-83df
 https://cdn.tgdd.vn/Products/Images/44/326497/lenovo-legion-pro-5-16irx9-i9-83df0047vn-11-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326497/lenovo-legion-pro-5-16irx9-i9-83df0047vn-12-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326497/lenovo-legion-pro-5-16irx9-i9-83df0047vn-30-638651064684012322-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0047vn
+",https://www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0047vn,https://cdn.tgdd.vn/Products/Images/44/326497/lenovo-legion-pro-5-16irx9-i9-83df0047vn-thumb-600x600.jpg
 Laptop Lenovo IdeaPad Slim 5 14IMH9 Ultra 5 125H/16GB/512GB/Win11 (83DA001NVN),22.690.000₫,21.690.000₫,"Title: Laptop Lenovo IdeaPad Slim 5 14IMH9 Ultra 5 125H (83DA001NVN) không chỉ mạnh mẽ về hiệu năng mà còn tinh tế trong thiết kế, là sự lựa chọn hoàn hảo cho cả công việc và giải trí. Với các tính năng hiện đại và hiệu suất ấn tượng từ dòng chip mới nhất, chiếc laptop học tập - văn phòng này sẽ là cộng sự hoàn hảo cho các bạn học sinh, sinh viên và cả người đi làm.
 Detail: • Laptop Lenovo trang bị bộ vi xử lý Intel Core Ultra 125H với 14 nhân và 18 luồng, mang lại hiệu năng mạnh mẽ và ổn định cho mọi tác vụ từ làm việc văn phòng đến giải trí đa phương tiện. Với tốc độ CPU tối đa lên đến 4.5 GHz nhờ khả năng Turbo Boost, máy đảm bảo xử lý nhanh chóng và mượt mà các ứng dụng yêu cầu hiệu suất cao như chỉnh sửa video cơ bản, lập trình và chỉnh sửa đồ hoạ bán chuyên.
 Detail: • Card đồ họa tích hợp Intel Arc Graphics cung cấp khả năng xử lý đồ họa tốt, hỗ trợ chơi game và các ứng dụng đồ họa cơ bản như Adobe Photoshop, Illustrator hay các trò chơi esports phổ biến.
@@ -947,7 +982,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 2 x USB Type-C 3.2 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4)
 1 x USB 3.2
 1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327049/Slider/vi-vn-lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-sliders-1.jpg và
+1 x USB 3.2 (Always on)",1.48 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/327049/Slider/vi-vn-lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-sliders-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327049/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327049/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327049/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-3-750x500.jpg và
@@ -956,7 +991,7 @@ https://cdn.tgdd.vn/Products/Images/44/327049/lenovo-ideapad-slim-5-14imh9-ultra
 https://cdn.tgdd.vn/Products/Images/44/327049/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-7-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/327049/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-8-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327049/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-30-638651061907167007-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn,https://cdn.tgdd.vn/Products/Images/44/327049/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn-thumb-600x600.jpg
 Laptop Lenovo Yoga Slim 7 14IMH9 Ultra 7 155H/32GB/1TB/OfficeHS/Win11 (83CV001VVN),31.990.000₫,30.990.000₫,"Title: Laptop Lenovo Yoga Slim 7 14IMH9 Ultra 7 155H (83CV001VVN) sở hữu thiết kế thanh mảnh, gọn nhẹ, dễ dàng mang theo bên mình mọi lúc mọi nơi. Được trang bị chip Intel Ultra 7 thế hệ mới, laptop mang đến hiệu suất vượt trội, đáp ứng tốt mọi nhu cầu công việc và giải trí.
 Detail: • Nổi bật với thiết kế mỏng nhẹ ấn tượng, chỉ 14.9 mm và khối lượng 1.39 kg, Lenovo Yoga mang đến cho bạn sự tiện lợi vô cùng khi di chuyển. Thoải mái đặt máy vào balo, túi xách và mang theo bên mình mọi lúc mọi nơi, đồng hành cùng bạn trong mọi hành trình.
 Detail: • Máy còn đạt chuẩn độ bền quân đội MIL STD 810H, mang đến khả năng chống chịu va đập và tác động ngoại lực vượt trội, đồng hành cùng bạn mọi lúc mọi nơi. Laptop đạt tiêu chuẩn nền Intel Evo đáp ứng hoàn hảo mọi nhu cầu sử dụng của bạn. Khởi động tức thì chỉ trong vòng 1 giây từ chế độ Sleep, sạc nhanh chóng, thời lượng pin ấn tượng,... giúp bạn luôn sẵn sàng chinh phục mọi thử thách.
@@ -984,7 +1019,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ",Card tích hợp - Intel Arc Graphics,"14""",65Wh,"WUXGA, OLED","Jack tai nghe 3.5 mm
 HDMI
 2 x USB Type-C (hỗ trợ Thunderbolt 4 / USB4, Power Delivery 3.1 và DisplayPort 1.4)
-1 x USB 3.2 (Always on)",Windows 11 Home SL + Office Home & Student vĩnh viễn,"https://cdn.tgdd.vn/Products/Images/44/325512/Slider/vi-vn-lenovo-yoga-7-14imh9-ultra7-83cv001vvn-thumbvideo.jpg và
+1 x USB 3.2 (Always on)",1.39 kg,Windows 11 Home SL + Office Home & Student vĩnh viễn,"https://cdn.tgdd.vn/Products/Images/44/325512/Slider/vi-vn-lenovo-yoga-7-14imh9-ultra7-83cv001vvn-thumbvideo.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325512/lenovo-yoga-7-14imh9-ultra7-83cv001vvn-glr-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325512/lenovo-yoga-7-14imh9-ultra7-83cv001vvn-glr-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325512/lenovo-yoga-7-14imh9-ultra7-83cv001vvn-glr-3-750x500.jpg và
@@ -1003,7 +1038,7 @@ https://cdn.tgdd.vn/Products/Images/44/325512/lenovo-yoga-7-14imh9-ultra7-83cv00
 https://cdn.tgdd.vn/Products/Images/44/325512/lenovo-yoga-7-14imh9-ultra7-83cv001vvn-glr-16-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325512/lenovo-yoga-7-14imh9-ultra7-83cv001vvn-glr-17-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/325512/Kit/lenovo-yoga-7-14imh9-ultra7-83cv001vvn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-yoga-7-14imh9-ultra7-83cv001vvn
+",https://www.thegioididong.com/laptop/lenovo-yoga-7-14imh9-ultra7-83cv001vvn,https://cdn.tgdd.vn/Products/Images/44/325512/lenovo-yoga-7-14imh9-ultra7-83cv001vvn-120824-094532-600x600.jpg
 Laptop Lenovo Gaming Legion Pro 5 16IRX9 i9 14900HX/32GB/1TB/8GB RTX4070/240Hz/Win11 (83DF0046VN),56.990.000₫,51.990.000₫,"Title: Sở hữu cấu hình ""quái vật"" khi được trang bị vi xử lý Intel Core thế hệ 14 cùng những cải tiến vượt bậc, Lenovo Legion Pro 5 16IRX9 i9 14900HX (83DF0046VN) sẵn sàng mang đến cho bạn những trải nghiệm chiến game, thiết kế đồ họa đỉnh cao, thỏa mãn mọi đam mê chinh phục thế giới ảo và những công việc khó nhằn.
 Title: Nâng tầm sáng tạo và giải trí với chip Intel Gen 14 và card đồ họa RTX 4070
 Detail: Bộ vi xử lý Intel Core i9 Raptor Lake 14900HX tân tiến từ Intel mang đến cho laptop Lenovo Legion hiệu năng đột phá, sẵn sàng đáp ứng mọi nhu cầu chinh phục của bạn. Tốc độ xung nhịp tối đa lên đến 5.80 GHz cho phép bạn chiến game AAA mượt mà, xử lý nhanh chóng các tác vụ nặng nhọc như dựng video, làm đồ họa, lập trình hay phát triển phần mềm.
@@ -1033,7 +1068,7 @@ Jack tai nghe 3.5 mm
 HDMI
 1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)
 1 x USB Type-C (hỗ trợ DisplayPort 1.4)
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326496/Slider/vi-vn-lenovo-legion-pro-5-16irx9-i9-83df0046vn-sliders-1.jpg và
+1 x USB 3.2 (Always on)",2.5 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326496/Slider/vi-vn-lenovo-legion-pro-5-16irx9-i9-83df0046vn-sliders-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326496/lenovo-legion-pro-5-16irx9-i9-83df0046vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326496/lenovo-legion-pro-5-16irx9-i9-83df0046vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326496/lenovo-legion-pro-5-16irx9-i9-83df0046vn-3-750x500.jpg và
@@ -1047,7 +1082,7 @@ https://cdn.tgdd.vn/Products/Images/44/326496/lenovo-legion-pro-5-16irx9-i9-83df
 https://cdn.tgdd.vn/Products/Images/44/326496/lenovo-legion-pro-5-16irx9-i9-83df0046vn-11-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326496/lenovo-legion-pro-5-16irx9-i9-83df0046vn-12-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326496/lenovo-legion-pro-5-16irx9-i9-83df0046vn-30-638651054223130320-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0046vn
+",https://www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0046vn,https://cdn.tgdd.vn/Products/Images/44/326496/lenovo-legion-pro-5-16irx9-i9-83df0046vn-thumb-600x600.jpg
 Laptop Lenovo Ideapad Slim 5 14IMH9 Ultra 7 155H/32GB/512GB/Win11 (83DA001YVN),27.690.000₫,26.490.000₫,"Title: Laptop Lenovo Ideapad Slim 5 14IMH9 Ultra 7 155H (83DA001YVN) mang đến sự kết hợp hoàn hảo giữa tính di động và hiệu năng mạnh mẽ, đáp ứng mọi nhu cầu sử dụng của bạn. Với thiết kế mỏng nhẹ ấn tượng, cùng bộ vi xử lý Intel Core Ultra 7 thế hệ mới, chiếc laptop này sẵn sàng đồng hành cùng bạn trong mọi hành trình, từ công việc văn phòng hằng ngày đến những tác vụ đồ họa phức tạp.
 Detail: • Sở hữu độ dày chỉ 16.9 mm và khối lượng 1.48 kg, chiếc laptop này là người bạn đồng hành hoàn hảo, dễ dàng cất gọn vào balo hay túi xách, bạn có thể mang theo đến bất kỳ đâu mà không cảm thấy vướng víu hay nặng nề. Laptop còn đạt chuẩn độ bền quân đội MIL STD 810H, hạn chế tối đa tác động ngoại lực, sẵn sàng đồng hành cùng bạn mọi lúc mọi nơi.
 Detail: • Nhập liệu êm ái, hành trình phím thoải mái, cùng hệ thống đèn nền đơn sắc tiện lợi, bàn phím này sẽ đồng hành cùng bạn chinh phục mọi tác vụ trong mọi môi trường ánh sáng.
@@ -1077,7 +1112,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 2 x USB Type-C 3.2 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4)
 1 x USB 3.2
 1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326558/Slider/vi-vn-lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-slider-1.jpg và
+1 x USB 3.2 (Always on)",1.48 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326558/Slider/vi-vn-lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326558/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-1-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326558/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-2-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326558/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-3-1-750x500.jpg và
@@ -1086,7 +1121,7 @@ https://cdn.tgdd.vn/Products/Images/44/326558/lenovo-ideapad-slim-5-14imh9-ultra
 https://cdn.tgdd.vn/Products/Images/44/326558/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-6-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326558/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-7-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326558/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-30-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn
+",https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn,https://cdn.tgdd.vn/Products/Images/44/326558/lenovo-ideapad-slim-5-14imh9-ultra-7-83da001yvn-thumb-600x600.jpg
 Laptop Lenovo ThinkBook 14 Ultra 7 155U/16GB/512GB/Win11 (21MR0072VN),27.390.000₫,26.990.000₫,"Title: Bạn đang tìm kiếm một chiếc laptop mạnh mẽ, đa nhiệm và giá cả phải chăng? Laptop Lenovo ThinkBook 14 Ultra 7 (21MR0072VN) chắc chắn là một lựa chọn đáng cân nhắc. Với cấu hình ấn tượng và thiết kế tiện dụng, chiếc laptop học tập - văn phòng này sẽ giúp người dùng vượt qua mọi thử thách từ công việc đến giải trí.
 Detail: • Lenovo ThinkBook 14 được trang bị chip Intel Core Ultra 7 Meteor Lake - 155U mới nhất với 12 nhân và 14 luồng, tốc độ tối đa lên đến 4.8 GHz nhờ công nghệ Turbo Boost. Điều này giúp người dùng không chỉ tự tin giải quyết mọi vấn đề công việc thường ngày, tạo lập văn bản, sáng tạo ý tưởng đồ hoạ, lập trình dữ liệu,... mà còn đảm nhận luôn được nhiều nhu cầu giải trí, xem phim, lướt web, chơi game,... cá nhân.
 Detail: • GPU Intel Graphics trên laptop Lenovo ThinkBook là công cụ tuyệt vời cho những ai đam mê sáng tạo, tạo hiệu quả cao khi làm việc với các phần mềm đồ họa như Photoshop, Illustrator, Figma và thậm chí là lập trình. Ngoài ra, máy còn đủ sức mạnh để bạn thưởng thức các tựa game phổ biến như FIFA Online 4, League of Legends,... ở cấu hình hợp lý. Khả năng xử lý đồ họa mạnh mẽ này cũng hỗ trợ tốt cho việc thiết kế, chỉnh sửa video ngắn và các dự án sáng tạo khác, mang lại trải nghiệm làm việc và giải trí toàn diện.
@@ -1115,7 +1150,7 @@ HDMI
 1 x USB-C (hỗ trợ Thunderbolt 4 / USB4, USB Power Delivery 3.1 and DisplayPort 2.1)
 1 x USB-C ( hỗ trợ USB 3.2, USB Power Delivery 3.1 và DisplayPort 1.4)
 1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328130/Slider/vi-vn-lenovo-thinkbook-14-ultra-7-21mr0072vn-slider-1.jpg và
+1 x USB 3.2 (Always on)",1.38 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/328130/Slider/vi-vn-lenovo-thinkbook-14-ultra-7-21mr0072vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328130/lenovo-thinkbook-14-ultra-7-21mr0072vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328130/lenovo-thinkbook-14-ultra-7-21mr0072vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328130/lenovo-thinkbook-14-ultra-7-21mr0072vn-3-750x500.jpg và
@@ -1126,7 +1161,7 @@ https://cdn.tgdd.vn/Products/Images/44/328130/lenovo-thinkbook-14-ultra-7-21mr00
 https://cdn.tgdd.vn/Products/Images/44/328130/lenovo-thinkbook-14-ultra-7-21mr0072vn-8-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328130/lenovo-thinkbook-14-ultra-7-21mr0072vn-9-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328130/lenovo-thinkbook-14-ultra-7-21mr0072vn-30-638641729777105105-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-thinkbook-14-ultra-7-21mr0072vn
+",https://www.thegioididong.com/laptop/lenovo-thinkbook-14-ultra-7-21mr0072vn,https://cdn.tgdd.vn/Products/Images/44/328130/lenovo-thinkbook-14-ultra-7-21mr0072vn-thumb-600x600.jpg
 Laptop Lenovo Gaming Legion Slim 5 16AHP9 R7 8845HS/32GB/1TB/8GB RTX4060/165Hz/Win11 (83DH003BVN),44.990.000₫,42.990.000₫,,"Công nghệ CPU:: AMD Ryzen 7 - 8845HS
 Số nhân:: 8
 Số luồng:: 16
@@ -1144,7 +1179,7 @@ HDMI
 1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)
 1 x USB Type-C (hỗ trợ DisplayPort 1.4)
 1 x Headphone/microphone combo
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329111/Slider/vi-vn-lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-slider-1.jpg và
+1 x USB 3.2 (Always on)",2.3 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329111/Slider/vi-vn-lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329111/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329111/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329111/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-3-750x500.jpg và
@@ -1158,7 +1193,7 @@ https://cdn.tgdd.vn/Products/Images/44/329111/lenovo-legion-slim-5-16ahp9-r7-83d
 https://cdn.tgdd.vn/Products/Images/44/329111/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-11-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329111/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-12-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329111/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-30-638651048335278399-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn?utm_flashsale=1
+",https://www.thegioididong.com/laptop/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn,https://cdn.tgdd.vn/Products/Images/44/329111/lenovo-legion-slim-5-16ahp9-r7-83dh003bvn-thumb-600x600.jpg
 Laptop Lenovo V15 G5 IRL Core 5 120U/16GB/512GB/Win11 (83HF0000VN),19.890.000₫,18.490.000₫,"Title: Laptop Lenovo V15 G5 IRL Core 5 120U (83HF0000VN) là sự kết hợp hoàn hảo giữa hiệu suất mạnh mẽ và thiết kế hiện đại, phù hợp cho học sinh, sinh viên và nhân viên văn phòng. Với cấu hình ổn định, dung lượng lưu trữ rộng rãi và vẻ ngoài cuốn hút, sản phẩm này đang được bán với mức giá hấp dẫn tại Thế Giới Di Động.
 Detail: • Trái tim của Lenovo V15 G5 chính là bộ vi xử lý Intel Core 5 Raptor Lake - 120U, gồm 10 nhân và 12 luồng hoạt động cùng công nghệ Turbo Boost, đẩy tốc độ lên tối đa tới 5.0 GHz. Điều này đảm bảo rằng mọi tác vụ, từ công việc văn phòng với Word, Excel, PowerPoint cho đến những ứng dụng đồ họa cơ bản, đều được xử lý mượt mà. Bạn còn có thể dễ dàng làm việc với các nền tảng coding, khiến sản phẩm này trở thành công cụ hữu ích cho cả lập trình viên.
 Detail: • Sở hữu card đồ họa tích hợp Intel Graphics, laptop không chỉ mang lại hình ảnh chất lượng cao cho các hoạt động xem phim, chỉnh sửa ảnh trên Photoshop, AI hay Canva mà còn đủ sức chạy các tựa game nhẹ nhàng để bạn thư giãn sau những giờ làm việc căng thẳng.
@@ -1181,7 +1216,7 @@ Hỗ trợ RAM tối đa:: 32 GB
 2 x USB 3.2
 HDMI
 1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)
-1 x Headphone/microphone combo",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329112/Slider/vi-vn-lenovo-v15-g5-irl-core-5-83hf0000vn-slider-1.jpg và
+1 x Headphone/microphone combo",1.61 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329112/Slider/vi-vn-lenovo-v15-g5-irl-core-5-83hf0000vn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329112/lenovo-v15-g5-irl-core-5-83hf0000vn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329112/lenovo-v15-g5-irl-core-5-83hf0000vn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329112/lenovo-v15-g5-irl-core-5-83hf0000vn-3-750x500.jpg và
@@ -1191,7 +1226,7 @@ https://cdn.tgdd.vn/Products/Images/44/329112/lenovo-v15-g5-irl-core-5-83hf0000v
 https://cdn.tgdd.vn/Products/Images/44/329112/lenovo-v15-g5-irl-core-5-83hf0000vn-7-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329112/lenovo-v15-g5-irl-core-5-83hf0000vn-8-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329112/lenovo-v15-g5-irl-core-5-83hf0000vn-30-638605270315957695-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-v15-g5-irl-core-5-83hf0000vn?utm_flashsale=1
+",https://www.thegioididong.com/laptop/lenovo-v15-g5-irl-core-5-83hf0000vn?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/329112/lenovo-v15-g5-irl-core-5-83hf0000vn-thumb-600x600.jpg
 Laptop Lenovo V14 Core 5 120U/16GB/512GB/Win11 (83HD0001VN),19.490.000₫,18.990.000₫,,"Công nghệ CPU:: Intel Core 5 Raptor Lake - 120U
 Số nhân:: 10
 Số luồng:: 12
@@ -1207,7 +1242,7 @@ Hỗ trợ RAM tối đa:: 32 GB
 Jack tai nghe 3.5 mm
 2 x USB 3.2
 HDMI
-1 x USB Type-C 3.2 (hỗ trợ USB Power Delivery và DisplayPort 1.2)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329736/Slider/vi-vn-lenovo-v14-core-5-83hd0001vn-slider-1.jpg và
+1 x USB Type-C 3.2 (hỗ trợ USB Power Delivery và DisplayPort 1.2)",1.37 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/329736/Slider/vi-vn-lenovo-v14-core-5-83hd0001vn-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329736/lenovo-v14-core-5-83hd0001vn-1-638622541354255171-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329736/lenovo-v14-core-5-83hd0001vn-2-638622541360078370-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329736/lenovo-v14-core-5-83hd0001vn-3-638622541367078669-750x500.jpg và
@@ -1217,52 +1252,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329736/lenovo-v14-core-
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329736/lenovo-v14-core-5-83hd0001vn-7-638622541392318179-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329736/lenovo-v14-core-5-83hd0001vn-8-638622541397645321-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329736/lenovo-v14-core-5-83hd0001vn-30-638622541404034433-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-v14-core-5-83hd0001vn
-Laptop Lenovo Gaming LOQ 15IRX9 i7 13650HX/16GB/512GB/6GB RTX4050/144Hz/Win11 (83DV00D5VN),32.990.000₫,29.690.000₫,"Title: Lenovo khuấy đảo thị trường laptop gaming với siêu phẩm Lenovo LOQ 15IRX9 i7 13650HX (83DV00D5VN) - sự kết hợp hoàn hảo giữa sức mạnh cấu hình đỉnh cao và thiết kế hầm hố, cuốn hút. Sở hữu chip Intel thế hệ 13 mạnh mẽ cùng card đồ họa RTX 40 series, sẵn sàng cùng bạn chinh phục mọi tựa game, mang đến những trải nghiệm chiến game đỉnh cao và mượt mà nhất.
-Detail: • Bộ vi xử lý Intel Core i7 Raptor Lake - 13650HX sở hữu cấu trúc 14 nhân và 20 luồng, cho phép bạn chinh phục mọi thử thách. Xung nhịp tối đa lên đến 4.9 GHz mang đến hiệu suất vượt trội, giúp bạn xử lý mọi tác vụ một cách mượt mà và nhanh chóng, bất kể là game nặng, thiết kế đồ họa phức tạp hay lập trình nâng cao.
-Detail: • Được trang bị card đồ họa NVIDIA GeForce RTX 4050 6 GB cùng công nghệ AI Chip LA1 tiên tiến, chiếc laptop gaming của nhà Lenovo sẽ mang đến cho bạn sức mạnh đồ họa vượt trội. Khi chiến game với mức đồ họa cao các khung hình luôn được tái tạo sắc nét hay xử lý các công việc thiết kế 3D nặng thì vẫn có thể hoàn thành một cách mượt mà, trơn tru. 
-Detail: • Với bộ nhớ RAM 16 GB DDR5 tốc độ Bus cao 4800 MHz, chiếc laptop Lenovo này cho phép bạn thoải mái đa nhiệm, mở nhiều ứng dụng nặng hay nhiều cửa sổ trình duyệt cùng lúc mà không lo hiện tượng giật lag, đơ máy khó chịu. Bạn có thể thoải mái sáng tạo, làm việc và giải trí mà không gặp bất kỳ trở ngại nào. Bên cạnh đó, máy còn hỗ trợ RAM tối đa 32 GB, bạn có thể nâng cấp dễ dàng khi nhu cầu sử dụng ngày một cao.
-Detail: • Ổ cứng SSD 512 GB NVMe PCIe trên Lenovo LOQ mang đến tốc độ khởi động máy, tải game và ứng dụng siêu nhanh, giúp bạn tiết kiệm thời gian và tối ưu hiệu quả công việc. Bạn cũng có thể thoải mái lưu trữ tài liệu, phim ảnh, game yêu thích mà không lo thiếu dung lượng. Khả năng mở rộng không gian lưu trữ lên đến 1 TB cho phép bạn nâng cấp dễ dàng khi cần thiết.
-Detail: • Màn hình 15.6 inch vô cùng rộng rãi được trang bị tấm nền IPS hiện đại cùng độ phân giải Full HD (1920 x 1080), mang đến cho bạn những hình ảnh tươi tắn, sắc nét và sống động đến từng chi tiết. Góc nhìn rộng lên đến 178 độ cho phép bạn thưởng thức hình ảnh rõ ràng từ mọi hướng, dù bạn đang nhìn màn hình trực diện hay từ hai bên.
-Detail: • Tận hưởng những pha giao tranh gay cấn hay những màn di chuyển tốc độ cao trong game với màn hình tần số quét 144 Hz cùng công nghệ G-Sync tiên tiến. Mọi chuyển động trong game của bạn sẽ trở nên mượt mà và sống động hơn bao giờ hết, hạn chế tối đa hiện tượng xé hình hay nhòe hình, giúp bạn dễ dàng nắm bắt từng khoảnh khắc quan trọng và đưa ra chiến thuật hiệu quả trong từng trận chiến.
-Detail: • Màn hình của laptop đạt thông số 100% sRGB, mang đến cho bạn khả năng hiển thị màu sắc chính xác và chân thực nhất. Nhờ vậy, bạn có thể yên tâm thực hiện các công việc chỉnh sửa ảnh, video đòi hỏi độ chuẩn màu cao mà không lo sai lệch màu sắc, đảm bảo thành phẩm luôn hoàn hảo.
-Detail: • Công nghệ Nahimic Audio mang đến hiệu ứng âm thanh 3D đầy ấn tượng giúp bạn cảm nhận được âm thanh phát ra từ mọi hướng, tạo nên một không gian âm thanh rộng lớn và sống động như thật. Âm bass mạnh mẽ, âm trung rõ ràng và âm cao chi tiết sẽ mang đến cho bạn những giây phút giải trí tuyệt vời nhất.
-Detail: • Laptop Lenovo LOQ Gaming sở hữu thiết kế đậm chất gaming với phần gù đặc trưng, khoác lên mình tông màu xám hiện đại và bộ khung chắc chắn, mang đến diện mạo đầy cá tính và không thể trộn lẫn. Khối lượng 2.38 kg bạn vẫn có thể để vào balo mang đi nhiều nơi, sẵn sàng cùng bạn chinh phục mọi thử thách.
-Detail: • Webcam Full HD sắc nét được tích hợp sẵn giúp bạn dễ dàng giao lưu, chia sẻ khoảnh khắc với bạn bè. Khi không sử dụng, bạn có thể an tâm bảo vệ sự riêng tư với công tắc khóa camera tiện lợi. Thêm vào đó, đèn bàn phím LED RGB - 4 vùng rực rỡ sẽ mang đến cho bạn trải nghiệm chơi game đầy sống động ngay cả trong môi trường thiếu sáng.
-Detail: • Đa dạng các cổng kết nối cần thiết ở cạnh bên và sau của laptop gồm: LAN (RJ45), Jack tai nghe 3.5 mm, USB 3.2, HDMI và USB-C 3.2.
-","Công nghệ CPU:: Intel Core i7 Raptor Lake - 13650HX
-Số nhân:: 14
-Số luồng:: 20
-Tốc độ CPU:: 2.6GHz
-Tốc độ tối đa:: Turbo Boost 4.9 GHz
-Bộ nhớ đệm:: 24 MB
-","RAM:: 16 GB
-Loại RAM:: DDR5 2 khe (1 khe 16 GB + 1 khe rời)
-Tốc độ Bus RAM:: 4800 MHz
-Hỗ trợ RAM tối đa:: 32 GB
-","Ổ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
-","Card rời - NVIDIA GeForce RTX 4050, 6 GB","15.6""",60 Wh,Full HD (1920 x 1080),"LAN (RJ45)
-Jack tai nghe 3.5 mm
-3 x USB 3.2
-HDMI
-1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-1-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-2-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-3-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-4-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-5-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-6-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-7-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-8-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-9-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-10-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-11-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-12-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-13-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-14-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-15-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/lenovo-loq-15irx9-i7-83dv00d5vn-30-750x500.jpg và
-https://cdn.tgdd.vn/Products/Images/44/325504/Kit/lenovo-loq-15irx9-i7-83dv00d5vn-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/lenovo-loq-15irx9-i7-83dv00d5vn
+",https://www.thegioididong.com/laptop/lenovo-v14-core-5-83hd0001vn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329736/lenovo-v14-core-5-83hd0001vn-thumb-638622541762968286-600x600.jpg
 Laptop Lenovo ThinkPad T14s i7 1355U/32GB/512GB/Touch/Win11 Pro (21F6007XVN),45.690.000₫,44.990.000₫,"Title: Laptop Lenovo ThinkPad T14s i7 1355U (21F6007XVN) được hoàn thiện với bề ngoài chắc chắn, cấu hình mạnh mẽ với con chip Intel Gen 13, lượng tài nguyên RAM, SSD ổn định. Đây chính xác là mẫu laptop kỹ thuật dành cho kiến trúc, dự án và các công trình.
 Detail: • Màn hình 14 inch với độ phân giải WUXGA (1920 x 1200) và tấm nền IPS của laptop Lenovo mang đến hình ảnh sắc nét, sống động và góc nhìn rộng. Kích thước khung hình khá lý tưởng cùng khả năng hiển thị chuẩn xác màu sắc lý tưởng cho công việc, hỗ trợ bạn trình chiếu nhiều nội dung hút mắt hơn, nâng độ tập trung và tăng năng suất làm việc.
 Detail: • Màn hình laptop còn sở hữu một chuẩn màu khá cao 100% sRGB là trợ thủ lớn cho các anh em đồ hoạ, kiến trúc sư trong thiết kế và render hình ảnh, đỡ tốn thời gian phải đi căn chỉnh lại màu sắc cho chuẩn xác. Thêm vào đó là khả năng cảm ứng đa chạm tiện dụng, kéo thả, nhấn chạm các phương tiện trực tiếp trên màn hình mà không phải thông qua chuột và touchpad.
@@ -1289,7 +1279,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 1 x Headphone/microphone combo
 2 x Thunderbolt 4 / USB 4 (hỗ trợ truyền dữ liệu, Power Delivery 3.0 and DisplayPort 2.0)
-1 x USB 3.2 (Always on)",Windows 11 Pro,"https://cdn.tgdd.vn/Products/Images/44/328125/Slider/vi-vn-lenovo-thinkpad-t14s-i7-21f6007xvn-1.jpg và
+1 x USB 3.2 (Always on)",1.48 kg,Windows 11 Pro,"https://cdn.tgdd.vn/Products/Images/44/328125/Slider/vi-vn-lenovo-thinkpad-t14s-i7-21f6007xvn-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328125/lenovo-thinkpad-t14s-i7-21f6007xvn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328125/lenovo-thinkpad-t14s-i7-21f6007xvn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328125/lenovo-thinkpad-t14s-i7-21f6007xvn-3-750x500.jpg và
@@ -1301,7 +1291,7 @@ https://cdn.tgdd.vn/Products/Images/44/328125/lenovo-thinkpad-t14s-i7-21f6007xvn
 https://cdn.tgdd.vn/Products/Images/44/328125/lenovo-thinkpad-t14s-i7-21f6007xvn-9-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328125/lenovo-thinkpad-t14s-i7-21f6007xvn-10-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328125/lenovo-thinkpad-t14s-i7-21f6007xvn-30-638641726220123929-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-thinkpad-t14s-i7-21f6007xvn
+",https://www.thegioididong.com/laptop/lenovo-thinkpad-t14s-i7-21f6007xvn,https://cdn.tgdd.vn/Products/Images/44/328125/lenovo-thinkpad-t14s-i7-21f6007xvn-thumb-600x600.jpg
 Laptop Lenovo Thinkpad X13 Ultra 5 125U/16GB/512GB/Win11 Pro (21LU004NVN),34.990.000₫,33.990.000₫,"Title: Laptop Lenovo Thinkpad X13 Ultra 5 125U (21LU004NVN) - dòng sản phẩm dành riêng cho những bản thiết kế, công trình nhờ hiệu suất xử lý mạnh mẽ cùng nhiều tính năng bảo mật hàng đầu. Với những thông số kỹ thuật ấn tượng, đây chắc chắn là một trong những lựa chọn hàng đầu cho các chuyên gia và nhà thiết kế.
 Detail: • Thinkpad X13 được trang bị bộ vi xử lý Intel Core Ultra 5 Meteor Lake - 125U dòng chip tích hợp nhân xử lý AI - NPU mới nhất nhà Intel, mang đến hiệu suất mạnh mẽ, giúp bạn dễ dàng xử lý mọi tác vụ từ văn phòng đơn giản đến phát triển ứng dụng phức tạp. Kết hợp với Intel Graphics giúp người dùng render video 4K, lập trình hay thiết kế đồ hoạ 3D mà không bị giật lag.
 Detail: • Không chỉ là một chiếc máy làm việc xuất sắc, chiếc laptop Lenovo này còn mang lại những giây phút giải trí đỉnh cao khi giúp người dùng có thể thưởng thức các tựa game hot với đồ họa tuyệt đẹp và tốc độ khung hình ổn định. Đồng thời, tối ưu khả năng xử lý vấn đề và thời lượng sử dụng pin nhờ vào trí tuệ nhân tạo sắp xếp các luồng công việc hợp lý cũng là điểm sáng giá trên mẫu chip mới này.
@@ -1329,7 +1319,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 1 x Headphone/microphone combo
 2 x USB-C (hỗ trợ Thunderbolt 4/USB 4, USB Power Delivery 3.0 và DisplayPort 2.1)
-1 x USB 3.2 (Always on)",Windows 11 Pro,"https://cdn.tgdd.vn/Products/Images/44/328134/Slider/vi-vn-lenovo-thinkpad-x13-ultra-5-21lu004nvn-slider-1.jpg và
+1 x USB 3.2 (Always on)",1.17 kg,Windows 11 Pro,"https://cdn.tgdd.vn/Products/Images/44/328134/Slider/vi-vn-lenovo-thinkpad-x13-ultra-5-21lu004nvn-slider-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328134/lenovo-thinkpad-x13-ultra-5-21lu004nvn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328134/lenovo-thinkpad-x13-ultra-5-21lu004nvn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328134/lenovo-thinkpad-x13-ultra-5-21lu004nvn-3-750x500.jpg và
@@ -1341,7 +1331,7 @@ https://cdn.tgdd.vn/Products/Images/44/328134/lenovo-thinkpad-x13-ultra-5-21lu00
 https://cdn.tgdd.vn/Products/Images/44/328134/lenovo-thinkpad-x13-ultra-5-21lu004nvn-9-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328134/lenovo-thinkpad-x13-ultra-5-21lu004nvn-10-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328134/lenovo-thinkpad-x13-ultra-5-21lu004nvn-30-638641727020693954-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-thinkpad-x13-ultra-5-21lu004nvn
+",https://www.thegioididong.com/laptop/lenovo-thinkpad-x13-ultra-5-21lu004nvn,
 Laptop Lenovo Gaming Legion Pro 7 16IRX9H i9 14900HX/32GB/1TB/16GB RTX4090/240Hz/Win11 (83DE001MVN),106.990.000₫,96.990.000₫,"Title: Cỗ máy chiến game xuất thần với cấu hình vượt trội từ bộ đôi CPU Intel i9 dòng HX cùng card rời RTX 4090, laptop Lenovo Gaming Legion Pro 7 16IRX9H i9 14900HX (83DE001MVN) mang lại khả năng đáp ứng khủng, sẽ cùng bạn lấp đầy những đam mê giải trí đỉnh cao nhất.
 Title: Chiến hết mình trong mọi tình huống
 Detail: Sức mạnh tuyệt đỉnh từ CPU Intel Core i9 14900HX gồm 24 nhân và 32 luồng, tốc độ cơ bản 2.20 GHz và khả năng tăng tốc lên đến 5.8 GHz nhờ Turbo Boost, bộ vi xử lý này giống như một trái tim mạnh mẽ, đảm bảo mọi tác vụ từ nhẹ nhàng đến phức tạp nhất đều được thực hiện một cách trơn tru và nhanh chóng. Việc xử lý các dạng file CAD cho dự án 3D, dựng phim ảnh 4K hay chiến thoả thích trong những con game AAA nặng nhất trên thị trường hiện nay đều không thành vấn đề.
@@ -1372,7 +1362,7 @@ Jack tai nghe 3.5 mm
 HDMI
 1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)
 1 x USB Type-C (hỗ trợ USB 4, DisplayPort và Thunderbolt 4)
-1 x USB 3.2 (Always on)",Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326495/Slider/vi-vn-lenovo-legion-pro-7-16irx9h-i9-83de001mvn-sliders-1.jpg và
+1 x USB 3.2 (Always on)",2.62 kg,Windows 11 Home SL,"https://cdn.tgdd.vn/Products/Images/44/326495/Slider/vi-vn-lenovo-legion-pro-7-16irx9h-i9-83de001mvn-sliders-1.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326495/lenovo-legion-pro-7-16irx9h-i9-83de001mvn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326495/lenovo-legion-pro-7-16irx9h-i9-83de001mvn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326495/lenovo-legion-pro-7-16irx9h-i9-83de001mvn-3-750x500.jpg và
@@ -1387,7 +1377,7 @@ https://cdn.tgdd.vn/Products/Images/44/326495/lenovo-legion-pro-7-16irx9h-i9-83d
 https://cdn.tgdd.vn/Products/Images/44/326495/lenovo-legion-pro-7-16irx9h-i9-83de001mvn-12-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/326495/lenovo-legion-pro-7-16irx9h-i9-83de001mvn-13-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326495/lenovo-legion-pro-7-16irx9h-i9-83de001mvn-30-638651052375399587-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-legion-pro-7-16irx9h-i9-83de001mvn
+",https://www.thegioididong.com/laptop/lenovo-legion-pro-7-16irx9h-i9-83de001mvn,
 Laptop Lenovo Thinkpad X13 Ultra 7 155H/32GB/1TB/Touch/Win11 Pro (21LU004LVN),45.590.000₫,44.990.000₫,,"Công nghệ CPU:: Intel Core Ultra 7 Meteor Lake - 155H
 Số nhân:: 16
 Số luồng:: 22
@@ -1403,7 +1393,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 1 x USB 3.2
 1 x Headphone/microphone combo
 2 x USB-C (hỗ trợ Thunderbolt 4/USB 4, USB Power Delivery 3.0 và DisplayPort 2.1)
-1 x USB 3.2 (Always on)",Windows 11 Pro,"https://cdn.tgdd.vn/Products/Images/44/329113/Slider/lenovo-thinkpad-x13-ultra-7-21lu004lvn-1-1020x570.jpg và
+1 x USB 3.2 (Always on)",1.17 kg,Windows 11 Pro,"https://cdn.tgdd.vn/Products/Images/44/329113/Slider/lenovo-thinkpad-x13-ultra-7-21lu004lvn-1-1020x570.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329113/lenovo-thinkpad-x13-ultra-7-21lu004lvn-1-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329113/lenovo-thinkpad-x13-ultra-7-21lu004lvn-2-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329113/lenovo-thinkpad-x13-ultra-7-21lu004lvn-3-750x500.jpg và
@@ -1415,4 +1405,4 @@ https://cdn.tgdd.vn/Products/Images/44/329113/lenovo-thinkpad-x13-ultra-7-21lu00
 https://cdn.tgdd.vn/Products/Images/44/329113/lenovo-thinkpad-x13-ultra-7-21lu004lvn-9-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/329113/lenovo-thinkpad-x13-ultra-7-21lu004lvn-10-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/329113/lenovo-thinkpad-x13-ultra-7-21lu004lvn-30-638605270516511857-750x500.jpg và
-",https://www.thegioididong.com/laptop/lenovo-thinkpad-x13-ultra-7-21lu004lvn
+",https://www.thegioididong.com/laptop/lenovo-thinkpad-x13-ultra-7-21lu004lvn,
