@@ -8,10 +8,8 @@ from time import sleep
 from csv_function import save_brands_to_csv, save_product_links_to_csv, read_brand_links_from_csv, read_product_links_from_csv, save_product_info_to_csv
 from crawler import crawl_brands, crawl_brand_product_links, crawl_product_info
 from crawler import initDriverProfile
+from crawler import random_sleep
 
-def random_sleep():
-    sleep(random.randint(2, 5))
-    
 # main functions
 def get_brands(driver):
     brand_list = crawl_brands(driver)
@@ -41,12 +39,15 @@ def get_brand_product_links(driver):
 
 def process_product_link(driver, brand_name, links):
     product_info_list = []
+    counter = 0
     for link in links:
-        print(f"Processing link for {brand_name}: {link['product_link']}")
+        counter += 1
+        print(f"Processing link for {brand_name} ({counter}/{len(links)}): {link['product_link']}")
 
         product_info = crawl_product_info(driver, link['product_link'])
         product_info['actual_price'] = link['actual_price']
         product_info['discount_price'] = link['discount_price']
+        product_info['product_general_img_link'] = link['product_general_img_link']
         product_info_list.append(product_info)
         
         random_sleep()

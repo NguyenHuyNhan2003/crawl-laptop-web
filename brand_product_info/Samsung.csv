@@ -1,4 +1,4 @@
-product_name,actual_price,discount_price,description,processor,ram,storage,graphic_card,display_size,battery,resolution,ports,operating_system,image_link,product_link
+product_name,actual_price,discount_price,description,processor,ram,storage,graphic_card,display_size,battery,resolution,ports,weight,operating_system,image_link,product_link,product_general_img_link
 Laptop Samsung Galaxy Chromebook Go XE310XDA N4500/4GB/32GB/ChromeOS,9.990.000₫,7.990.000₫,"Title: Bạn muốn tìm một mẫu laptop cho sinh viên trong học tập, nhân viên văn phòng trong mọi việc hàng ngày có cấu hình ổn định nhưng lại không có mức giá thành quá cao. Laptop Samsung Galaxy Chromebook Go XE310XDA N4500 chắc chắn là sự lựa chọn đáng cân nhắc nhất trong phân khúc. 
 Detail: • Chromebook là dòng máy tính xách tay nhỏ gọn, bền bỉ, an toàn với khả năng bảo mật cao, hoạt động trên nền tảng hệ điều hành Google Chrome. Được thiết kế để tối ưu hóa việc sử dụng các dịch vụ đám mây, Chromebook cho phép mọi hoạt động từ lưu trữ tệp tin đến sử dụng ứng dụng đều được thực hiện trực tuyến. Điều này giúp đồng bộ hóa dữ liệu dễ dàng trên mọi thiết bị mà bạn đăng nhập.
 Detail: • Cho trẻ tham gia thế giới trực tuyến một cách an toàn với hệ điều hành Chrome OS sự quản lý của phụ huynh, định vị được trẻ khi di chuyển. Ngoài ra, nó còn hỗ trợ một số tính năng thông minh như chỉnh sửa video, viết code, vẽ,...
@@ -21,7 +21,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ","Ổ cứng:: eMMC 32 GB
 ",Card tích hợp - Intel UHD Graphics,"11.6""","2 cell Li-ion, 40.2 Wh",HD (1366 x 768),"Jack tai nghe 3.5 mm
 1 x USB 3.2
-1 x USB Type-C (chỉ hỗ trợ Power Delivery)",Chrome OS,"https://cdn.tgdd.vn/Products/Images/44/328599/Slider/vi-vn-samsung-galaxy-chromebook-go-xe310xda-n4500-slider-1.jpg và
+1 x USB Type-C (chỉ hỗ trợ Power Delivery)",1.06 kg,Chrome OS,"https://cdn.tgdd.vn/Products/Images/44/328599/Slider/vi-vn-samsung-galaxy-chromebook-go-xe310xda-n4500-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328599/samsung-galaxy-chromebook-go-xe310xda-n4500-glr-1-638618364641044774-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328599/samsung-galaxy-chromebook-go-xe310xda-n4500-glr-2-638618364646794624-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328599/samsung-galaxy-chromebook-go-xe310xda-n4500-glr-3-638618364654064766-750x500.jpg và
@@ -39,7 +39,7 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328599/samsung-galaxy-c
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328599/samsung-galaxy-chromebook-go-xe310xda-n4500-glr-15-638618364755233434-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328599/samsung-galaxy-chromebook-go-xe310xda-n4500-glr-16-638618364762677685-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328599/Kit/samsung-galaxy-chromebook-go-xe310xda-n4500-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/samsung-galaxy-chromebook-go-xe310xda-n4500
+",https://www.thegioididong.com/laptop/samsung-galaxy-chromebook-go-xe310xda-n4500,https://cdn.tgdd.vn/Products/Images/44/328599/samsung-galaxy-chromebook-go-xe310xda-n4500-130924-030342-600x600.jpg
 Laptop Samsung Galaxy Chromebook Go XE340XDA N4500/4GB/32GB/ChromeOS,11.990.000₫,8.990.000₫,"Title: Bạn đang tìm kiếm một chiếc laptop học tập và văn phòng giúp xử lý hiệu quả mọi tác vụ công việc và giải trí hàng ngày? Hãy cân nhắc đến laptop Samsung Galaxy Chromebook Go XE340XDA N4500, một thiết bị mang lại hiệu năng ổn định, thiết kế tinh tế và mức giá lý tưởng, chắc chắn sẽ đáp ứng đầy đủ nhu cầu của bạn.
 Detail: • Chromebook là chiếc máy tính xách tay nhẹ, bền, an toàn, bảo mật tốt, chạy với hệ điều hành Google Chrome - được thiết kế nhằm hoạt động chính trên đám mây. Điều này nghĩa là mọi tính năng từ file, ứng dụng,... đều hoạt động online (không hoạt động cục bộ trong máy tính xách tay của bạn) và nó sẽ đồng bộ hoá ở tất cả thiết bị mà bạn đăng nhập.
 Detail: • Với hệ điều hành Chrome OS cho bạn nhiều tính năng thú vị như chỉnh sửa video, học cách viết code hay vẽ nhiều tác phẩm nghệ thuật. Ngoài ra, nó cũng hỗ trợ tạo tài khoản giám sát cho trẻ, định vị trẻ em dù đang ở bất cứ đâu.
@@ -61,7 +61,7 @@ Hỗ trợ RAM tối đa:: Không hỗ trợ nâng cấp
 ","Ổ cứng:: eMMC 32 GB
 ",Card tích hợp - Intel UHD Graphics,"14""","2 cell Li-ion, 42.3 Wh",HD (1366 x 768),"Jack tai nghe 3.5 mm
 1 x USB 3.2
-2 x USB Type-C",Chrome OS,"https://cdn.tgdd.vn/Products/Images/44/328598/Slider/vi-vn-samsung-galaxy-chromebook-go-xe340xda-n4500-slider-1.jpg và
+2 x USB Type-C",1.145 kg,Chrome OS,"https://cdn.tgdd.vn/Products/Images/44/328598/Slider/vi-vn-samsung-galaxy-chromebook-go-xe340xda-n4500-slider-1.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328598/samsung-galaxy-chromebook-go-xe340xda-n4500-glr-1-638618349969525771-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328598/samsung-galaxy-chromebook-go-xe340xda-n4500-glr-2-638618349977466372-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328598/samsung-galaxy-chromebook-go-xe340xda-n4500-glr-3-638618349984309102-750x500.jpg và
@@ -79,4 +79,4 @@ https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328598/samsung-galaxy-c
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328598/samsung-galaxy-chromebook-go-xe340xda-n4500-glr-15-638618350057860693-750x500.jpg và
 https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/328598/samsung-galaxy-chromebook-go-xe340xda-n4500-glr-16-638618350064399772-750x500.jpg và
 https://cdn.tgdd.vn/Products/Images/44/328598/Kit/samsung-galaxy-chromebook-go-xe340xda-n4500-bbh-org.jpg và
-",https://www.thegioididong.com/laptop/samsung-galaxy-chromebook-go-xe340xda-n4500
+",https://www.thegioididong.com/laptop/samsung-galaxy-chromebook-go-xe340xda-n4500,https://cdn.tgdd.vn/Products/Images/44/328598/samsung-galaxy-chromebook-go-xe340xda-n4500-thumb-600x600.jpg

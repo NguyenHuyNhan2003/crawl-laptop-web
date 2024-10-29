@@ -28,7 +28,8 @@ def save_product_links_to_csv(product_link_list, brand_name):
         writer = csv.DictWriter(file, fieldnames=[
             'actual_price',
             'discount_price',
-            'product_link'
+            'product_link',
+            'product_general_img_link'
         ])
         
         writer.writeheader()
@@ -38,7 +39,8 @@ def save_product_links_to_csv(product_link_list, brand_name):
             writer.writerow({
                 'actual_price': link['actual_price'],
                 'discount_price': link['discount_price'],
-                'product_link': link['product_link']
+                'product_link': link['product_link'],
+                'product_general_img_link': link['product_general_img_link']
             })
             
     print(f"Data saved to {csv_file}")
@@ -60,9 +62,11 @@ def save_product_info_to_csv(product_info_list, brand_name):
             'battery',
             'resolution',
             'ports',
+            'weight',
             'operating_system',
             'image_link',
-            'product_link'
+            'product_link',
+            'product_general_img_link'
         ])
         
         writer.writeheader()
@@ -82,9 +86,11 @@ def save_product_info_to_csv(product_info_list, brand_name):
                 'battery': product['battery'],
                 'resolution': product['resolution'],
                 'ports': product['ports'],
+                'weight': product['weight'],
                 'operating_system': product['operating_system'],
                 'image_link': product['image_link'],
-                'product_link': product['product_link']
+                'product_link': product['product_link'],
+                'product_general_img_link': product['product_general_img_link']
             })
             
     print(f"Data saved to {csv_file}")
@@ -93,11 +99,8 @@ def read_brand_links_from_csv():
     csv_file = 'brands.csv'
     brand_list = []
     with open(csv_file, mode='r', encoding='utf-8') as file:
-        reader = csv.reader(file)
-        
-        # skip the header
-        next(reader)
-                
+        reader = csv.DictReader(file) 
+                        
         for row in reader:
             brand_list.append({
                 'brand_name': row['brand_name'],
@@ -130,7 +133,8 @@ def read_product_links_from_csv():
                     {
                         'actual_price': row[0],
                         'discount_price': row[1],
-                        'product_link': row[2]
+                        'product_link': row[2],
+                        'product_general_img_link': row[3]
                     }
                     for row in reader if row
                 ]

@@ -1,4 +1,5 @@
 import os
+import random
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -10,6 +11,9 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support import expected_conditions as EC
 
 webpage_url = 'https://www.thegioididong.com/laptop' #'https://cellphones.com.vn/laptop.html'
+
+def random_sleep():
+    sleep(random.randint(2, 5))
 
 def element_xpath_exists(driver, xpath):
     try:
@@ -132,6 +136,13 @@ def crawl_brand_product_links(driver, brand_link, brand_name):
         
         # get product link
         product_link = product.find_element(By.TAG_NAME, 'a').get_attribute('href')
+        
+        # get general image link
+        img_item = product.find_element(By.CLASS_NAME, 'item-img')
+        img_tag = img_item.find_elements(By.TAG_NAME, 'img')[0]
+        product_general_img_link = img_tag.get_attribute('src')
+        
+        # get price
         actual_price = product.find_element(By.CLASS_NAME, 'price').text
         if element_class_name_exists(product, 'price-old'):
             discount_price = actual_price
@@ -139,7 +150,8 @@ def crawl_brand_product_links(driver, brand_link, brand_name):
         product_link_list.append({
             'product_link': product_link,
             'actual_price': actual_price,
-            'discount_price': discount_price
+            'discount_price': discount_price,
+            'product_general_img_link': product_general_img_link
         })
         
     return product_link_list
@@ -260,6 +272,23 @@ def crawl_battery_and_os(driver, specification_box, wait):
     
     return battery, operating_system
 
+def crawl_weight(driver, specification_box, wait):
+    weight = ''
+    try:
+        specification_box.click()
+    
+        ul = specification_box.find_element(By.TAG_NAME, 'ul')
+        li_list = ul.find_elements(By.TAG_NAME, 'li')
+        for li in li_list:
+            aside_tags = li.find_elements(By.TAG_NAME, 'aside')
+            if aside_tags[0].text == 'Khối lượng tịnh:':
+                weight += aside_tags[1].text
+                
+    except Exception as e:
+        print(f"Error getting weight: {e}")
+        
+    return weight
+
 def crawl_product_description(driver, product_link):
     # description
     driver.get(product_link)
@@ -321,8 +350,10 @@ def crawl_product_info(driver, product_link):
     product_resolution = ''
     product_ports = ''
     product_operating_system = ''
+    product_weight = ''
     # image link
     product_image_link = ''
+    product_general_img_link = ''
 
     # product name
     try:
@@ -378,6 +409,9 @@ def crawl_product_info(driver, product_link):
         # ports
         product_ports = crawl_ports(driver, specification_boxes[4], wait)
         
+        # weight
+        product_weight = crawl_weight(driver, specification_boxes[5], wait)
+        
         # battery & operating system
         product_battery, product_operating_system = crawl_battery_and_os(driver, specification_boxes[6], wait)
 
@@ -399,7 +433,9 @@ def crawl_product_info(driver, product_link):
         'battery': product_battery, # Pin
         'resolution': product_resolution, # Độ phân giải màn hình 
         'ports': product_ports, # Cổng giao tiếp 
+        'weight': product_weight, # Khối lượng
         'operating_system': product_operating_system, # Hệ điều hành
         'image_link': product_image_link,
-        'product_link': product_link
+        'product_link': product_link,
+        'product_general_img_link': product_general_img_link
     }
