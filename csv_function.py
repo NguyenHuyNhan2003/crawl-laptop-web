@@ -100,7 +100,7 @@ def read_brand_links_from_csv():
     brand_list = []
     with open(csv_file, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file) 
-                        
+
         for row in reader:
             brand_list.append({
                 'brand_name': row['brand_name'],
@@ -141,3 +141,80 @@ def read_product_links_from_csv():
                 product_links.append({brand_name: file_info})
                 
     return product_links
+
+def update_csv_with_product_links(product_link_list, brand_name):
+    csv_file = f"./brand_product_links/{brand_name}_link.csv"
+    existing_data = {}
+
+    # Load existing data if the file exists
+    if os.path.exists(csv_file):
+        with open(csv_file, mode='r', newline='', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                existing_data[row['product_link']] = row
+
+    # Update actual_price and discount_price for existing product
+    for product in product_link_list:
+        if product['product_link'] in existing_data:
+            # Update the prices for existing product
+            existing_data[product['product_link']]['actual_price'] = product['actual_price']
+            existing_data[product['product_link']]['discount_price'] = product['discount_price']
+
+    # Write updated data back to CSV
+    with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=[
+            'actual_price',
+            'discount_price',
+            'product_link',
+            'product_general_img_link'
+        ])
+        writer.writeheader()
+        writer.writerows(existing_data.values())
+    
+    print(f"Updated data saved to {csv_file}")
+    
+def update_product_info_csv(product_info_list, brand_name):
+    csv_file = f"./brand_product_info/{brand_name}.csv"
+    existing_data = {}
+
+    # Load existing data if the file exists
+    if os.path.exists(csv_file):
+        with open(csv_file, mode='r', newline='', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                existing_data[row['product_link']] = row
+
+    # Update or add product information
+    for product in product_info_list:
+        if product['product_link'] in existing_data:
+            # Update fields for existing product
+            existing_data[product['product_link']]['actual_price'] = product['actual_price']
+            existing_data[product['product_link']]['discount_price'] = product['discount_price']
+            existing_data[product['product_link']]['product_general_img_link'] = product['product_general_img_link']
+
+    # Write updated data back to CSV
+    with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, fieldnames=[
+            'product_name',
+            'actual_price',
+            'discount_price',
+            'description',
+            'processor',
+            'ram',
+            'storage',
+            'graphic_card',
+            'display_size',
+            'battery',
+            'resolution',
+            'ports',
+            'weight',
+            'operating_system',
+            'image_link',
+            'product_link',
+            'product_general_img_link'
+        ])
+        
+        writer.writeheader()
+        writer.writerows(existing_data.values())
+    
+    print(f"Updated data saved to {csv_file}")

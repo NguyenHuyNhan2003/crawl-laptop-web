@@ -133,7 +133,6 @@ def crawl_brand_product_links(driver, brand_link, brand_name):
     )))
 
     for product in product_container:
-        
         # get product link
         product_link = product.find_element(By.TAG_NAME, 'a').get_attribute('href')
         
@@ -144,9 +143,11 @@ def crawl_brand_product_links(driver, brand_link, brand_name):
         
         # get price
         actual_price = product.find_element(By.CLASS_NAME, 'price').text
+        discount_price = actual_price
+        
         if element_class_name_exists(product, 'price-old'):
-            discount_price = actual_price
             actual_price = product.find_element(By.CLASS_NAME, 'price-old').text
+            
         product_link_list.append({
             'product_link': product_link,
             'actual_price': actual_price,
